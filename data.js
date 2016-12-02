@@ -1,3844 +1,3034 @@
-[["AER1200",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-505",
-  "De: André, Bruno Alain Tomasz à Meideros, Alexandre"
-],["AER1200",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-506",
-  "De: Millien, Kevin à Zeni, Valentine"
-],["AER2100",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["AER2400",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-512",
-  " "
-],["AER3205",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-512",
-  " "
-],["AER3640",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "A-410",
-  " "
-],["AER4345",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-401",
-  "De: Alain, Pierre-Olivier à Lambert, Laurier"
-],["AER4345",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-411",
-  "De: Lanoue, Guillaume à Xhaferi, Klaud"
-],["AER4400",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "A-533",
-  " "
-],["AER4715",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-401",
-  " "
-],["AER8410",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "L-6612",
-  "De : Beheshti, Mohammad Hossein à Lagassé, Sébastien"
-],["AER8410",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "L-6614",
-  "De : Lallet, Pierre à Zhu, Yiran"
-],["CHE0501",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "13:30",
-  "A-604",
-  " "
-],["CHE0501",
-  "2",
-  "Mercredi",
-  "14 Décembre",
-  "13:30",
-  "B-638",
-  " "
-],["CIV1101",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-316",
-  "De : Abderahim, Issa Abderahim à Kalem, Mohamed Anis"
-],["CIV1101",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "A-416",
-  "De : Knis, Ahmed Ihsen à Zakaria, Hatim"
-],["CIV1101",
-  "2",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-505",
-  "De : Abbas, Mohamed Anis à Kemguerbaye, Kodjitebaye"
-],["CIV1101",
-  "2",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "C-539.4",
-  "De : Kordane, El Mehdi à Zambo Nguele, Aymeric Franck"
-],["CIV1120",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "L-6613",
-  " "
-],["CIV1120",
-  "2",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "L-6614",
-  "De : Amisi, Arnold Kampanga à Perret, Vincent"
-],["CIV1120",
-  "2",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "L-6616",
-  "De : Pez, Tristan à Zniber, Othmane"
-],["CIV1140",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-638",
-  "De: Akeyi Moungou, Ethel Venceslas à Pelletier, Mathilde"
-],["CIV1140",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "A-622",
-  "De: Proulx Petit, Simon à Zargou, Messaoud"
-],["CIV1150",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-508",
-  "De: Abderahim, Issa Abderahim à Karim, Faisath Grâce"
-],["CIV1150",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "C-539.6",
-  "De: Kemguerbaye, Kodjitebaye à Yebadokpo, Rony Gédéon"
-],["CIV1210",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "09:30",
-  "B-411",
-  "De : Abderahim, Issa Abderahim à Diallo, Aboubacar"
-],["CIV1210",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "09:30",
-  "B-415",
-  "De : Didi, Ahmed à Yameogo, Fabrice Aser"
-],["CIV1910",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "13:30",
-  "B-315",
-  " "
-],["CIV2310",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["CIV2310",
-  "2",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "A-621",
-  "De: Astrand, Mikaela à Habouha Mohamed Salem, Yousouf"
-],["CIV2310",
-  "2",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "A-622",
-  "De: Hérard, Sandrine à Violeta Ramos, Robert"
-],["CIV2320",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "13:30",
-  "A-410",
-  " "
-],["CIV2500",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "A-532 ",
-  "De: Absi, Ali à Simard, Laurence"
-],["CIV2500",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "A-526",
-  "De: Tkhay, Karina à Zga, Sarah"
-],["CIV2710",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["CIV2710",
-  "2",
-  "Dimanche",
-  "18 Décembre",
-  "09:30",
-  "B-418",
-  "De : Adango, Aldrick à Gaudette-Thibault, Camille"
-],["CIV2710",
-  "2",
-  "Dimanche",
-  "18 Décembre",
-  "09:30",
-  "B-429",
-  "De : Habouha Mohamed Salem, Youssouf à Wong, Fabien"
-],["CIV2920",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "09:30",
-  "L-6612",
-  "De : Atoui, Hadi à Hachad, Mohammed Amine"
-],["CIV2920",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "09:30",
-  "L-6614",
-  "De : Hassine, Toufik à Watat Nana, Cedric Michael"
-],["CIV3220",
-  "1",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "L-6611",
-  "De : Al Morabet, Brahim à Kassab, Kim"
-],["CIV3220",
-  "1",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "L-6612",
-  "De : Laflamme, Amélie à Yameogo, Cheick Farid Aboubacar"
-],["CIV3220",
-  "2",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "L-6613",
-  "De : Alonso Moran, Estefania Victoria à Huot-Locas, Francis"
-],["CIV3220",
-  "2",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "L-6614",
-  "De : Joubert de la Motte,  Nicolas à Zga, Sarah"
-],["CIV3220",
-  "3",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "L-6624",
-  "De : Beaudoin, Stéphanie à Grosmangin, Ulysse"
-],["CIV3220",
-  "3",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "L-6626",
-  "De : Habis, Tony à Tremblay Bergeron, Francis"
-],["CIV3330",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-638",
-  " "
-],["CIV3330",
-  "2",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-638",
-  "De: Amiot, Simon à Coia, Laurent"
-],["CIV3330",
-  "2",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "A-622",
-  "De: Constantin, Raphaël à Zergui, Ilhem"
-],["CIV3415",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "09:30",
-  "B-638",
-  "De : Archambault, Myriam à Robert, Stéphanie"
-],["CIV3415",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "09:30",
-  "A-604",
-  "De : Robion, Nicolas Ludovic Fabien à Zga, Sarah"
-],["CIV3415",
-  "2",
-  "Mardi",
-  "20 Décembre",
-  "09:30",
-  "A-604",
-  " "
-],["CIV3420",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "13:30",
-  "B-638",
-  " "
-],["CIV3420",
-  "2",
-  "Mercredi",
-  "21 Décembre",
-  "13:30",
-  "A-604",
-  " "
-],["CIV3502",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-401",
-  " "
-],["CIV3502",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-315",
-  "De: Amiot, Simon à Hawkins, Valérie"
-],["CIV3502",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-411",
-  "De: Henneuse, Médéric à Vo-Lavictoire, Kevin"
-],["CIV3503",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "C-539.6",
-  " "
-],["CIV3503",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "C-539.4",
-  "De: Agourram, Mohamed à Juneau, Benjamin"
-],["CIV3503",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "B-530.2",
-  "De: Khounsombath, Manolack à Waltzing, Michel"
-],["CIV3504",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "A-532",
-  "De : Abbadi, Ismail à Lemery, Joffrey"
-],["CIV3504",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "A-533",
-  "De : Le Retif, Antoine à Zhang, Christine"
-],["CIV4160",
-  "1",
-  "Jeudi",
-  "08 Décembre",
-  "13:30",
-  "A-532",
-  " "
-],["CIV4160",
-  "2",
-  "Jeudi",
-  "08 Décembre",
-  "13:30",
-  "A-533",
-  " "
-],["CIV4170",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "09:30",
-  "A-604",
-  " "
-],["CIV4170",
-  "2",
-  "Samedi",
-  "10 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["CIV4180",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-405",
-  " "
-],["CIV4185",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "A-532",
-  "De: Abbadi, Ismail à Maghare, Kian"
-],["CIV4185",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "A-533",
-  "De: Maillot, Quentin à Zhang, Christine"
-],["CIV4340",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-401",
-  " "
-],["CIV4340",
-  "2",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "A-410",
-  " "
-],["CIV4340",
-  "3",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-405",
-  " "
-],["CIV4720",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["CIV4720",
-  "2",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "A-604",
-  " "
-],["CIV4940",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "A-416",
-  " "
-],["CIV4940",
-  "2",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["CIV8210",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "C-539.6",
-  " "
-],["CIV8220",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "09:30",
-  "B-405",
-  " "
-],["CIV8320",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["CIV8360",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "13:30",
-  "B-315",
-  " "
-],["CIV8440",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-512",
-  " "
-],["CIV8510",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "18:30",
-  "A-410",
-  "De : Abshari, Najmeh à Nzokou, Philippe"
-],["CIV8510",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "18:30",
-  "B-401",
-  "De : Ouellette, Alexandre à Younan, Emile"
-],["CIV8540",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "13:30",
-  "B-314",
-  "De : Abshari, Najmeh à Kafidi, Anis"
-],["CIV8540",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "13:30",
-  "B-315",
-  "De : Khodabandeloo, Hamid à Zanotty-Beaudry, Victoria"
-],["CIV8730",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "18:00",
-  "A-410",
-  " "
-],["CIV8760",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "L-6612",
-  " "
-],["DDI8001",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "A-410",
-  " "
-],["DDI8003",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "13:30",
-  "A-604",
-  " "
-],["ELE1001",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "A-532",
-  " "
-],["ELE1001",
-  "2",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "A-532",
-  "De : Al Bakkar, Mahmoud à Pucci-Barbeau, Nicolas"
-],["ELE1001",
-  "2",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "A-533",
-  "De : Rocheleau, Rémi à Wan-Ajouhu, Ryan"
-],["ELE1001",
-  "3",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "A-533",
-  " "
-],["ELE1300",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "13:30",
-  "A-604",
-  "De : Adiem, Youssef à Jadibeh Ali"
-],["ELE1300",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "13:30",
-  "B-638",
-  "De : Jobin, Pierre-Luc à Yin, Chao"
-],["ELE1402",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "13:30",
-  "B-512",
-  " "
-],["ELE1403",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["ELE1403",
-  "2",
-  "Mardi",
-  "20 Décembre",
-  "09:30",
-  "B-415",
-  "De : Adamou Soumana, Abdoul Nasser à St-Martin, Alex"
-],["ELE1403",
-  "2",
-  "Mardi",
-  "20 Décembre",
-  "09:30",
-  "B-405",
-  "De : St-Pierre, Louis à Yotchoua Atchoukeu, Laeticia Joyce"
-],["ELE1600A",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "A-533",
-  " "
-],["ELE2003",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "13:30",
-  "A-410",
-  " "
-],["ELE2200",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "13:30",
-  "B-314",
-  " "
-],["ELE2307",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "L-6611",
-  "De: Aguilar-Hernandez, Sophia à Larachi, Arsalan"
-],["ELE2307",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "L-6613",
-  "De: Larose-Beaudoin, Charles à Woamenor, Adrikou Edem Jules"
-],["ELE2310",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "13:30",
-  "A-410",
-  " "
-],["ELE2400",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "L-6611",
-  " "
-],["ELE2611",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "13:30",
-  "B-638",
-  " "
-],["ELE2700",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["ELE3201",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "A-532",
-  " "
-],["ELE3312",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "13:30",
-  "L-6611",
-  "De : Ait Bara, Farouk à Dion, Marilyn"
-],["ELE3312",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "13:30",
-  "L-6613",
-  "De : Domayo Moukam, Jeanne Marcelle à Ndjeng Ngangue, Martial Alban"
-],["ELE3312",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "13:30",
-  "L-6612",
-  "De : Ngoufu Wanfo, Régis Dieudonné à Vanier, Vincent"
-],["ELE3400",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["ELE3500",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "13:30",
-  "A-532",
-  " "
-],["ELE3701A",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["ELE3705",
-  "1",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "A-410",
-  " "
-],["ELE4202",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-508",
-  "De : Ait Bara, Farouk à Malli, Bruno"
-],["ELE4202",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-530.2",
-  "De : Mazloum, Ali à Ziti, Afaf"
-],["ELE4205",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["ELE4451",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "B-314",
-  " "
-],["ELE4452",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-429",
-  "De : Afrasiabi, Mandana à Giard-Leroux, Simon"
-],["ELE4452",
-  "2",
-  "Mercredi",
-  "07 Décembre",
-  "13 : 30",
-  "C-539.4",
-  "De : Gingras, Maxime à Whear, Loïc"
-],["ELE4455",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "13:30",
-  "A-416",
-  " "
-],["ELE4500",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "13:30",
-  "B-638",
-  " "
-],["ELE8203",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["ELE8304",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "A-410",
-  " "
-],["ELE8700",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["ELE8705",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "B-512",
-  " "
-],["ENE8105",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["ENE8210",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "13:30",
-  "B-415",
-  " "
-],["GBM1610",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "13:30",
-  "A-532",
-  "De : Adlung, Anne à Lacombe, Jonathan"
-],["GBM1610",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "13:30",
-  "A-533",
-  "De : Larocque, Xavier à Zarrari, Imade"
-],["GBM2201",
-  "1",
-  "Jeudi",
-  "08 Décembre",
-  "13:30",
-  "B-508",
-  " "
-],["GBM2330",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "B-512",
-  " "
-],["GBM2620",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "A-410",
-  " "
-],["GBM3510",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "B-304",
-  "De : Adlung, Anne à Garel, Victor"
-],["GBM3510",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "B-315",
-  "De : Ghesquiere, Pierre à Vielfaure, Alexandre"
-],["GBM3610",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["GBM3620",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "09:30",
-  "A-410",
-  " "
-],["GBM3720",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "B-512",
-  " "
-],["GBM8320",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "13:30",
-  "B-638",
-  " "
-],["GBM8871",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["GCH1110",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-315",
-  "De: Beaulieu, Mélissa à Rivas-Canales, Ronald"
-],["GCH1110",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-316",
-  "De: Roux, Baptiste à Watelle, Sabrina"
-],["GCH1110",
-  "2",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "A-416",
-  "De: Alami Mejjati, Ahmed à Lorrain, Francis"
-],["GCH1110",
-  "2",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-316",
-  "De: Makaya, roland Mick Noël à Zouini, Yahya"
-],["GCH1121",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["GCH1140",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "C-539.6",
-  " "
-],["GCH1220",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "09:30",
-  "B-508",
-  "De : Abou-Khalil, Raquel à Gagnon, Laurence"
-],["GCH1220",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "09:30",
-  "B-512",
-  "De : Godon, Arielle à Yaba, Ruben Ndonzoao"
-],["GCH1511",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "B-638",
-  " "
-],["GCH2105",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["GCH2120",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-316",
-  "De: Alberico, David à El Baccouche, Ryan"
-],["GCH2120",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "A-416",
-  "De: El Haddad, Lea à Ndiaye, Mintou"
-],["GCH2120",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-405",
-  "De: Niyonkuru, Carine à Younes, Aya"
-],["GCH2210",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "09:30",
-  "A-532",
-  " "
-],["GCH2525",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "09:30",
-  "A-532",
-  "De : Alberico, David à Legrand, Philippe"
-],["GCH2525",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "09:30",
-  "A-533",
-  "De : Lessard, Marie-Lee à Yotchoua Atchoukeu, Laeticia Joyce"
-],["GCH3105",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "B-316",
-  "De: Arlettaz, Johnny à Grout, Gabin"
-],["GCH3105",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "A-416",
-  "De: Guay, Gabrielle à Zoui, Fatima Zohra"
-],["GCH3110",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "A-410",
-  " "
-],["GCH3115",
-  "1",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["GCH3515",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "13:30",
-  "B-638",
-  " "
-],["GCH4125",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["GCH8104",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "13:30",
-  "B-315",
-  " "
-],["GCH8620",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["GCH8729",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "C-539.6",
-  " "
-],["GLQ1100",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "B-304",
-  "De : Abou Mourad, Rony à Dumas, Catherine"
-],["GLQ1100",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "B-314",
-  "De : Farrier, Charles à Wong, Fabien"
-],["GLQ1100",
-  "2",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "B-314",
-  "De : Alchirazi Alsabbagh, Yaman à Fertikh, Mohamed El Mehdy"
-],["GLQ1100",
-  "2",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "B-315",
-  "De : Fortin, Eva à Yahiaoui, Ilhame"
-],["GLQ1105",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-314",
-  " "
-],["GLQ2300",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["GLQ3100",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "13:30",
-  "B-314",
-  " "
-],["GLQ3401",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "13:30",
-  "B-508",
-  " "
-],["GLQ3415",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "A-526",
-  " "
-],["IND1205",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["IND1205",
-  "2",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-512",
-  "De : Abdallah-Minciotti, Gabrielle à Krik, Najoua"
-],["IND1205",
-  "2",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-530.2",
-  "De : Larouche, Thierry à Vincent, Mathilde"
-],["IND1801",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "13:30",
-  "B-506",
-  "De : Abdallah-Minciotti, Gabrielle à Bouskila, Salomé"
-],["IND1801",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "13:30",
-  "B-508",
-  "De : Brabant, Philippe à Kallel, Zeineb"
-],["IND1801",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "13:30",
-  "B-512",
-  "De : Kammoun, Mathias à Zroh, Botchi Nathanael"
-],["IND1802",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "A-532",
-  " "
-],["IND1802",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "A-526",
-  "De: Abdallah-Minciotti, Gabrielle à El Fahid, Lamiae"
-],["IND1802",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "A-533",
-  "De: El Gharbi, Zohra à Voyer, Catherine"
-],["IND2105",
-  "1",
-  "Jeudi",
-  "08 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["IND2106",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "B-508",
-  "De : Aubry, Marine à Fontaine, Pierre"
-],["IND2106",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "B-512",
-  "De : Frappier Hudon, Florence à Waota, Fatim Alexandra"
-],["IND2201",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "A-416",
-  " "
-],["IND2201",
-  "2",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "B-314",
-  " "
-],["IND2301",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "A-533",
-  " "
-],["IND2301",
-  "2",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "A-532",
-  " "
-],["IND2701",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "09:30",
-  "A-416",
-  " "
-],["IND2701",
-  "2",
-  "Samedi",
-  "10 Décembre",
-  "09:30",
-  "A-410",
-  " "
-],["IND3302",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "A-410",
-  "De : Akaffou, Stella-Malicia Chimonet à Janji, Robert"
-],["IND3302",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "B-401",
-  "De : Jau, Charlotte à Normand, Anne-Louise"
-],["IND3302",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "B-405",
-  "De : Ntakaburimvo-Ndayiragije, Axel à Zouar, Yassine"
-],["IND3501",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-315",
-  "De: Al Mahdi Al Tounsi, Mohamed-Rami à Gignac, Sarah"
-],["IND3501",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-316",
-  "De: Godin, Jean-Sébastien à Niang, Ngoné Arame"
-],["IND3501",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "A-416",
-  "De: Nianga Elenga, Adiko Bridel à Zussino, Margaux"
-],["IND3702",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "A-604",
-  "De: Akaffou, Stella-Malicia Chimonet à Lamy-Grenier Sandrine"
-],["IND3702",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "C-539.4",
-  "De: Larose-Tarabulsy, Camille à Neely, Patrick"
-],["IND3702",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "A-621",
-  "De: Ngoko, Pascalin Zephyrin à Younes, Dora"
-],["IND3903",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "L-6611",
-  "De : Akaffou, Stella-Malicia Chimonet à Fedi, Quentin"
-],["IND3903",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "L-6613",
-  "De : Félin-Germain, Solène à Nianga Elenga, Adiko Bridel"
-],["IND3903",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "L-6612",
-  "De : Ntakaburimvo-Ndayiragije, Axel à Younes, Dora"
-],["IND4109",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "A-532",
-  "De: Abou-Khalil, Raquel à Legault, Francis"
-],["IND4109",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "A-533",
-  "De: Levallois, Julien à Wozny, Antoine"
-],["IND4704",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-506",
-  "De : Barolet, Augustin C. à Ginestre, Aymerick"
-],["IND4704",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-508",
-  "De : Hébert, Charles-David à Yameogo, Cheick Farid Aboubacar"
-],["IND4710",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "13:30",
-  "B-512",
-  " "
-],["IND5501",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "09:30",
-  "A-533",
-  " "
-],["IND6102A",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["IND8111",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "16:00",
-  "A-533",
-  " "
-],["IND8115",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["IND8122",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "16:00",
-  "B-304",
-  " "
-],["IND8127A",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "16:00",
-  "B-512",
-  "De : Aferane, Zineb à Marquis, Jérémie"
-],["IND8127A",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "16:00",
-  "B-508",
-  "De : Massé, Cloé à Zniber, Othmane"
-],["IND8137A",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["IND8412",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "16:00",
-  "B-415",
-  " "
-],["IND8444",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "19:00",
-  "B-418",
-  " "
-],["IND8844",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "16:00",
-  "B-508",
-  " "
-],["INF0101",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "L-6611",
-  " "
-],["INF0101",
-  "2",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "L-6612",
-  " "
-],["INF1005A",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["INF1005A",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "B-316",
-  "De: Abib, Narimane à Gédéon, Gandy"
-],["INF1005A",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "A-416",
-  "De: Giard, Gregory à Zuchoski, David"
-],["INF1005A",
-  "3",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "B-304",
-  "De: Aboubacar, Housnat à Guévremont, Olivier"
-],["INF1005A",
-  "3",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "B-314",
-  "De: Hallée, Christophe à Zalla, Adama"
-],["INF1005A",
-  "4",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["INF1005A",
-  "5",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "A-410",
-  "De: Abdul Baki, Nibal à Turner, Philippe"
-],["INF1005A",
-  "5",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "A-416",
-  "De: Venditti, Samuel à Yazali, Najat"
-],["INF1005B",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "A-532 ",
-  " "
-],["INF1005B",
-  "2",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "A-532 ",
-  "De: Abdallah-Minciotti, Gabrielle à Boilard, Jean-Philippe"
-],["INF1005B",
-  "2",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "A-533",
-  "De: Boisvert, Claudia à Vincent, Mathilde"
-],["INF1005C",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "A-410",
-  "De: Achkanou, Hajar à Pednault, William"
-],["INF1005C",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-304",
-  "De: Pharand, Coralie à Zhang, Yun Ran"
-],["INF1005C",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-415",
-  " "
-],["INF1005C",
-  "3",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-316",
-  "De: Anhoury, Marc à Ham, Hatim"
-],["INF1005C",
-  "3",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "A-416",
-  "De: Hasrouni, Elio à Sossa, Freddy Godgives"
-],["INF1005C",
-  "3",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-418",
-  "De: Tchiakpe, Yélian Enock Roland à Vercoustre, Maxence"
-],["INF1005C",
-  "4",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["INF1010",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "A-604",
-  " "
-],["INF1010",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "A-604",
-  "De: Andalib, Shila à Bonkoungou, Serge Loïc"
-],["INF1010",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "A-622",
-  "De: Bouchard, Alex à Nicolet, Olivier"
-],["INF1010",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "B-638",
-  "De: Peronnet, Guillaume Philippe à Zerigui, Amel"
-],["INF1010",
-  "3",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["INF1500",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "B-411",
-  "De : Abdillahi Ahmed, Man à Bouis, Constantin"
-],["INF1500",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "B-415",
-  "De : Boutin Messier, Jonathan à Kdider, Larabi"
-],["INF1500",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "B-418",
-  "De : Khoury, Daniel à Zhang, Yun Ran"
-],["INF1600",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "13:30",
-  "L-6611",
-  "De : Ait Yahia, Syphax à Gauthier, Kevin"
-],["INF1600",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "13:30",
-  "L-6613",
-  "De : Gervais-Ranger, Jonathan à Van Dyke, Stéphanie"
-],["INF2010",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "B-316",
-  "De: Agagnier, Félix à Gautier, Tom"
-],["INF2010",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "A-416",
-  "De: Gupta, Aparana à Tran, Alex"
-],["INF2010",
-  "2",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "A-410",
-  "De: Achour, Massinissa à Leduc, Vincent"
-],["INF2010",
-  "2",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "B-401",
-  "De: Lonkeng Sonkwe, Benjamin à Zarrari, Imade"
-],["INF2610",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["INF2705",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["INF3405",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "A-532",
-  "De : Abdou Thomas, Youssef à Ouellet-Payeur, Nicolas"
-],["INF3405",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "A-533",
-  "De : Picard, Claudy à Zarrari, Imade"
-],["INF3500",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["INF3610",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "B-314",
-  " "
-],["INF3710",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "B-415",
-  " "
-],["INF4410",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["INF4420A",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "A-621",
-  "De : Abdou Thomas, Youssef à Marbouh, Hamza"
-],["INF4420A",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "A-622",
-  "De : Martin, Marie Danielle Claudine à Zins, Pierre"
-],["INF4705",
-  "1",
-  "Jeudi",
-  "08 Décembre",
-  "13:30",
-  "C-539.6",
-  " "
-],["INF4710",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-316",
-  "De : An, Denis à Lalande, Guillaume"
-],["INF4710",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "A-416",
-  "De : Lam, Ba Samson à Wimsingues, Jérémy"
-],["INF6101",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "13:30",
-  "A-522",
-  " "
-],["INF6603",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-405",
-  " "
-],["INF8402",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "B-429",
-  "De: Ajjoub, Samer à Gamache, Clément"
-],["INF8402",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "A-503",
-  "De: Gassais, Robin à Nguyen, Kenny"
-],["INF8402",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "A-522",
-  "De: Nguyen, Thanh Nam à Zolnouri, Mahdi"
-],["INF8500",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "B-505",
-  " "
-],["INF8601",
-  "1",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["INF8702",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["INF8725",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["LOG1000",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "L-6611",
-  "De: Ahohoue, Nourou-Dine à Girard, Charles"
-],["LOG1000",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "L-6613",
-  "De: Gosselin, Maxime à Younis, Gergi"
-],["LOG2410",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "13:30",
-  "B-415",
-  "De : Achour, Massinissa à Giurca, Catalin"
-],["LOG2410",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "13:30",
-  "B-418",
-  "De : Grimard, Eric à Zarrari, Imade"
-],["LOG2420",
-  "1",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "B-411",
-  "De : Al-Romhein, Jean-Marc à Hou, Yawen"
-],["LOG2420",
-  "1",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "B-418",
-  "De : Jasmin, Jérémie à Vu, Alexandre"
-],["LOG2420",
-  "2",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["LOG2810",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "A-532",
-  "De: Achour, Massinissa à Servant, Marc-André"
-],["LOG2810",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "A-533",
-  "De: Simelus, Ralph Luckernst Noel à Vu, Alexandre"
-],["LOG2810",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "A-533",
-  "De: Agagnier, Félix à Guilbault, Catherine"
-],["LOG2810",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "C-539.6",
-  "De: Hardie, Ryan à Wong, Yannick"
-],["LOG3000",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["LOG3210",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["LOG3430",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "M-1010",
-  "De : Ajjoub, Samer à Khedimallah, Wicem"
-],["LOG3430",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "M-1510",
-  "De : Khoury, Jennifer à Yerma, Julien"
-],["LOG4410",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "A-526",
-  "De: Amrani, Abdellatif à Huard-Aspirot, Pierre Luc"
-],["LOG4410",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-508",
-  "De: Jacob, Simon à Zemmahi, Youssef"
-],["LOG4420",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "13:30",
-  "A-532",
-  "De : Abiven, Roxane à Nordholts, Johan"
-],["LOG4420",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "13:30",
-  "A-533",
-  "De : Occean, Laurius à Zolnouri, Mahdi"
-],["LOG4715",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "A-503",
-  "De: Acierno, Robin à Gaudreau, Samuel"
-],["LOG4715",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "A-533",
-  "De: Gauthier-Farley, Maxime à Vrignaud, Benoît"
-],["LOG6308",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "A-621",
-  " "
-],["LOG8430",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "13:30",
-  "B-405",
-  " "
-],["MEC1205",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["MEC1205",
-  "2",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["MEC1205",
-  "3",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["MEC1205",
-  "4",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "A-416",
-  " "
-],["MEC1205",
-  "5",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-316",
-  " "
-],["MEC1205",
-  "6",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["MEC1205",
-  "7",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["MEC1210",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "B-512",
-  "De : Achard, Olivier à Stock, Pierre-Nicolas"
-],["MEC1210",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "B-508",
-  "De : Taylor, William à Wetie Tankeu, Kevin Jordan"
-],["MEC1210",
-  "2",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "B-508",
-  "De : Akono, Philippe Elie à Le Scieller, Loïc"
-],["MEC1210",
-  "2",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "C-539.6",
-  "De : Maharilaza, Alban à Zoubiri, Karim"
-],["MEC1410",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["MEC1410",
-  "2",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-405",
-  "De: Amrouche, Kamel Yousri à Labbé, Vincent"
-],["MEC1410",
-  "2",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-429",
-  "De: Lapierre-Fecteau, Colin à Zeni, Valentine"
-],["MEC1410",
-  "3",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "A-410",
-  " "
-],["MEC1410",
-  "4",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["MEC1410",
-  "5",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-418",
-  "De: Abbas, Mohamed Anis à Mutshaila Kasongo, Josias"
-],["MEC1410",
-  "5",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-415",
-  "De: Paris, Alexandre à Zargou, Messaoud"
-],["MEC1410",
-  "6",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-316",
-  "De: Albaret, Charles à Hurtubise, Philip"
-],["MEC1410",
-  "6",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "A-416",
-  "De: Karam, Maximilian à Walker, Alexandre"
-],["MEC1410",
-  "7",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-401",
-  "De: Arsenault-Hurtubise, Ugo à LeBlanc-Robichaud, Camille"
-],["MEC1410",
-  "7",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-411",
-  "De: Le Coz, Mateo à Waltz, Antoine"
-],["MEC1420",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["MEC1420",
-  "2",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "B-415",
-  "De : Achard, Olivier à Koulmi, Ikram"
-],["MEC1420",
-  "2",
-  "Vendredi",
-  "16 Décembre",
-  "09:30",
-  "B-411",
-  "De : Lalancette, Camille à Villa Roncal, Bryan Vladimir"
-],["MEC1510",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "A-416",
-  " "
-],["MEC1510",
-  "2",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-505",
-  "De : André, Bruno Alain Tomasz à Medeiros, Alexandre"
-],["MEC1510",
-  "2",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-506",
-  "De : Millien, Kevin à Waltz, Antoine"
-],["MEC1510",
-  "3",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "A-532",
-  " "
-],["MEC1510",
-  "4",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "A-532",
-  "De : Adamou Soumana, Abdoul Nasser à Charest-Rettig, François"
-],["MEC1510",
-  "4",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "A-533",
-  "De : Cléroux, Frédérick à Walker, Alexandre"
-],["MEC1510",
-  "5",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-315",
-  " "
-],["MEC1515",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["MEC1515",
-  "2",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-415",
-  "De : Abakar Adam, Moussa à Hervieux, Félix-Xavier"
-],["MEC1515",
-  "2",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-418",
-  "De : Jean, Vanina Gaëlle à Zargou, Messaoud"
-],["MEC1515",
-  "3",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["MEC1515",
-  "4",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-411",
-  "De : Adiélou, Jean-Philippe à Gerbouin, Jean-Baptiste"
-],["MEC1515",
-  "4",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-429",
-  "De : Himmad, Ismail à Yebadokpo, Rony Gédéon"
-],["MEC1515",
-  "5",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "A-416",
-  " "
-],["MEC2115",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "09:30",
-  "A-532",
-  " "
-],["MEC2200",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "A-604",
-  " "
-],["MEC2200",
-  "2",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["MEC2200",
-  "3",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["MEC2310",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "13:30",
-  "B-415",
-  " "
-],["MEC2405",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "09:30",
-  "A-532",
-  "De : Abi Haidar, Ahmad à Mcheimach, Mahdi"
-],["MEC2405",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "09:30",
-  "A-533",
-  "De : Morisset, Stefan à Zayat, Yann"
-],["MEC2420",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "A-604",
-  " "
-],["MEC2420",
-  "2",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["MEC2420",
-  "3",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "A-621",
-  "De: Ahuanlla-Huaraca, Leonardo à Labonté-Lanthier, Maxime"
-],["MEC2420",
-  "3",
-  "Mercredi",
-  "07 Décembre",
-  "09:30",
-  "A-622",
-  "De: Lacombe, Louis à Vincent, Éliot"
-],["MEC2435",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "13:30",
-  "A-532",
-  "De : Abdelnour, Carl à Massé, Gauthier"
-],["MEC2435",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "13:30",
-  "A-533",
-  "De : Ménard, Annabelle à Watelle, Sabrina"
-],["MEC2500",
-  "1",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "B-405",
-  "De : Albert, Patricia à Dessouki, Alexandre"
-],["MEC2500",
-  "1",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "B-415",
-  "De : Deumeni, Ange Emmanuel à Zreik, Jad"
-],["MEC3200",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "A-604",
-  "De : Abi Haidar, Ahmad à Rohar, Patrick"
-],["MEC3200",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "A-621",
-  "De : Rouillard, Vincent à Weber, Nathan"
-],["MEC3200",
-  "2",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "A-621",
-  "De : Afonso, William à Lagunas Herrera, Marlene"
-],["MEC3200",
-  "2",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "A-622",
-  "De : Lalyre, Augustin  Alphone à Vernay, Julien"
-],["MEC3215",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["MEC3230",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["MEC3230",
-  "2",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["MEC3305",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "A-416",
-  "De: Allemand, Jérémy à Seck, Mamadou Mansour Laye"
-],["MEC3305",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-411",
-  "De: Séraphin, Hirohito-Hugues à Weber, Nathan"
-],["MEC3305",
-  "2",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-411",
-  "De: Abdelnour, Carl à Laneuville, Vincent"
-],["MEC3305",
-  "2",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-429",
-  "De: Magher, Jennifer à Watier, Mathieu"
-],["MEC3400",
-  "1",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "A-604",
-  " "
-],["MEC3430",
-  "1",
-  "Jeudi",
-  "08 Décembre",
-  "13:30",
-  "B-415",
-  " "
-],["MEC3430",
-  "2",
-  "Jeudi",
-  "08 Décembre",
-  "13:30",
-  "B-415",
-  "De: Abdelnour, Carl à Leclerc, Philippe"
-],["MEC3430",
-  "2",
-  "Jeudi",
-  "08 Décembre",
-  "13:30",
-  "B-405",
-  "De: Lefrançois, Rachel à Wehbe, Mohamad"
-],["MEC3455",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "13:30",
-  "A-410",
-  " "
-],["MEC3520",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "13:30",
-  "B-405",
-  "De : Ajbabdi, Yassine à Mourgue, Florian"
-],["MEC3520",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "13:30",
-  "B-415",
-  "De : Olivier, Felix à Zimmermann, Yann"
-],["MEC3520",
-  "2",
-  "Mercredi",
-  "21 Décembre",
-  "13:30",
-  "B-415",
-  " "
-],["MEC4122",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["MEC4122",
-  "2",
-  "Dimanche",
-  "11 Décembre",
-  "09:30",
-  "B-508",
-  " "
-],["MEC4280",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "09:30",
-  "A-532",
-  "De : Ajbabdi, Yassine à Lamarre, Charles"
-],["MEC4280",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "09:30",
-  "A-533",
-  "De : Laniel, Hubert à Zhu, Yiran"
-],["MEC6216",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["MEC6306A",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "A-621",
-  " "
-],["MEC8250",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["MEC8252",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "B-638",
-  " "
-],["MEC8254",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["MEC8312",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "19:00",
-  "B-415",
-  " "
-],["MEC8350",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "09:30",
-  "A-532",
-  " "
-],["MEC8356",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["MEC8415",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "13:30",
-  "B-314",
-  " "
-],["MEC8450",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "13:30",
-  "A-526",
-  " "
-],["MEC8550",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["MEC8552",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "B-304",
-  " "
-],["MEC8910A",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "B-315",
-  "De: Abdelfattah, Muhamed à Jeyarajan Nelson, Prince"
-],["MEC8910A",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "B-316",
-  "De: Jolis, Raphaël à Zaribafzadeh, Mohammadreza"
-],["MET8106",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "B-314",
-  " "
-],["MIN1101",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "A-416",
-  " "
-],["MIN3210",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "A-604",
-  " "
-],["MIN3311",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "13:30",
-  "B-415",
-  " "
-],["MIN3510",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["MTH0101",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["MTH0101",
-  "2",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-418",
-  "De: Abdel Baghy, Sihem à Lee Hanul, Nelinaritsima"
-],["MTH0101",
-  "2",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-415",
-  "De: Lichtle, Teaotahitoani à Welti, Alexandre"
-],["MTH0101",
-  "3",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-415",
-  " "
-],["MTH0102",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "B-638",
-  " "
-],["MTH0102",
-  "2",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "A-604",
-  "De : Ait Oumessaoud, Yaghourta à El Ayoubi, Hussein"
-],["MTH0102",
-  "2",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "A-622",
-  "De : El Hadji, Lalla à Zambo Nguele, Aymeric Franck"
-],["MTH0102",
-  "3",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "B-638",
-  "De : Abdel Baghy, Sihem à Bochin, Edouard"
-],["MTH0102",
-  "3",
-  "Dimanche",
-  "18 Décembre",
-  "13:30",
-  "A-604",
-  "De : Bojji, Samy à Ziggar, Elisée Maphi"
-],["MTH0103",
-  "1",
-  "Jeudi",
-  "08 Décembre",
-  "13:30",
-  "A-604",
-  " "
-],["MTH0103",
-  "2",
-  "Jeudi",
-  "08 Décembre",
-  "13:30",
-  "A-604",
-  " "
-],["MTH0104",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["MTH1007",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "A-621",
-  "De : Alaoui, Nacer à Koura Souleman Zoumarou, Shehah"
-],["MTH1007",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "A-622",
-  "De : Labrosse, Hugo à Zussino, Margaux"
-],["MTH1007",
-  "2",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-304",
-  "De : Ajji, Zineb à El Badoury, Meryem"
-],["MTH1007",
-  "2",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-314",
-  "De : Flandez, Michael à Xing, Paul"
-],["MTH1007",
-  "3",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-506",
-  "De : Amoussou, Zionhou Elotode Comlan à Grenier, Pascal"
-],["MTH1007",
-  "3",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-508",
-  "De : Groleau, Félix à Zakaria, Hatim"
-],["MTH1007",
-  "4",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-315",
-  "De : Achour, Massinissa à Laperrière, Jean-Sébastien"
-],["MTH1007",
-  "4",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-405",
-  "De : Lauzon, Olivier à Trinh, Tommy"
-],["MTH1007",
-  "5",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "A-604",
-  " "
-],["MTH1007",
-  "6",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["MTH1007",
-  "7",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "A-410",
-  "De : Arcouet, Juliette à Jian, Yi Fan"
-],["MTH1007",
-  "7",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-401",
-  "De : Jolin, Pierre-Olivier à Toukal, Monssaf"
-],["MTH1007",
-  "8",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "A-532",
-  " "
-],["MTH1007",
-  "9",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["MTH1007",
-  "10",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["MTH1007",
-  "11",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "B-316",
-  "De : Alexandre, Philippe à Giroux-Huppé, Mathieu"
-],["MTH1007",
-  "11",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "A-416",
-  "De : Gravel, Frédérique à Zuchoski, David"
-],["MTH1101",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["MTH1101",
-  "2",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "C-539.4",
-  "De: Abouna Zoa, Guy Carel à Farah, Angela"
-],["MTH1101",
-  "2",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "C-539.6",
-  "De: Fawzy, Nardine à Zargou, Messaoud"
-],["MTH1101",
-  "3",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "A-621",
-  "De: Achkanou, Hajar à Landry, Catherine"
-],["MTH1101",
-  "3",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "A-622",
-  "De: LeBlanc-Robichaud, Camille à Zhang, Yun Ran"
-],["MTH1101",
-  "4",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-314",
-  "De: Abdillahi Ahmed, Man à Lapierre, Mariève"
-],["MTH1101",
-  "4",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-315",
-  "De: Larocque-Sanchez, Kristopher à Villeneuve, Nicolas"
-],["MTH1101",
-  "5",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-512",
-  " "
-],["MTH1101",
-  "6",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "A-410",
-  " "
-],["MTH1101",
-  "7",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["MTH1101",
-  "8",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "A-604",
-  " "
-],["MTH1101",
-  "9",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-316",
-  "De: Abbas, Mohamed Anis à Gravel, Frédérique"
-],["MTH1101",
-  "9",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "A-416",
-  "De: Grigore, Andrei à Zeni, Valentine"
-],["MTH1101",
-  "10",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-505",
-  "De: Alexandre, Philippe à Lessard, David"
-],["MTH1101",
-  "10",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-506",
-  "De: Lherisson, Christian à Zuchoski, David"
-],["MTH1101",
-  "11",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-508",
-  "De: Abdul Baki, Nibal à Razk, Cherry Gobran Tobia"
-],["MTH1101",
-  "11",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "A-526",
-  "De: Rivas-Canales, Ronald à Wandege, Drossia"
-],["MTH1101",
-  "12",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["MTH1101S",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "09:30",
-  "B-304",
-  " "
-],["MTH1102",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "A-604",
-  " "
-],["MTH1102",
-  "2",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "A-410",
-  " "
-],["MTH1102",
-  "3",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "B-316",
-  "De: Abderahim, Issa Abderahim à Gingras, Pierre-Luc"
-],["MTH1102",
-  "3",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "A-416",
-  "De: Gingras, Stéphanie à Vicaire, Gabrielle"
-],["MTH1102",
-  "4",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "B-506",
-  "De: Arseneault, Samuel à Ghrabli, Amine"
-],["MTH1102",
-  "4",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "B-508",
-  "De: Gourai, Salaheddine à Zanotty-Beaudry, Victoria"
-],["MTH1102",
-  "5",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "A-532",
-  " "
-],["MTH1110",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "13:30",
-  "A-532",
-  " "
-],["MTH1110",
-  "2",
-  "Mercredi",
-  "14 Décembre",
-  "13:30",
-  "A-532",
-  "De : Beaudoin, Antoine à Chochos, Charalampos"
-],["MTH1110",
-  "2",
-  "Mercredi",
-  "14 Décembre",
-  "13:30",
-  "A-533",
-  "De : Denis, Mathieu à Wong, Fabien"
-],["MTH1115",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "13:30",
-  "A-410",
-  " "
-],["MTH1115",
-  "2",
-  "Mardi",
-  "13 Décembre",
-  "13:30",
-  "B-512",
-  " "
-],["MTH1115",
-  "3",
-  "Mardi",
-  "13 Décembre",
-  "13:30",
-  "A-604",
-  " "
-],["MTH1115D",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "13:30",
-  "A-532",
-  "De : Absi, Christophe à Khoury, Maria"
-],["MTH1115D",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "13:30",
-  "A-533",
-  "De : Landry-Leclerc, Jonathan à Zreik, Jad"
-],["MTH2110",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["MTH2120",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "13:30",
-  "A-532",
-  " "
-],["MTH2210A",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "A-416",
-  " "
-],["MTH2210A",
-  "2",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "A-410",
-  " "
-],["MTH2210A",
-  "3",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "B-314",
-  " "
-],["MTH2210A",
-  "4",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "B-315",
-  " "
-],["MTH2210B",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["MTH2210C",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["MTH2210C",
-  "2",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "A-621",
-  "De : Abdelnour, Carl à De Tilly, Phillipe"
-],["MTH2210C",
-  "2",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "A-604",
-  "De : Deumeni, Ange Emmanuel à Velickovski, Martin"
-],["MTH2302A",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["MTH2302B",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "B-314",
-  " "
-],["MTH2302B",
-  "2",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "B-415",
-  "De: Andraos, Adib à Cioc, Marius Ioan"
-],["MTH2302B",
-  "2",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "A-416",
-  "De: Couillard, Maxime à Vernay, Julien"
-],["MTH2302B",
-  "3",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "B-415",
-  " "
-],["MTH2302C",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "B-508",
-  " "
-],["MTH2302C",
-  "2",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "B-512",
-  " "
-],["MTH2302D",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "09:30",
-  "A-604",
-  " "
-],["MTH2302D",
-  "2",
-  "Samedi",
-  "17 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["MTH2302D",
-  "3",
-  "Samedi",
-  "17 Décembre",
-  "09:30",
-  "A-621",
-  "De : Achiba, Yousra à Gagnon, Genevieve"
-],["MTH2302D",
-  "3",
-  "Samedi",
-  "17 Décembre",
-  "09:30",
-  "A-622",
-  "De : Jomni, Hachem à Waota, Fatim Alexandra"
-],["MTH3400",
-  "1",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "B-638",
-  " "
-],["MTH8207",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "B-304",
-  " "
-],["MTH8442",
-  "1",
-  "Jeudi",
-  "08 Décembre",
-  "13:30",
-  "B-411",
-  " "
-],["MTR1035C",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "13:30",
-  "B-418",
-  "De : Ajji, Zineb à Pouzergue, Marie"
-],["MTR1035C",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "13:30",
-  "B-415",
-  "De : Primeau Breton, Marc-André à Zouini, Yahya"
-],["MTR1035C",
-  "2",
-  "Samedi",
-  "17 Décembre",
-  "13:30",
-  "B-415",
-  " "
-],["MTR2000",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["MTR2000",
-  "2",
-  "Samedi",
-  "17 Décembre",
-  "09:30",
-  "B-314",
-  "De : Aguilar, Vincent à Giguere, Jean-Simon"
-],["MTR2000",
-  "2",
-  "Samedi",
-  "17 Décembre",
-  "09:30",
-  "B-315",
-  "De : Grigore, Andrei à Yoshida, Nobory"
-],["MTR2000",
-  "3",
-  "Samedi",
-  "17 Décembre",
-  "09:30",
-  "B-415",
-  " "
-],["PHS0101",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "B-638",
-  " "
-],["PHS0101",
-  "2",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "B-638",
-  "De: Autissier, Guillaume à Ekondi, Christy-Honor"
-],["PHS0101",
-  "2",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "A-622",
-  "De: El Meghari, Naji à Ziggar, Elisée Maphi"
-],["PHS0101",
-  "3",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "A-604",
-  " "
-],["PHS0101",
-  "4",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "A-621",
-  "De: Abdul Baki, Nibal à Ngameni Fouman, Samuel Parfait"
-],["PHS0101",
-  "4",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "A-604",
-  "De: Nguetsa Ateufack, Arnold Rabane à Tchuidjang, Dieu-Ne-Dort"
-],["PHS0102",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "09:30",
-  "B-315",
-  " "
-],["PHS0102",
-  "2",
-  "Mercredi",
-  "21 Décembre",
-  "09:30",
-  "B-314",
-  " "
-],["PHS1101",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "A-622",
-  "De : Ajam, Bassam à Eftenie, Irina"
-],["PHS1101",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "A-621",
-  "De : El Asry, Ayoub à Paraiso, Alice"
-],["PHS1101",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "C-539.4",
-  "De : Paulin-Bessette, Thomas à Wong, Vaimiti Marina Laura"
-],["PHS1101",
-  "2",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "B-638",
-  "De : Ajji, Zineb à Hogue, Justin"
-],["PHS1101",
-  "2",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "A-604",
-  "De : Hong, Julien à Stéphenne, Colin"
-],["PHS1101",
-  "2",
-  "Jeudi",
-  "15 Décembre",
-  "09:30",
-  "A-622",
-  "De : Thibault, Raphaël à Zuchoski, David"
-],["PHS1102",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "09:30",
-  "A-604",
-  "De : Aghili, Ryan à Jauniaux, Claude"
-],["PHS1102",
-  "1",
-  "Mercredi",
-  "21 Décembre",
-  "09:30",
-  "B-638",
-  "De : Jean-Langlois, Joël à Ypperciel, Sandrine"
-],["PHS1104",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "B-415",
-  " "
-],["PHS1205",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-315",
-  " "
-],["PHS1205",
-  "2",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "B-314",
-  " "
-],["PHS2106",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "13:30",
-  "B-638",
-  " "
-],["PHS2107",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-505",
-  "De: Aubé, Lucas à Germain, Alexandre"
-],["PHS2107",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-506",
-  "De: Gingras, Cloé à Zuluaga, Lina Marcela"
-],["PHS2109",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "09:30",
-  "B-316",
-  "De : Aubé, Lucas à Duquette, Catherine"
-],["PHS2109",
-  "1",
-  "Mardi",
-  "20 Décembre",
-  "09:30",
-  "A-416",
-  "De : Egner, Karl à Zuluaga, Lina Marcela"
-],["PHS3104",
-  "1",
-  "Lundi",
-  "19 Décembre",
-  "09:30",
-  "A-604",
-  " "
-],["PHS3105",
-  "1",
-  "Samedi",
-  "17 Décembre",
-  "13:30",
-  "B-508",
-  " "
-],["PHS3301",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "13:30",
-  "A-604",
-  " "
-],["PHS4220",
-  "1",
-  "Mercredi",
-  "07 Décembre",
-  "13:30",
-  "B-512",
-  " "
-],["PHS4700",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "B-316",
-  "De: Al-Romhein, Jean-Marc à Daniel-Adde, Arthur"
-],["PHS4700",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "A-416",
-  "De: Deffo Pahui, Raoul Pythagore à Marchand, Erwan"
-],["PHS4700",
-  "1",
-  "Samedi",
-  "10 Décembre",
-  "13:30",
-  "A-410",
-  "De: Marcotte, Philippe à Zhong, Zihui"
-],["PHS8210",
-  "1",
-  "Mercredi",
-  "14 Décembre",
-  "09:30",
-  "B-418",
-  " "
-],["PHS8310",
-  "1",
-  "Jeudi",
-  "15 Décembre",
-  "13:30",
-  "B-405",
-  " "
-],["PHS8321",
-  "1",
-  "Vendredi",
-  "09 Décembre",
-  "13:30",
-  "B-415",
-  " "
-],["PHS8501",
-  "1",
-  "Dimanche",
-  "11 Décembre",
-  "13:30",
-  "A-522",
-  " "
-],["PHS8604",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "A-533",
-  " "
-],["SSH0345",
-  "1",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "A-532",
-  " "
-],["SSH0345",
-  "2",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "A-533",
-  " "
-],["SSH0345",
-  "3",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "A-532",
-  " "
-],["SSH0345",
-  "4",
-  "Lundi",
-  "12 Décembre",
-  "09:30",
-  "A-533",
-  " "
-],["SSH3100A",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "13:30",
-  "A-532",
-  " "
-],["SSH3100B",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "13:30",
-  "B-415",
-  " "
-],["SSH3100B",
-  "2",
-  "Vendredi",
-  "16 Décembre",
-  "13:30",
-  "B-418",
-  " "
-],["SSH3100B",
-  "3",
-  "Vendredi",
-  "16 Décembre",
-  "13:30",
-  "B-405",
-  "De : Ajjoub, Samer à Gervais, Renaud"
-],["SSH3100B",
-  "3",
-  "Vendredi",
-  "16 Décembre",
-  "13:30",
-  "B-411",
-  "De : Inoussa, Mountassir Mod à Zhong, Zihui"
-],["SSH3100C",
-  "1",
-  "Vendredi",
-  "16 Décembre",
-  "13:30",
-  "B-512",
-  " "
-],["SSH3201",
-  "1",
-  "Jeudi",
-  "08 Décembre",
-  "09:30",
-  "B-415",
-  "De: Adibi, Omid à Ramu. Paul"
-],["SSH3201",
-  "1",
-  "Jeudi",
-  "08 Décembre",
-  "09:30",
-  "B-405",
-  "De: Richard, Marie-Ève à Wizani, Hussein"
-],["SSH3201",
-  "2",
-  "Jeudi",
-  "08 Décembre",
-  "09:30",
-  "B-418",
-  "De: Afan, Sénamè Modeste à Oularé, Massakoro"
-],["SSH3201",
-  "2",
-  "Jeudi",
-  "08 Décembre",
-  "09:30",
-  "B-429",
-  "De: Perbet, Claire à Zahid, Marwa"
-],["SSH3201",
-  "3",
-  "Jeudi",
-  "08 Décembre",
-  "09:30",
-  "A-604",
-  "De: Abi Haidar, Ahmad à Hallé, Vincent"
-],["SSH3201",
-  "3",
-  "Jeudi",
-  "08 Décembre",
-  "09:30",
-  "B-638",
-  "De: Hébert, François à Zeidan, Abass"
-],["SSH3201",
-  "4",
-  "Jeudi",
-  "08 Décembre",
-  "09:30",
-  "A-532",
-  "De: Acco, Sophia Anna-Maria à Le Prevost, Anatole"
-],["SSH3201",
-  "4",
-  "Jeudi",
-  "08 Décembre",
-  "09:30",
-  "A-533",
-  "De: Leroux, David Desharnais à Zalla, Adama"
-],["SSH3351",
-  "1",
-  "Mardi",
-  "13 Décembre",
-  "09:30",
-  "A-533",
-  " "
-],["SSH3352",
-  "1",
-  "Dimanche",
-  "18 Décembre",
-  "09:30",
-  "B-314",
-  " "
-],["SSH3502",
-  "1",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "A-532",
-  " "
-],["SSH3502",
-  "2",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "A-532",
-  "De : Abou-Khalil, Raquel à Beaulac, Olivier"
-],["SSH3502",
-  "2",
-  "Jeudi",
-  "22 Décembre",
-  "09:30",
-  "A-533",
-  "De : Bessette, Normand à Zhang, Ke Yuan"
-],]
+var finals = [{
+  "id": "AER1200",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-505",
+  "names": [{lastname:"André",firstname:"Bruno Alain Tomasz"},{lastname:"Meideros",firstname:"Alexandre"}]
+}, {
+  "id": "AER1200",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-506",
+  "names": [{lastname:"Millien",firstname:"Kevin"},{lastname:"Zeni",firstname:"Valentine"}]
+}, {
+  "id": "AER2100",
+  "section": "1",
+  "date": "Samedi 10 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "AER2400",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-512"
+}, {
+  "id": "AER3205",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-512"
+}, {
+  "id": "AER3640",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "A-410"
+}, {
+  "id": "AER4345",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-401",
+  "names": [{lastname:"Alain",firstname:"Pierre-Olivier"},{lastname:"Lambert",firstname:"Laurier"}]
+}, {
+  "id": "AER4345",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-411",
+  "names": [{lastname:"Lanoue",firstname:"Guillaume"},{lastname:"Xhaferi",firstname:"Klaud"}]
+}, {
+  "id": "AER4400",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "A-533"
+}, {
+  "id": "AER4715",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-401"
+}, {
+  "id": "AER8410",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "L-6612",
+  "names": [{lastname:"Beheshti",firstname:"Mohammad Hossein"},{lastname:"Lagassé",firstname:"Sébastien"}]
+}, {
+  "id": "AER8410",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "L-6614",
+  "names": [{lastname:"Lallet",firstname:"Pierre"},{lastname:"Zhu",firstname:"Yiran"}]
+}, {
+  "id": "CHE0501",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 13:30",
+  "class": "A-604"
+}, {
+  "id": "CHE0501",
+  "section": "2",
+  "date": "Mercredi 14 Décembre 13:30",
+  "class": "B-638"
+}, {
+  "id": "CIV1101",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-316",
+  "names": [{lastname:"Abderahim",firstname:"Issa Abderahim"},{lastname:"Kalem",firstname:"Mohamed Anis"}]
+}, {
+  "id": "CIV1101",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "A-416",
+  "names": [{lastname:"Knis",firstname:"Ahmed Ihsen"},{lastname:"Zakaria",firstname:"Hatim"}]
+}, {
+  "id": "CIV1101",
+  "section": "2",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-505",
+  "names": [{lastname:"Abbas",firstname:"Mohamed Anis"},{lastname:"Kemguerbaye",firstname:"Kodjitebaye"}]
+}, {
+  "id": "CIV1101",
+  "section": "2",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "C-539.4",
+  "names": [{lastname:"Kordane",firstname:"El Mehdi"},{lastname:"Zambo Nguele",firstname:"Aymeric Franck"}]
+}, {
+  "id": "CIV1120",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "L-6613"
+}, {
+  "id": "CIV1120",
+  "section": "2",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "L-6614",
+  "names": [{lastname:"Amisi",firstname:"Arnold Kampanga"},{lastname:"Perret",firstname:"Vincent"}]
+}, {
+  "id": "CIV1120",
+  "section": "2",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "L-6616",
+  "names": [{lastname:"Pez",firstname:"Tristan"},{lastname:"Zniber",firstname:"Othmane"}]
+}, {
+  "id": "CIV1140",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-638",
+  "names": [{lastname:"Akeyi Moungou",firstname:"Ethel Venceslas"},{lastname:"Pelletier",firstname:"Mathilde"}]
+}, {
+  "id": "CIV1140",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "A-622",
+  "names": [{lastname:"Proulx Petit",firstname:"Simon"},{lastname:"Zargou",firstname:"Messaoud"}]
+}, {
+  "id": "CIV1150",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-508",
+  "names": [{lastname:"Abderahim",firstname:"Issa Abderahim"},{lastname:"Karim",firstname:"Faisath Grâce"}]
+}, {
+  "id": "CIV1150",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "C-539.6",
+  "names": [{lastname:"Kemguerbaye",firstname:"Kodjitebaye"},{lastname:"Yebadokpo",firstname:"Rony Gédéon"}]
+}, {
+  "id": "CIV1210",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 09:30",
+  "class": "B-411",
+  "names": [{lastname:"Abderahim",firstname:"Issa Abderahim"},{lastname:"Diallo",firstname:"Aboubacar"}]
+}, {
+  "id": "CIV1210",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 09:30",
+  "class": "B-415",
+  "names": [{lastname:"Didi",firstname:"Ahmed"},{lastname:"Yameogo",firstname:"Fabrice Aser"}]
+}, {
+  "id": "CIV1910",
+  "section": "1",
+  "date": "Samedi 17 Décembre 13:30",
+  "class": "B-315"
+}, {
+  "id": "CIV2310",
+  "section": "1",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "CIV2310",
+  "section": "2",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "A-621",
+  "names": [{lastname:"Astrand",firstname:"Mikaela"},{lastname:"Habouha Mohamed Salem",firstname:"Yousouf"}]
+}, {
+  "id": "CIV2310",
+  "section": "2",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "A-622",
+  "names": [{lastname:"Hérard",firstname:"Sandrine"},{lastname:"Violeta Ramos",firstname:"Robert"}]
+}, {
+  "id": "CIV2320",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 13:30",
+  "class": "A-410"
+}, {
+  "id": "CIV2500",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "A-532 ",
+  "names": [{lastname:"Absi",firstname:"Ali"},{lastname:"Simard",firstname:"Laurence"}]
+}, {
+  "id": "CIV2500",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "A-526",
+  "names": [{lastname:"Tkhay",firstname:"Karina"},{lastname:"Zga",firstname:"Sarah"}]
+}, {
+  "id": "CIV2710",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "CIV2710",
+  "section": "2",
+  "date": "Dimanche 18 Décembre 09:30",
+  "class": "B-418",
+  "names": [{lastname:"Adango",firstname:"Aldrick"},{lastname:"Gaudette-Thibault",firstname:"Camille"}]
+}, {
+  "id": "CIV2710",
+  "section": "2",
+  "date": "Dimanche 18 Décembre 09:30",
+  "class": "B-429",
+  "names": [{lastname:"Habouha Mohamed Salem",firstname:"Youssouf"},{lastname:"Wong",firstname:"Fabien"}]
+}, {
+  "id": "CIV2920",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 09:30",
+  "class": "L-6612",
+  "names": [{lastname:"Atoui",firstname:"Hadi"},{lastname:"Hachad",firstname:"Mohammed Amine"}]
+}, {
+  "id": "CIV2920",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 09:30",
+  "class": "L-6614",
+  "names": [{lastname:"Hassine",firstname:"Toufik"},{lastname:"Watat Nana",firstname:"Cedric Michael"}]
+}, {
+  "id": "CIV3220",
+  "section": "1",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "L-6611",
+  "names": [{lastname:"Al Morabet",firstname:"Brahim"},{lastname:"Kassab",firstname:"Kim"}]
+}, {
+  "id": "CIV3220",
+  "section": "1",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "L-6612",
+  "names": [{lastname:"Laflamme",firstname:"Amélie"},{lastname:"Yameogo",firstname:"Cheick Farid Aboubacar"}]
+}, {
+  "id": "CIV3220",
+  "section": "2",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "L-6613",
+  "names": [{lastname:"Alonso Moran",firstname:"Estefania Victoria"},{lastname:"Huot-Locas",firstname:"Francis"}]
+}, {
+  "id": "CIV3220",
+  "section": "2",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "L-6614",
+  "names": "De : Joubert de la Motte,  Nicolas à Zga, Sarah"
+}, {
+  "id": "CIV3220",
+  "section": "3",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "L-6624",
+  "names": [{lastname:"Beaudoin",firstname:"Stéphanie"},{lastname:"Grosmangin",firstname:"Ulysse"}]
+}, {
+  "id": "CIV3220",
+  "section": "3",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "L-6626",
+  "names": [{lastname:"Habis",firstname:"Tony"},{lastname:"Tremblay Bergeron",firstname:"Francis"}]
+}, {
+  "id": "CIV3330",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-638"
+}, {
+  "id": "CIV3330",
+  "section": "2",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-638",
+  "names": [{lastname:"Amiot",firstname:"Simon"},{lastname:"Coia",firstname:"Laurent"}]
+}, {
+  "id": "CIV3330",
+  "section": "2",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "A-622",
+  "names": [{lastname:"Constantin",firstname:"Raphaël"},{lastname:"Zergui",firstname:"Ilhem"}]
+}, {
+  "id": "CIV3415",
+  "section": "1",
+  "date": "Mardi 20 Décembre 09:30",
+  "class": "B-638",
+  "names": [{lastname:"Archambault",firstname:"Myriam"},{lastname:"Robert",firstname:"Stéphanie"}]
+}, {
+  "id": "CIV3415",
+  "section": "1",
+  "date": "Mardi 20 Décembre 09:30",
+  "class": "A-604",
+  "names": [{lastname:"Robion",firstname:"Nicolas Ludovic Fabien"},{lastname:"Zga",firstname:"Sarah"}]
+}, {
+  "id": "CIV3415",
+  "section": "2",
+  "date": "Mardi 20 Décembre 09:30",
+  "class": "A-604"
+}, {
+  "id": "CIV3420",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 13:30",
+  "class": "B-638"
+}, {
+  "id": "CIV3420",
+  "section": "2",
+  "date": "Mercredi 21 Décembre 13:30",
+  "class": "A-604"
+}, {
+  "id": "CIV3502",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-401"
+}, {
+  "id": "CIV3502",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-315",
+  "names": [{lastname:"Amiot",firstname:"Simon"},{lastname:"Hawkins",firstname:"Valérie"}]
+}, {
+  "id": "CIV3502",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-411",
+  "names": [{lastname:"Henneuse",firstname:"Médéric"},{lastname:"Vo-Lavictoire",firstname:"Kevin"}]
+}, {
+  "id": "CIV3503",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "C-539.6"
+}, {
+  "id": "CIV3503",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "C-539.4",
+  "names": [{lastname:"Agourram",firstname:"Mohamed"},{lastname:"Juneau",firstname:"Benjamin"}]
+}, {
+  "id": "CIV3503",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "B-530.2",
+  "names": [{lastname:"Khounsombath",firstname:"Manolack"},{lastname:"Waltzing",firstname:"Michel"}]
+}, {
+  "id": "CIV3504",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "A-532",
+  "names": [{lastname:"Abbadi",firstname:"Ismail"},{lastname:"Lemery",firstname:"Joffrey"}]
+}, {
+  "id": "CIV3504",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "A-533",
+  "names": [{lastname:"Le Retif",firstname:"Antoine"},{lastname:"Zhang",firstname:"Christine"}]
+}, {
+  "id": "CIV4160",
+  "section": "1",
+  "date": "Jeudi 08 Décembre 13:30",
+  "class": "A-532"
+}, {
+  "id": "CIV4160",
+  "section": "2",
+  "date": "Jeudi 08 Décembre 13:30",
+  "class": "A-533"
+}, {
+  "id": "CIV4170",
+  "section": "1",
+  "date": "Samedi 10 Décembre 09:30",
+  "class": "A-604"
+}, {
+  "id": "CIV4170",
+  "section": "2",
+  "date": "Samedi 10 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "CIV4180",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-405"
+}, {
+  "id": "CIV4185",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "A-532",
+  "names": [{lastname:"Abbadi",firstname:"Ismail"},{lastname:"Maghare",firstname:"Kian"}]
+}, {
+  "id": "CIV4185",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "A-533",
+  "names": [{lastname:"Maillot",firstname:"Quentin"},{lastname:"Zhang",firstname:"Christine"}]
+}, {
+  "id": "CIV4340",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-401"
+}, {
+  "id": "CIV4340",
+  "section": "2",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "A-410"
+}, {
+  "id": "CIV4340",
+  "section": "3",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-405"
+}, {
+  "id": "CIV4720",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "CIV4720",
+  "section": "2",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "A-604"
+}, {
+  "id": "CIV4940",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "A-416"
+}, {
+  "id": "CIV4940",
+  "section": "2",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "CIV8210",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "C-539.6"
+}, {
+  "id": "CIV8220",
+  "section": "1",
+  "date": "Mardi 20 Décembre 09:30",
+  "class": "B-405"
+}, {
+  "id": "CIV8320",
+  "section": "1",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "CIV8360",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 13:30",
+  "class": "B-315"
+}, {
+  "id": "CIV8440",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-512"
+}, {
+  "id": "CIV8510",
+  "section": "1",
+  "date": "Mardi 13 Décembre 18:30",
+  "class": "A-410",
+  "names": [{lastname:"Abshari",firstname:"Najmeh"},{lastname:"Nzokou",firstname:"Philippe"}]
+}, {
+  "id": "CIV8510",
+  "section": "1",
+  "date": "Mardi 13 Décembre 18:30",
+  "class": "B-401",
+  "names": [{lastname:"Ouellette",firstname:"Alexandre"},{lastname:"Younan",firstname:"Emile"}]
+}, {
+  "id": "CIV8540",
+  "section": "1",
+  "date": "Mardi 20 Décembre 13:30",
+  "class": "B-314",
+  "names": [{lastname:"Abshari",firstname:"Najmeh"},{lastname:"Kafidi",firstname:"Anis"}]
+}, {
+  "id": "CIV8540",
+  "section": "1",
+  "date": "Mardi 20 Décembre 13:30",
+  "class": "B-315",
+  "names": [{lastname:"Khodabandeloo",firstname:"Hamid"},{lastname:"Zanotty-Beaudry",firstname:"Victoria"}]
+}, {
+  "id": "CIV8730",
+  "section": "1",
+  "date": "Lundi 19 Décembre 18:00",
+  "class": "A-410"
+}, {
+  "id": "CIV8760",
+  "section": "1",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "L-6612"
+}, {
+  "id": "DDI8001",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "A-410"
+}, {
+  "id": "DDI8003",
+  "section": "1",
+  "date": "Samedi 17 Décembre 13:30",
+  "class": "A-604"
+}, {
+  "id": "ELE1001",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "A-532"
+}, {
+  "id": "ELE1001",
+  "section": "2",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "A-532",
+  "names": [{lastname:"Al Bakkar",firstname:"Mahmoud"},{lastname:"Pucci-Barbeau",firstname:"Nicolas"}]
+}, {
+  "id": "ELE1001",
+  "section": "2",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "A-533",
+  "names": [{lastname:"Rocheleau",firstname:"Rémi"},{lastname:"Wan-Ajouhu",firstname:"Ryan"}]
+}, {
+  "id": "ELE1001",
+  "section": "3",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "A-533"
+}, {
+  "id": "ELE1300",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 13:30",
+  "class": "A-604",
+  "names": "De : Adiem, Youssef à Jadibeh Ali"
+}, {
+  "id": "ELE1300",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 13:30",
+  "class": "B-638",
+  "names": [{lastname:"Jobin",firstname:"Pierre-Luc"},{lastname:"Yin",firstname:"Chao"}]
+}, {
+  "id": "ELE1402",
+  "section": "1",
+  "date": "Lundi 12 Décembre 13:30",
+  "class": "B-512"
+}, {
+  "id": "ELE1403",
+  "section": "1",
+  "date": "Mardi 20 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "ELE1403",
+  "section": "2",
+  "date": "Mardi 20 Décembre 09:30",
+  "class": "B-415",
+  "names": [{lastname:"Adamou Soumana",firstname:"Abdoul Nasser"},{lastname:"St-Martin",firstname:"Alex"}]
+}, {
+  "id": "ELE1403",
+  "section": "2",
+  "date": "Mardi 20 Décembre 09:30",
+  "class": "B-405",
+  "names": [{lastname:"St-Pierre",firstname:"Louis"},{lastname:"Yotchoua Atchoukeu",firstname:"Laeticia Joyce"}]
+}, {
+  "id": "ELE1600A",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "A-533"
+}, {
+  "id": "ELE2003",
+  "section": "1",
+  "date": "Samedi 17 Décembre 13:30",
+  "class": "A-410"
+}, {
+  "id": "ELE2200",
+  "section": "1",
+  "date": "Samedi 17 Décembre 13:30",
+  "class": "B-314"
+}, {
+  "id": "ELE2307",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "L-6611",
+  "names": [{lastname:"Aguilar-Hernandez",firstname:"Sophia"},{lastname:"Larachi",firstname:"Arsalan"}]
+}, {
+  "id": "ELE2307",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "L-6613",
+  "names": [{lastname:"Larose-Beaudoin",firstname:"Charles"},{lastname:"Woamenor",firstname:"Adrikou Edem Jules"}]
+}, {
+  "id": "ELE2310",
+  "section": "1",
+  "date": "Mardi 20 Décembre 13:30",
+  "class": "A-410"
+}, {
+  "id": "ELE2400",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "L-6611"
+}, {
+  "id": "ELE2611",
+  "section": "1",
+  "date": "Mardi 20 Décembre 13:30",
+  "class": "B-638"
+}, {
+  "id": "ELE2700",
+  "section": "1",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "ELE3201",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "A-532"
+}, {
+  "id": "ELE3312",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 13:30",
+  "class": "L-6611",
+  "names": [{lastname:"Ait Bara",firstname:"Farouk"},{lastname:"Dion",firstname:"Marilyn"}]
+}, {
+  "id": "ELE3312",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 13:30",
+  "class": "L-6613",
+  "names": [{lastname:"Domayo Moukam",firstname:"Jeanne Marcelle"},{lastname:"Ndjeng Ngangue",firstname:"Martial Alban"}]
+}, {
+  "id": "ELE3312",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 13:30",
+  "class": "L-6612",
+  "names": [{lastname:"Ngoufu Wanfo",firstname:"Régis Dieudonné"},{lastname:"Vanier",firstname:"Vincent"}]
+}, {
+  "id": "ELE3400",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "ELE3500",
+  "section": "1",
+  "date": "Lundi 12 Décembre 13:30",
+  "class": "A-532"
+}, {
+  "id": "ELE3701A",
+  "section": "1",
+  "date": "Samedi 17 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "ELE3705",
+  "section": "1",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "A-410"
+}, {
+  "id": "ELE4202",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-508",
+  "names": [{lastname:"Ait Bara",firstname:"Farouk"},{lastname:"Malli",firstname:"Bruno"}]
+}, {
+  "id": "ELE4202",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-530.2",
+  "names": [{lastname:"Mazloum",firstname:"Ali"},{lastname:"Ziti",firstname:"Afaf"}]
+}, {
+  "id": "ELE4205",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "ELE4451",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "B-314"
+}, {
+  "id": "ELE4452",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-429",
+  "names": [{lastname:"Afrasiabi",firstname:"Mandana"},{lastname:"Giard-Leroux",firstname:"Simon"}]
+}, {
+  "id": "ELE4452",
+  "section": "2",
+  "date": "Mercredi 07 Décembre 13 : 30",
+  "class": "C-539.4",
+  "names": [{lastname:"Gingras",firstname:"Maxime"},{lastname:"Whear",firstname:"Loïc"}]
+}, {
+  "id": "ELE4455",
+  "section": "1",
+  "date": "Mardi 13 Décembre 13:30",
+  "class": "A-416"
+}, {
+  "id": "ELE4500",
+  "section": "1",
+  "date": "Mardi 20 Décembre 13:30",
+  "class": "B-638"
+}, {
+  "id": "ELE8203",
+  "section": "1",
+  "date": "Samedi 10 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "ELE8304",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "A-410"
+}, {
+  "id": "ELE8700",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "ELE8705",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "B-512"
+}, {
+  "id": "ENE8105",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "ENE8210",
+  "section": "1",
+  "date": "Mardi 13 Décembre 13:30",
+  "class": "B-415"
+}, {
+  "id": "GBM1610",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 13:30",
+  "class": "A-532",
+  "names": [{lastname:"Adlung",firstname:"Anne"},{lastname:"Lacombe",firstname:"Jonathan"}]
+}, {
+  "id": "GBM1610",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 13:30",
+  "class": "A-533",
+  "names": [{lastname:"Larocque",firstname:"Xavier"},{lastname:"Zarrari",firstname:"Imade"}]
+}, {
+  "id": "GBM2201",
+  "section": "1",
+  "date": "Jeudi 08 Décembre 13:30",
+  "class": "B-508"
+}, {
+  "id": "GBM2330",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "B-512"
+}, {
+  "id": "GBM2620",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "A-410"
+}, {
+  "id": "GBM3510",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "B-304",
+  "names": [{lastname:"Adlung",firstname:"Anne"},{lastname:"Garel",firstname:"Victor"}]
+}, {
+  "id": "GBM3510",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "B-315",
+  "names": [{lastname:"Ghesquiere",firstname:"Pierre"},{lastname:"Vielfaure",firstname:"Alexandre"}]
+}, {
+  "id": "GBM3610",
+  "section": "1",
+  "date": "Mardi 13 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "GBM3620",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 09:30",
+  "class": "A-410"
+}, {
+  "id": "GBM3720",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "B-512"
+}, {
+  "id": "GBM8320",
+  "section": "1",
+  "date": "Mardi 13 Décembre 13:30",
+  "class": "B-638"
+}, {
+  "id": "GBM8871",
+  "section": "1",
+  "date": "Samedi 10 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "GCH1110",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-315",
+  "names": [{lastname:"Beaulieu",firstname:"Mélissa"},{lastname:"Rivas-Canales",firstname:"Ronald"}]
+}, {
+  "id": "GCH1110",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-316",
+  "names": [{lastname:"Roux",firstname:"Baptiste"},{lastname:"Watelle",firstname:"Sabrina"}]
+}, {
+  "id": "GCH1110",
+  "section": "2",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "A-416",
+  "names": [{lastname:"Alami Mejjati",firstname:"Ahmed"},{lastname:"Lorrain",firstname:"Francis"}]
+}, {
+  "id": "GCH1110",
+  "section": "2",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-316",
+  "names": [{lastname:"Makaya",firstname:"roland Mick Noël"},{lastname:"Zouini",firstname:"Yahya"}]
+}, {
+  "id": "GCH1121",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "GCH1140",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "C-539.6"
+}, {
+  "id": "GCH1220",
+  "section": "1",
+  "date": "Mardi 20 Décembre 09:30",
+  "class": "B-508",
+  "names": [{lastname:"Abou-Khalil",firstname:"Raquel"},{lastname:"Gagnon",firstname:"Laurence"}]
+}, {
+  "id": "GCH1220",
+  "section": "1",
+  "date": "Mardi 20 Décembre 09:30",
+  "class": "B-512",
+  "names": [{lastname:"Godon",firstname:"Arielle"},{lastname:"Yaba",firstname:"Ruben Ndonzoao"}]
+}, {
+  "id": "GCH1511",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "B-638"
+}, {
+  "id": "GCH2105",
+  "section": "1",
+  "date": "Lundi 12 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "GCH2120",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-316",
+  "names": [{lastname:"Alberico",firstname:"David"},{lastname:"El Baccouche",firstname:"Ryan"}]
+}, {
+  "id": "GCH2120",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "A-416",
+  "names": [{lastname:"El Haddad",firstname:"Lea"},{lastname:"Ndiaye",firstname:"Mintou"}]
+}, {
+  "id": "GCH2120",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-405",
+  "names": [{lastname:"Niyonkuru",firstname:"Carine"},{lastname:"Younes",firstname:"Aya"}]
+}, {
+  "id": "GCH2210",
+  "section": "1",
+  "date": "Samedi 17 Décembre 09:30",
+  "class": "A-532"
+}, {
+  "id": "GCH2525",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 09:30",
+  "class": "A-532",
+  "names": [{lastname:"Alberico",firstname:"David"},{lastname:"Legrand",firstname:"Philippe"}]
+}, {
+  "id": "GCH2525",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 09:30",
+  "class": "A-533",
+  "names": [{lastname:"Lessard",firstname:"Marie-Lee"},{lastname:"Yotchoua Atchoukeu",firstname:"Laeticia Joyce"}]
+}, {
+  "id": "GCH3105",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "B-316",
+  "names": [{lastname:"Arlettaz",firstname:"Johnny"},{lastname:"Grout",firstname:"Gabin"}]
+}, {
+  "id": "GCH3105",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "A-416",
+  "names": [{lastname:"Guay",firstname:"Gabrielle"},{lastname:"Zoui",firstname:"Fatima Zohra"}]
+}, {
+  "id": "GCH3110",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "A-410"
+}, {
+  "id": "GCH3115",
+  "section": "1",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "GCH3515",
+  "section": "1",
+  "date": "Mardi 13 Décembre 13:30",
+  "class": "B-638"
+}, {
+  "id": "GCH4125",
+  "section": "1",
+  "date": "Samedi 10 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "GCH8104",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 13:30",
+  "class": "B-315"
+}, {
+  "id": "GCH8620",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "GCH8729",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "C-539.6"
+}, {
+  "id": "GLQ1100",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "B-304",
+  "names": [{lastname:"Abou Mourad",firstname:"Rony"},{lastname:"Dumas",firstname:"Catherine"}]
+}, {
+  "id": "GLQ1100",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "B-314",
+  "names": [{lastname:"Farrier",firstname:"Charles"},{lastname:"Wong",firstname:"Fabien"}]
+}, {
+  "id": "GLQ1100",
+  "section": "2",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "B-314",
+  "names": [{lastname:"Alchirazi Alsabbagh",firstname:"Yaman"},{lastname:"Fertikh",firstname:"Mohamed El Mehdy"}]
+}, {
+  "id": "GLQ1100",
+  "section": "2",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "B-315",
+  "names": [{lastname:"Fortin",firstname:"Eva"},{lastname:"Yahiaoui",firstname:"Ilhame"}]
+}, {
+  "id": "GLQ1105",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-314"
+}, {
+  "id": "GLQ2300",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "GLQ3100",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 13:30",
+  "class": "B-314"
+}, {
+  "id": "GLQ3401",
+  "section": "1",
+  "date": "Mardi 13 Décembre 13:30",
+  "class": "B-508"
+}, {
+  "id": "GLQ3415",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "A-526"
+}, {
+  "id": "IND1205",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "IND1205",
+  "section": "2",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-512",
+  "names": [{lastname:"Abdallah-Minciotti",firstname:"Gabrielle"},{lastname:"Krik",firstname:"Najoua"}]
+}, {
+  "id": "IND1205",
+  "section": "2",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-530.2",
+  "names": [{lastname:"Larouche",firstname:"Thierry"},{lastname:"Vincent",firstname:"Mathilde"}]
+}, {
+  "id": "IND1801",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 13:30",
+  "class": "B-506",
+  "names": [{lastname:"Abdallah-Minciotti",firstname:"Gabrielle"},{lastname:"Bouskila",firstname:"Salomé"}]
+}, {
+  "id": "IND1801",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 13:30",
+  "class": "B-508",
+  "names": [{lastname:"Brabant",firstname:"Philippe"},{lastname:"Kallel",firstname:"Zeineb"}]
+}, {
+  "id": "IND1801",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 13:30",
+  "class": "B-512",
+  "names": [{lastname:"Kammoun",firstname:"Mathias"},{lastname:"Zroh",firstname:"Botchi Nathanael"}]
+}, {
+  "id": "IND1802",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "A-532"
+}, {
+  "id": "IND1802",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "A-526",
+  "names": [{lastname:"Abdallah-Minciotti",firstname:"Gabrielle"},{lastname:"El Fahid",firstname:"Lamiae"}]
+}, {
+  "id": "IND1802",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "A-533",
+  "names": [{lastname:"El Gharbi",firstname:"Zohra"},{lastname:"Voyer",firstname:"Catherine"}]
+}, {
+  "id": "IND2105",
+  "section": "1",
+  "date": "Jeudi 08 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "IND2106",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "B-508",
+  "names": [{lastname:"Aubry",firstname:"Marine"},{lastname:"Fontaine",firstname:"Pierre"}]
+}, {
+  "id": "IND2106",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "B-512",
+  "names": [{lastname:"Frappier Hudon",firstname:"Florence"},{lastname:"Waota",firstname:"Fatim Alexandra"}]
+}, {
+  "id": "IND2201",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "A-416"
+}, {
+  "id": "IND2201",
+  "section": "2",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "B-314"
+}, {
+  "id": "IND2301",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "A-533"
+}, {
+  "id": "IND2301",
+  "section": "2",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "A-532"
+}, {
+  "id": "IND2701",
+  "section": "1",
+  "date": "Samedi 10 Décembre 09:30",
+  "class": "A-416"
+}, {
+  "id": "IND2701",
+  "section": "2",
+  "date": "Samedi 10 Décembre 09:30",
+  "class": "A-410"
+}, {
+  "id": "IND3302",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "A-410",
+  "names": [{lastname:"Akaffou",firstname:"Stella-Malicia Chimonet"},{lastname:"Janji",firstname:"Robert"}]
+}, {
+  "id": "IND3302",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "B-401",
+  "names": [{lastname:"Jau",firstname:"Charlotte"},{lastname:"Normand",firstname:"Anne-Louise"}]
+}, {
+  "id": "IND3302",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "B-405",
+  "names": [{lastname:"Ntakaburimvo-Ndayiragije",firstname:"Axel"},{lastname:"Zouar",firstname:"Yassine"}]
+}, {
+  "id": "IND3501",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-315",
+  "names": [{lastname:"Al Mahdi Al Tounsi",firstname:"Mohamed-Rami"},{lastname:"Gignac",firstname:"Sarah"}]
+}, {
+  "id": "IND3501",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-316",
+  "names": [{lastname:"Godin",firstname:"Jean-Sébastien"},{lastname:"Niang",firstname:"Ngoné Arame"}]
+}, {
+  "id": "IND3501",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "A-416",
+  "names": [{lastname:"Nianga Elenga",firstname:"Adiko Bridel"},{lastname:"Zussino",firstname:"Margaux"}]
+}, {
+  "id": "IND3702",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "A-604",
+  "names": "De: Akaffou, Stella-Malicia Chimonet à Lamy-Grenier Sandrine"
+}, {
+  "id": "IND3702",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "C-539.4",
+  "names": [{lastname:"Larose-Tarabulsy",firstname:"Camille"},{lastname:"Neely",firstname:"Patrick"}]
+}, {
+  "id": "IND3702",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "A-621",
+  "names": [{lastname:"Ngoko",firstname:"Pascalin Zephyrin"},{lastname:"Younes",firstname:"Dora"}]
+}, {
+  "id": "IND3903",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "L-6611",
+  "names": [{lastname:"Akaffou",firstname:"Stella-Malicia Chimonet"},{lastname:"Fedi",firstname:"Quentin"}]
+}, {
+  "id": "IND3903",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "L-6613",
+  "names": [{lastname:"Félin-Germain",firstname:"Solène"},{lastname:"Nianga Elenga",firstname:"Adiko Bridel"}]
+}, {
+  "id": "IND3903",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "L-6612",
+  "names": [{lastname:"Ntakaburimvo-Ndayiragije",firstname:"Axel"},{lastname:"Younes",firstname:"Dora"}]
+}, {
+  "id": "IND4109",
+  "section": "1",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "A-532",
+  "names": [{lastname:"Abou-Khalil",firstname:"Raquel"},{lastname:"Legault",firstname:"Francis"}]
+}, {
+  "id": "IND4109",
+  "section": "1",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "A-533",
+  "names": [{lastname:"Levallois",firstname:"Julien"},{lastname:"Wozny",firstname:"Antoine"}]
+}, {
+  "id": "IND4704",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-506",
+  "names": [{lastname:"Barolet",firstname:"Augustin C."},{lastname:"Ginestre",firstname:"Aymerick"}]
+}, {
+  "id": "IND4704",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-508",
+  "names": [{lastname:"Hébert",firstname:"Charles-David"},{lastname:"Yameogo",firstname:"Cheick Farid Aboubacar"}]
+}, {
+  "id": "IND4710",
+  "section": "1",
+  "date": "Samedi 17 Décembre 13:30",
+  "class": "B-512"
+}, {
+  "id": "IND5501",
+  "section": "1",
+  "date": "Samedi 17 Décembre 09:30",
+  "class": "A-533"
+}, {
+  "id": "IND6102A",
+  "section": "1",
+  "date": "Samedi 10 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "IND8111",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 16:00",
+  "class": "A-533"
+}, {
+  "id": "IND8115",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "IND8122",
+  "section": "1",
+  "date": "Mardi 20 Décembre 16:00",
+  "class": "B-304"
+}, {
+  "id": "IND8127A",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 16:00",
+  "class": "B-512",
+  "names": [{lastname:"Aferane",firstname:"Zineb"},{lastname:"Marquis",firstname:"Jérémie"}]
+}, {
+  "id": "IND8127A",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 16:00",
+  "class": "B-508",
+  "names": [{lastname:"Massé",firstname:"Cloé"},{lastname:"Zniber",firstname:"Othmane"}]
+}, {
+  "id": "IND8137A",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "IND8412",
+  "section": "1",
+  "date": "Lundi 12 Décembre 16:00",
+  "class": "B-415"
+}, {
+  "id": "IND8444",
+  "section": "1",
+  "date": "Mardi 13 Décembre 19:00",
+  "class": "B-418"
+}, {
+  "id": "IND8844",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 16:00",
+  "class": "B-508"
+}, {
+  "id": "INF0101",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "L-6611"
+}, {
+  "id": "INF0101",
+  "section": "2",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "L-6612"
+}, {
+  "id": "INF1005A",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "INF1005A",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "B-316",
+  "names": [{lastname:"Abib",firstname:"Narimane"},{lastname:"Gédéon",firstname:"Gandy"}]
+}, {
+  "id": "INF1005A",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "A-416",
+  "names": [{lastname:"Giard",firstname:"Gregory"},{lastname:"Zuchoski",firstname:"David"}]
+}, {
+  "id": "INF1005A",
+  "section": "3",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "B-304",
+  "names": [{lastname:"Aboubacar",firstname:"Housnat"},{lastname:"Guévremont",firstname:"Olivier"}]
+}, {
+  "id": "INF1005A",
+  "section": "3",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "B-314",
+  "names": [{lastname:"Hallée",firstname:"Christophe"},{lastname:"Zalla",firstname:"Adama"}]
+}, {
+  "id": "INF1005A",
+  "section": "4",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "INF1005A",
+  "section": "5",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "A-410",
+  "names": [{lastname:"Abdul Baki",firstname:"Nibal"},{lastname:"Turner",firstname:"Philippe"}]
+}, {
+  "id": "INF1005A",
+  "section": "5",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "A-416",
+  "names": [{lastname:"Venditti",firstname:"Samuel"},{lastname:"Yazali",firstname:"Najat"}]
+}, {
+  "id": "INF1005B",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "A-532 "
+}, {
+  "id": "INF1005B",
+  "section": "2",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "A-532 ",
+  "names": [{lastname:"Abdallah-Minciotti",firstname:"Gabrielle"},{lastname:"Boilard",firstname:"Jean-Philippe"}]
+}, {
+  "id": "INF1005B",
+  "section": "2",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "A-533",
+  "names": [{lastname:"Boisvert",firstname:"Claudia"},{lastname:"Vincent",firstname:"Mathilde"}]
+}, {
+  "id": "INF1005C",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "A-410",
+  "names": [{lastname:"Achkanou",firstname:"Hajar"},{lastname:"Pednault",firstname:"William"}]
+}, {
+  "id": "INF1005C",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-304",
+  "names": [{lastname:"Pharand",firstname:"Coralie"},{lastname:"Zhang",firstname:"Yun Ran"}]
+}, {
+  "id": "INF1005C",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-415"
+}, {
+  "id": "INF1005C",
+  "section": "3",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-316",
+  "names": [{lastname:"Anhoury",firstname:"Marc"},{lastname:"Ham",firstname:"Hatim"}]
+}, {
+  "id": "INF1005C",
+  "section": "3",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "A-416",
+  "names": [{lastname:"Hasrouni",firstname:"Elio"},{lastname:"Sossa",firstname:"Freddy Godgives"}]
+}, {
+  "id": "INF1005C",
+  "section": "3",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-418",
+  "names": [{lastname:"Tchiakpe",firstname:"Yélian Enock Roland"},{lastname:"Vercoustre",firstname:"Maxence"}]
+}, {
+  "id": "INF1005C",
+  "section": "4",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "INF1010",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "A-604"
+}, {
+  "id": "INF1010",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "A-604",
+  "names": [{lastname:"Andalib",firstname:"Shila"},{lastname:"Bonkoungou",firstname:"Serge Loïc"}]
+}, {
+  "id": "INF1010",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "A-622",
+  "names": [{lastname:"Bouchard",firstname:"Alex"},{lastname:"Nicolet",firstname:"Olivier"}]
+}, {
+  "id": "INF1010",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "B-638",
+  "names": [{lastname:"Peronnet",firstname:"Guillaume Philippe"},{lastname:"Zerigui",firstname:"Amel"}]
+}, {
+  "id": "INF1010",
+  "section": "3",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "INF1500",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "B-411",
+  "names": [{lastname:"Abdillahi Ahmed",firstname:"Man"},{lastname:"Bouis",firstname:"Constantin"}]
+}, {
+  "id": "INF1500",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "B-415",
+  "names": [{lastname:"Boutin Messier",firstname:"Jonathan"},{lastname:"Kdider",firstname:"Larabi"}]
+}, {
+  "id": "INF1500",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "B-418",
+  "names": [{lastname:"Khoury",firstname:"Daniel"},{lastname:"Zhang",firstname:"Yun Ran"}]
+}, {
+  "id": "INF1600",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 13:30",
+  "class": "L-6611",
+  "names": [{lastname:"Ait Yahia",firstname:"Syphax"},{lastname:"Gauthier",firstname:"Kevin"}]
+}, {
+  "id": "INF1600",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 13:30",
+  "class": "L-6613",
+  "names": [{lastname:"Gervais-Ranger",firstname:"Jonathan"},{lastname:"Van Dyke",firstname:"Stéphanie"}]
+}, {
+  "id": "INF2010",
+  "section": "1",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "B-316",
+  "names": [{lastname:"Agagnier",firstname:"Félix"},{lastname:"Gautier",firstname:"Tom"}]
+}, {
+  "id": "INF2010",
+  "section": "1",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "A-416",
+  "names": [{lastname:"Gupta",firstname:"Aparana"},{lastname:"Tran",firstname:"Alex"}]
+}, {
+  "id": "INF2010",
+  "section": "2",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "A-410",
+  "names": [{lastname:"Achour",firstname:"Massinissa"},{lastname:"Leduc",firstname:"Vincent"}]
+}, {
+  "id": "INF2010",
+  "section": "2",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "B-401",
+  "names": [{lastname:"Lonkeng Sonkwe",firstname:"Benjamin"},{lastname:"Zarrari",firstname:"Imade"}]
+}, {
+  "id": "INF2610",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "INF2705",
+  "section": "1",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "INF3405",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "A-532",
+  "names": [{lastname:"Abdou Thomas",firstname:"Youssef"},{lastname:"Ouellet-Payeur",firstname:"Nicolas"}]
+}, {
+  "id": "INF3405",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "A-533",
+  "names": [{lastname:"Picard",firstname:"Claudy"},{lastname:"Zarrari",firstname:"Imade"}]
+}, {
+  "id": "INF3500",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "INF3610",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "B-314"
+}, {
+  "id": "INF3710",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "B-415"
+}, {
+  "id": "INF4410",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "INF4420A",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "A-621",
+  "names": [{lastname:"Abdou Thomas",firstname:"Youssef"},{lastname:"Marbouh",firstname:"Hamza"}]
+}, {
+  "id": "INF4420A",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "A-622",
+  "names": [{lastname:"Martin",firstname:"Marie Danielle Claudine"},{lastname:"Zins",firstname:"Pierre"}]
+}, {
+  "id": "INF4705",
+  "section": "1",
+  "date": "Jeudi 08 Décembre 13:30",
+  "class": "C-539.6"
+}, {
+  "id": "INF4710",
+  "section": "1",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-316",
+  "names": [{lastname:"An",firstname:"Denis"},{lastname:"Lalande",firstname:"Guillaume"}]
+}, {
+  "id": "INF4710",
+  "section": "1",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "A-416",
+  "names": [{lastname:"Lam",firstname:"Ba Samson"},{lastname:"Wimsingues",firstname:"Jérémy"}]
+}, {
+  "id": "INF6101",
+  "section": "1",
+  "date": "Lundi 12 Décembre 13:30",
+  "class": "A-522"
+}, {
+  "id": "INF6603",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-405"
+}, {
+  "id": "INF8402",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "B-429",
+  "names": [{lastname:"Ajjoub",firstname:"Samer"},{lastname:"Gamache",firstname:"Clément"}]
+}, {
+  "id": "INF8402",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "A-503",
+  "names": [{lastname:"Gassais",firstname:"Robin"},{lastname:"Nguyen",firstname:"Kenny"}]
+}, {
+  "id": "INF8402",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "A-522",
+  "names": [{lastname:"Nguyen",firstname:"Thanh Nam"},{lastname:"Zolnouri",firstname:"Mahdi"}]
+}, {
+  "id": "INF8500",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "B-505"
+}, {
+  "id": "INF8601",
+  "section": "1",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "INF8702",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "INF8725",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "LOG1000",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "L-6611",
+  "names": [{lastname:"Ahohoue",firstname:"Nourou-Dine"},{lastname:"Girard",firstname:"Charles"}]
+}, {
+  "id": "LOG1000",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "L-6613",
+  "names": [{lastname:"Gosselin",firstname:"Maxime"},{lastname:"Younis",firstname:"Gergi"}]
+}, {
+  "id": "LOG2410",
+  "section": "1",
+  "date": "Mardi 20 Décembre 13:30",
+  "class": "B-415",
+  "names": [{lastname:"Achour",firstname:"Massinissa"},{lastname:"Giurca",firstname:"Catalin"}]
+}, {
+  "id": "LOG2410",
+  "section": "1",
+  "date": "Mardi 20 Décembre 13:30",
+  "class": "B-418",
+  "names": [{lastname:"Grimard",firstname:"Eric"},{lastname:"Zarrari",firstname:"Imade"}]
+}, {
+  "id": "LOG2420",
+  "section": "1",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "B-411",
+  "names": [{lastname:"Al-Romhein",firstname:"Jean-Marc"},{lastname:"Hou",firstname:"Yawen"}]
+}, {
+  "id": "LOG2420",
+  "section": "1",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "B-418",
+  "names": [{lastname:"Jasmin",firstname:"Jérémie"},{lastname:"Vu",firstname:"Alexandre"}]
+}, {
+  "id": "LOG2420",
+  "section": "2",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "LOG2810",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "A-532",
+  "names": [{lastname:"Achour",firstname:"Massinissa"},{lastname:"Servant",firstname:"Marc-André"}]
+}, {
+  "id": "LOG2810",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "A-533",
+  "names": [{lastname:"Simelus",firstname:"Ralph Luckernst Noel"},{lastname:"Vu",firstname:"Alexandre"}]
+}, {
+  "id": "LOG2810",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "A-533",
+  "names": [{lastname:"Agagnier",firstname:"Félix"},{lastname:"Guilbault",firstname:"Catherine"}]
+}, {
+  "id": "LOG2810",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "C-539.6",
+  "names": [{lastname:"Hardie",firstname:"Ryan"},{lastname:"Wong",firstname:"Yannick"}]
+}, {
+  "id": "LOG3000",
+  "section": "1",
+  "date": "Samedi 17 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "LOG3210",
+  "section": "1",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "LOG3430",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "M-1010",
+  "names": [{lastname:"Ajjoub",firstname:"Samer"},{lastname:"Khedimallah",firstname:"Wicem"}]
+}, {
+  "id": "LOG3430",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "M-1510",
+  "names": [{lastname:"Khoury",firstname:"Jennifer"},{lastname:"Yerma",firstname:"Julien"}]
+}, {
+  "id": "LOG4410",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "A-526",
+  "names": [{lastname:"Amrani",firstname:"Abdellatif"},{lastname:"Huard-Aspirot",firstname:"Pierre Luc"}]
+}, {
+  "id": "LOG4410",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-508",
+  "names": [{lastname:"Jacob",firstname:"Simon"},{lastname:"Zemmahi",firstname:"Youssef"}]
+}, {
+  "id": "LOG4420",
+  "section": "1",
+  "date": "Mardi 20 Décembre 13:30",
+  "class": "A-532",
+  "names": [{lastname:"Abiven",firstname:"Roxane"},{lastname:"Nordholts",firstname:"Johan"}]
+}, {
+  "id": "LOG4420",
+  "section": "1",
+  "date": "Mardi 20 Décembre 13:30",
+  "class": "A-533",
+  "names": [{lastname:"Occean",firstname:"Laurius"},{lastname:"Zolnouri",firstname:"Mahdi"}]
+}, {
+  "id": "LOG4715",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "A-503",
+  "names": [{lastname:"Acierno",firstname:"Robin"},{lastname:"Gaudreau",firstname:"Samuel"}]
+}, {
+  "id": "LOG4715",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "A-533",
+  "names": [{lastname:"Gauthier-Farley",firstname:"Maxime"},{lastname:"Vrignaud",firstname:"Benoît"}]
+}, {
+  "id": "LOG6308",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "A-621"
+}, {
+  "id": "LOG8430",
+  "section": "1",
+  "date": "Mardi 13 Décembre 13:30",
+  "class": "B-405"
+}, {
+  "id": "MEC1205",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "MEC1205",
+  "section": "2",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "MEC1205",
+  "section": "3",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "MEC1205",
+  "section": "4",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "A-416"
+}, {
+  "id": "MEC1205",
+  "section": "5",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-316"
+}, {
+  "id": "MEC1205",
+  "section": "6",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "MEC1205",
+  "section": "7",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "MEC1210",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "B-512",
+  "names": [{lastname:"Achard",firstname:"Olivier"},{lastname:"Stock",firstname:"Pierre-Nicolas"}]
+}, {
+  "id": "MEC1210",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "B-508",
+  "names": [{lastname:"Taylor",firstname:"William"},{lastname:"Wetie Tankeu",firstname:"Kevin Jordan"}]
+}, {
+  "id": "MEC1210",
+  "section": "2",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "B-508",
+  "names": [{lastname:"Akono",firstname:"Philippe Elie"},{lastname:"Le Scieller",firstname:"Loïc"}]
+}, {
+  "id": "MEC1210",
+  "section": "2",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "C-539.6",
+  "names": [{lastname:"Maharilaza",firstname:"Alban"},{lastname:"Zoubiri",firstname:"Karim"}]
+}, {
+  "id": "MEC1410",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "MEC1410",
+  "section": "2",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-405",
+  "names": [{lastname:"Amrouche",firstname:"Kamel Yousri"},{lastname:"Labbé",firstname:"Vincent"}]
+}, {
+  "id": "MEC1410",
+  "section": "2",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-429",
+  "names": [{lastname:"Lapierre-Fecteau",firstname:"Colin"},{lastname:"Zeni",firstname:"Valentine"}]
+}, {
+  "id": "MEC1410",
+  "section": "3",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "A-410"
+}, {
+  "id": "MEC1410",
+  "section": "4",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "MEC1410",
+  "section": "5",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-418",
+  "names": [{lastname:"Abbas",firstname:"Mohamed Anis"},{lastname:"Mutshaila Kasongo",firstname:"Josias"}]
+}, {
+  "id": "MEC1410",
+  "section": "5",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-415",
+  "names": [{lastname:"Paris",firstname:"Alexandre"},{lastname:"Zargou",firstname:"Messaoud"}]
+}, {
+  "id": "MEC1410",
+  "section": "6",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-316",
+  "names": [{lastname:"Albaret",firstname:"Charles"},{lastname:"Hurtubise",firstname:"Philip"}]
+}, {
+  "id": "MEC1410",
+  "section": "6",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "A-416",
+  "names": [{lastname:"Karam",firstname:"Maximilian"},{lastname:"Walker",firstname:"Alexandre"}]
+}, {
+  "id": "MEC1410",
+  "section": "7",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-401",
+  "names": [{lastname:"Arsenault-Hurtubise",firstname:"Ugo"},{lastname:"LeBlanc-Robichaud",firstname:"Camille"}]
+}, {
+  "id": "MEC1410",
+  "section": "7",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-411",
+  "names": [{lastname:"Le Coz",firstname:"Mateo"},{lastname:"Waltz",firstname:"Antoine"}]
+}, {
+  "id": "MEC1420",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "MEC1420",
+  "section": "2",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "B-415",
+  "names": [{lastname:"Achard",firstname:"Olivier"},{lastname:"Koulmi",firstname:"Ikram"}]
+}, {
+  "id": "MEC1420",
+  "section": "2",
+  "date": "Vendredi 16 Décembre 09:30",
+  "class": "B-411",
+  "names": [{lastname:"Lalancette",firstname:"Camille"},{lastname:"Villa Roncal",firstname:"Bryan Vladimir"}]
+}, {
+  "id": "MEC1510",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "A-416"
+}, {
+  "id": "MEC1510",
+  "section": "2",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-505",
+  "names": [{lastname:"André",firstname:"Bruno Alain Tomasz"},{lastname:"Medeiros",firstname:"Alexandre"}]
+}, {
+  "id": "MEC1510",
+  "section": "2",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-506",
+  "names": [{lastname:"Millien",firstname:"Kevin"},{lastname:"Waltz",firstname:"Antoine"}]
+}, {
+  "id": "MEC1510",
+  "section": "3",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "A-532"
+}, {
+  "id": "MEC1510",
+  "section": "4",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "A-532",
+  "names": [{lastname:"Adamou Soumana",firstname:"Abdoul Nasser"},{lastname:"Charest-Rettig",firstname:"François"}]
+}, {
+  "id": "MEC1510",
+  "section": "4",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "A-533",
+  "names": [{lastname:"Cléroux",firstname:"Frédérick"},{lastname:"Walker",firstname:"Alexandre"}]
+}, {
+  "id": "MEC1510",
+  "section": "5",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-315"
+}, {
+  "id": "MEC1515",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "MEC1515",
+  "section": "2",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-415",
+  "names": [{lastname:"Abakar Adam",firstname:"Moussa"},{lastname:"Hervieux",firstname:"Félix-Xavier"}]
+}, {
+  "id": "MEC1515",
+  "section": "2",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-418",
+  "names": [{lastname:"Jean",firstname:"Vanina Gaëlle"},{lastname:"Zargou",firstname:"Messaoud"}]
+}, {
+  "id": "MEC1515",
+  "section": "3",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "MEC1515",
+  "section": "4",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-411",
+  "names": [{lastname:"Adiélou",firstname:"Jean-Philippe"},{lastname:"Gerbouin",firstname:"Jean-Baptiste"}]
+}, {
+  "id": "MEC1515",
+  "section": "4",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-429",
+  "names": [{lastname:"Himmad",firstname:"Ismail"},{lastname:"Yebadokpo",firstname:"Rony Gédéon"}]
+}, {
+  "id": "MEC1515",
+  "section": "5",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "A-416"
+}, {
+  "id": "MEC2115",
+  "section": "1",
+  "date": "Samedi 10 Décembre 09:30",
+  "class": "A-532"
+}, {
+  "id": "MEC2200",
+  "section": "1",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "A-604"
+}, {
+  "id": "MEC2200",
+  "section": "2",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "MEC2200",
+  "section": "3",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "MEC2310",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 13:30",
+  "class": "B-415"
+}, {
+  "id": "MEC2405",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 09:30",
+  "class": "A-532",
+  "names": [{lastname:"Abi Haidar",firstname:"Ahmad"},{lastname:"Mcheimach",firstname:"Mahdi"}]
+}, {
+  "id": "MEC2405",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 09:30",
+  "class": "A-533",
+  "names": [{lastname:"Morisset",firstname:"Stefan"},{lastname:"Zayat",firstname:"Yann"}]
+}, {
+  "id": "MEC2420",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "A-604"
+}, {
+  "id": "MEC2420",
+  "section": "2",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "MEC2420",
+  "section": "3",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "A-621",
+  "names": [{lastname:"Ahuanlla-Huaraca",firstname:"Leonardo"},{lastname:"Labonté-Lanthier",firstname:"Maxime"}]
+}, {
+  "id": "MEC2420",
+  "section": "3",
+  "date": "Mercredi 07 Décembre 09:30",
+  "class": "A-622",
+  "names": [{lastname:"Lacombe",firstname:"Louis"},{lastname:"Vincent",firstname:"Éliot"}]
+}, {
+  "id": "MEC2435",
+  "section": "1",
+  "date": "Samedi 17 Décembre 13:30",
+  "class": "A-532",
+  "names": [{lastname:"Abdelnour",firstname:"Carl"},{lastname:"Massé",firstname:"Gauthier"}]
+}, {
+  "id": "MEC2435",
+  "section": "1",
+  "date": "Samedi 17 Décembre 13:30",
+  "class": "A-533",
+  "names": [{lastname:"Ménard",firstname:"Annabelle"},{lastname:"Watelle",firstname:"Sabrina"}]
+}, {
+  "id": "MEC2500",
+  "section": "1",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "B-405",
+  "names": [{lastname:"Albert",firstname:"Patricia"},{lastname:"Dessouki",firstname:"Alexandre"}]
+}, {
+  "id": "MEC2500",
+  "section": "1",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "B-415",
+  "names": [{lastname:"Deumeni",firstname:"Ange Emmanuel"},{lastname:"Zreik",firstname:"Jad"}]
+}, {
+  "id": "MEC3200",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "A-604",
+  "names": [{lastname:"Abi Haidar",firstname:"Ahmad"},{lastname:"Rohar",firstname:"Patrick"}]
+}, {
+  "id": "MEC3200",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "A-621",
+  "names": [{lastname:"Rouillard",firstname:"Vincent"},{lastname:"Weber",firstname:"Nathan"}]
+}, {
+  "id": "MEC3200",
+  "section": "2",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "A-621",
+  "names": [{lastname:"Afonso",firstname:"William"},{lastname:"Lagunas Herrera",firstname:"Marlene"}]
+}, {
+  "id": "MEC3200",
+  "section": "2",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "A-622",
+  "names": [{lastname:"Lalyre",firstname:"Augustin  Alphone"},{lastname:"Vernay",firstname:"Julien"}]
+}, {
+  "id": "MEC3215",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "MEC3230",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "MEC3230",
+  "section": "2",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "MEC3305",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "A-416",
+  "names": [{lastname:"Allemand",firstname:"Jérémy"},{lastname:"Seck",firstname:"Mamadou Mansour Laye"}]
+}, {
+  "id": "MEC3305",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-411",
+  "names": [{lastname:"Séraphin",firstname:"Hirohito-Hugues"},{lastname:"Weber",firstname:"Nathan"}]
+}, {
+  "id": "MEC3305",
+  "section": "2",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-411",
+  "names": [{lastname:"Abdelnour",firstname:"Carl"},{lastname:"Laneuville",firstname:"Vincent"}]
+}, {
+  "id": "MEC3305",
+  "section": "2",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-429",
+  "names": [{lastname:"Magher",firstname:"Jennifer"},{lastname:"Watier",firstname:"Mathieu"}]
+}, {
+  "id": "MEC3400",
+  "section": "1",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "A-604"
+}, {
+  "id": "MEC3430",
+  "section": "1",
+  "date": "Jeudi 08 Décembre 13:30",
+  "class": "B-415"
+}, {
+  "id": "MEC3430",
+  "section": "2",
+  "date": "Jeudi 08 Décembre 13:30",
+  "class": "B-415",
+  "names": [{lastname:"Abdelnour",firstname:"Carl"},{lastname:"Leclerc",firstname:"Philippe"}]
+}, {
+  "id": "MEC3430",
+  "section": "2",
+  "date": "Jeudi 08 Décembre 13:30",
+  "class": "B-405",
+  "names": [{lastname:"Lefrançois",firstname:"Rachel"},{lastname:"Wehbe",firstname:"Mohamad"}]
+}, {
+  "id": "MEC3455",
+  "section": "1",
+  "date": "Lundi 12 Décembre 13:30",
+  "class": "A-410"
+}, {
+  "id": "MEC3520",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 13:30",
+  "class": "B-405",
+  "names": [{lastname:"Ajbabdi",firstname:"Yassine"},{lastname:"Mourgue",firstname:"Florian"}]
+}, {
+  "id": "MEC3520",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 13:30",
+  "class": "B-415",
+  "names": [{lastname:"Olivier",firstname:"Felix"},{lastname:"Zimmermann",firstname:"Yann"}]
+}, {
+  "id": "MEC3520",
+  "section": "2",
+  "date": "Mercredi 21 Décembre 13:30",
+  "class": "B-415"
+}, {
+  "id": "MEC4122",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "MEC4122",
+  "section": "2",
+  "date": "Dimanche 11 Décembre 09:30",
+  "class": "B-508"
+}, {
+  "id": "MEC4280",
+  "section": "1",
+  "date": "Mardi 20 Décembre 09:30",
+  "class": "A-532",
+  "names": [{lastname:"Ajbabdi",firstname:"Yassine"},{lastname:"Lamarre",firstname:"Charles"}]
+}, {
+  "id": "MEC4280",
+  "section": "1",
+  "date": "Mardi 20 Décembre 09:30",
+  "class": "A-533",
+  "names": [{lastname:"Laniel",firstname:"Hubert"},{lastname:"Zhu",firstname:"Yiran"}]
+}, {
+  "id": "MEC6216",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "MEC6306A",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "A-621"
+}, {
+  "id": "MEC8250",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "MEC8252",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "B-638"
+}, {
+  "id": "MEC8254",
+  "section": "1",
+  "date": "Mardi 13 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "MEC8312",
+  "section": "1",
+  "date": "Mardi 13 Décembre 19:00",
+  "class": "B-415"
+}, {
+  "id": "MEC8350",
+  "section": "1",
+  "date": "Samedi 17 Décembre 09:30",
+  "class": "A-532"
+}, {
+  "id": "MEC8356",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "MEC8415",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 13:30",
+  "class": "B-314"
+}, {
+  "id": "MEC8450",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 13:30",
+  "class": "A-526"
+}, {
+  "id": "MEC8550",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "MEC8552",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "B-304"
+}, {
+  "id": "MEC8910A",
+  "section": "1",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "B-315",
+  "names": [{lastname:"Abdelfattah",firstname:"Muhamed"},{lastname:"Jeyarajan Nelson",firstname:"Prince"}]
+}, {
+  "id": "MEC8910A",
+  "section": "1",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "B-316",
+  "names": [{lastname:"Jolis",firstname:"Raphaël"},{lastname:"Zaribafzadeh",firstname:"Mohammadreza"}]
+}, {
+  "id": "MET8106",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "B-314"
+}, {
+  "id": "MIN1101",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "A-416"
+}, {
+  "id": "MIN3210",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "A-604"
+}, {
+  "id": "MIN3311",
+  "section": "1",
+  "date": "Lundi 12 Décembre 13:30",
+  "class": "B-415"
+}, {
+  "id": "MIN3510",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "MTH0101",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "MTH0101",
+  "section": "2",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-418",
+  "names": [{lastname:"Abdel Baghy",firstname:"Sihem"},{lastname:"Lee Hanul",firstname:"Nelinaritsima"}]
+}, {
+  "id": "MTH0101",
+  "section": "2",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-415",
+  "names": [{lastname:"Lichtle",firstname:"Teaotahitoani"},{lastname:"Welti",firstname:"Alexandre"}]
+}, {
+  "id": "MTH0101",
+  "section": "3",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-415"
+}, {
+  "id": "MTH0102",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "B-638"
+}, {
+  "id": "MTH0102",
+  "section": "2",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "A-604",
+  "names": [{lastname:"Ait Oumessaoud",firstname:"Yaghourta"},{lastname:"El Ayoubi",firstname:"Hussein"}]
+}, {
+  "id": "MTH0102",
+  "section": "2",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "A-622",
+  "names": [{lastname:"El Hadji",firstname:"Lalla"},{lastname:"Zambo Nguele",firstname:"Aymeric Franck"}]
+}, {
+  "id": "MTH0102",
+  "section": "3",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "B-638",
+  "names": [{lastname:"Abdel Baghy",firstname:"Sihem"},{lastname:"Bochin",firstname:"Edouard"}]
+}, {
+  "id": "MTH0102",
+  "section": "3",
+  "date": "Dimanche 18 Décembre 13:30",
+  "class": "A-604",
+  "names": [{lastname:"Bojji",firstname:"Samy"},{lastname:"Ziggar",firstname:"Elisée Maphi"}]
+}, {
+  "id": "MTH0103",
+  "section": "1",
+  "date": "Jeudi 08 Décembre 13:30",
+  "class": "A-604"
+}, {
+  "id": "MTH0103",
+  "section": "2",
+  "date": "Jeudi 08 Décembre 13:30",
+  "class": "A-604"
+}, {
+  "id": "MTH0104",
+  "section": "1",
+  "date": "Samedi 10 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "MTH1007",
+  "section": "1",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "A-621",
+  "names": [{lastname:"Alaoui",firstname:"Nacer"},{lastname:"Koura Souleman Zoumarou",firstname:"Shehah"}]
+}, {
+  "id": "MTH1007",
+  "section": "1",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "A-622",
+  "names": [{lastname:"Labrosse",firstname:"Hugo"},{lastname:"Zussino",firstname:"Margaux"}]
+}, {
+  "id": "MTH1007",
+  "section": "2",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-304",
+  "names": [{lastname:"Ajji",firstname:"Zineb"},{lastname:"El Badoury",firstname:"Meryem"}]
+}, {
+  "id": "MTH1007",
+  "section": "2",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-314",
+  "names": [{lastname:"Flandez",firstname:"Michael"},{lastname:"Xing",firstname:"Paul"}]
+}, {
+  "id": "MTH1007",
+  "section": "3",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-506",
+  "names": [{lastname:"Amoussou",firstname:"Zionhou Elotode Comlan"},{lastname:"Grenier",firstname:"Pascal"}]
+}, {
+  "id": "MTH1007",
+  "section": "3",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-508",
+  "names": [{lastname:"Groleau",firstname:"Félix"},{lastname:"Zakaria",firstname:"Hatim"}]
+}, {
+  "id": "MTH1007",
+  "section": "4",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-315",
+  "names": [{lastname:"Achour",firstname:"Massinissa"},{lastname:"Laperrière",firstname:"Jean-Sébastien"}]
+}, {
+  "id": "MTH1007",
+  "section": "4",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-405",
+  "names": [{lastname:"Lauzon",firstname:"Olivier"},{lastname:"Trinh",firstname:"Tommy"}]
+}, {
+  "id": "MTH1007",
+  "section": "5",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "A-604"
+}, {
+  "id": "MTH1007",
+  "section": "6",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "MTH1007",
+  "section": "7",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "A-410",
+  "names": [{lastname:"Arcouet",firstname:"Juliette"},{lastname:"Jian",firstname:"Yi Fan"}]
+}, {
+  "id": "MTH1007",
+  "section": "7",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-401",
+  "names": [{lastname:"Jolin",firstname:"Pierre-Olivier"},{lastname:"Toukal",firstname:"Monssaf"}]
+}, {
+  "id": "MTH1007",
+  "section": "8",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "A-532"
+}, {
+  "id": "MTH1007",
+  "section": "9",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "MTH1007",
+  "section": "10",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "MTH1007",
+  "section": "11",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "B-316",
+  "names": [{lastname:"Alexandre",firstname:"Philippe"},{lastname:"Giroux-Huppé",firstname:"Mathieu"}]
+}, {
+  "id": "MTH1007",
+  "section": "11",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "A-416",
+  "names": [{lastname:"Gravel",firstname:"Frédérique"},{lastname:"Zuchoski",firstname:"David"}]
+}, {
+  "id": "MTH1101",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "MTH1101",
+  "section": "2",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "C-539.4",
+  "names": [{lastname:"Abouna Zoa",firstname:"Guy Carel"},{lastname:"Farah",firstname:"Angela"}]
+}, {
+  "id": "MTH1101",
+  "section": "2",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "C-539.6",
+  "names": [{lastname:"Fawzy",firstname:"Nardine"},{lastname:"Zargou",firstname:"Messaoud"}]
+}, {
+  "id": "MTH1101",
+  "section": "3",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "A-621",
+  "names": [{lastname:"Achkanou",firstname:"Hajar"},{lastname:"Landry",firstname:"Catherine"}]
+}, {
+  "id": "MTH1101",
+  "section": "3",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "A-622",
+  "names": [{lastname:"LeBlanc-Robichaud",firstname:"Camille"},{lastname:"Zhang",firstname:"Yun Ran"}]
+}, {
+  "id": "MTH1101",
+  "section": "4",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-314",
+  "names": [{lastname:"Abdillahi Ahmed",firstname:"Man"},{lastname:"Lapierre",firstname:"Mariève"}]
+}, {
+  "id": "MTH1101",
+  "section": "4",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-315",
+  "names": [{lastname:"Larocque-Sanchez",firstname:"Kristopher"},{lastname:"Villeneuve",firstname:"Nicolas"}]
+}, {
+  "id": "MTH1101",
+  "section": "5",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-512"
+}, {
+  "id": "MTH1101",
+  "section": "6",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "A-410"
+}, {
+  "id": "MTH1101",
+  "section": "7",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "MTH1101",
+  "section": "8",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "A-604"
+}, {
+  "id": "MTH1101",
+  "section": "9",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-316",
+  "names": [{lastname:"Abbas",firstname:"Mohamed Anis"},{lastname:"Gravel",firstname:"Frédérique"}]
+}, {
+  "id": "MTH1101",
+  "section": "9",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "A-416",
+  "names": [{lastname:"Grigore",firstname:"Andrei"},{lastname:"Zeni",firstname:"Valentine"}]
+}, {
+  "id": "MTH1101",
+  "section": "10",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-505",
+  "names": [{lastname:"Alexandre",firstname:"Philippe"},{lastname:"Lessard",firstname:"David"}]
+}, {
+  "id": "MTH1101",
+  "section": "10",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-506",
+  "names": [{lastname:"Lherisson",firstname:"Christian"},{lastname:"Zuchoski",firstname:"David"}]
+}, {
+  "id": "MTH1101",
+  "section": "11",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-508",
+  "names": [{lastname:"Abdul Baki",firstname:"Nibal"},{lastname:"Razk",firstname:"Cherry Gobran Tobia"}]
+}, {
+  "id": "MTH1101",
+  "section": "11",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "A-526",
+  "names": [{lastname:"Rivas-Canales",firstname:"Ronald"},{lastname:"Wandege",firstname:"Drossia"}]
+}, {
+  "id": "MTH1101",
+  "section": "12",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "MTH1101S",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 09:30",
+  "class": "B-304"
+}, {
+  "id": "MTH1102",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "A-604"
+}, {
+  "id": "MTH1102",
+  "section": "2",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "A-410"
+}, {
+  "id": "MTH1102",
+  "section": "3",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "B-316",
+  "names": [{lastname:"Abderahim",firstname:"Issa Abderahim"},{lastname:"Gingras",firstname:"Pierre-Luc"}]
+}, {
+  "id": "MTH1102",
+  "section": "3",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "A-416",
+  "names": [{lastname:"Gingras",firstname:"Stéphanie"},{lastname:"Vicaire",firstname:"Gabrielle"}]
+}, {
+  "id": "MTH1102",
+  "section": "4",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "B-506",
+  "names": [{lastname:"Arseneault",firstname:"Samuel"},{lastname:"Ghrabli",firstname:"Amine"}]
+}, {
+  "id": "MTH1102",
+  "section": "4",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "B-508",
+  "names": [{lastname:"Gourai",firstname:"Salaheddine"},{lastname:"Zanotty-Beaudry",firstname:"Victoria"}]
+}, {
+  "id": "MTH1102",
+  "section": "5",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "A-532"
+}, {
+  "id": "MTH1110",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 13:30",
+  "class": "A-532"
+}, {
+  "id": "MTH1110",
+  "section": "2",
+  "date": "Mercredi 14 Décembre 13:30",
+  "class": "A-532",
+  "names": [{lastname:"Beaudoin",firstname:"Antoine"},{lastname:"Chochos",firstname:"Charalampos"}]
+}, {
+  "id": "MTH1110",
+  "section": "2",
+  "date": "Mercredi 14 Décembre 13:30",
+  "class": "A-533",
+  "names": [{lastname:"Denis",firstname:"Mathieu"},{lastname:"Wong",firstname:"Fabien"}]
+}, {
+  "id": "MTH1115",
+  "section": "1",
+  "date": "Mardi 13 Décembre 13:30",
+  "class": "A-410"
+}, {
+  "id": "MTH1115",
+  "section": "2",
+  "date": "Mardi 13 Décembre 13:30",
+  "class": "B-512"
+}, {
+  "id": "MTH1115",
+  "section": "3",
+  "date": "Mardi 13 Décembre 13:30",
+  "class": "A-604"
+}, {
+  "id": "MTH1115D",
+  "section": "1",
+  "date": "Mardi 13 Décembre 13:30",
+  "class": "A-532",
+  "names": [{lastname:"Absi",firstname:"Christophe"},{lastname:"Khoury",firstname:"Maria"}]
+}, {
+  "id": "MTH1115D",
+  "section": "1",
+  "date": "Mardi 13 Décembre 13:30",
+  "class": "A-533",
+  "names": [{lastname:"Landry-Leclerc",firstname:"Jonathan"},{lastname:"Zreik",firstname:"Jad"}]
+}, {
+  "id": "MTH2110",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "MTH2120",
+  "section": "1",
+  "date": "Lundi 19 Décembre 13:30",
+  "class": "A-532"
+}, {
+  "id": "MTH2210A",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "A-416"
+}, {
+  "id": "MTH2210A",
+  "section": "2",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "A-410"
+}, {
+  "id": "MTH2210A",
+  "section": "3",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "B-314"
+}, {
+  "id": "MTH2210A",
+  "section": "4",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "B-315"
+}, {
+  "id": "MTH2210B",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "MTH2210C",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "MTH2210C",
+  "section": "2",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "A-621",
+  "names": [{lastname:"Abdelnour",firstname:"Carl"},{lastname:"De Tilly",firstname:"Phillipe"}]
+}, {
+  "id": "MTH2210C",
+  "section": "2",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "A-604",
+  "names": [{lastname:"Deumeni",firstname:"Ange Emmanuel"},{lastname:"Velickovski",firstname:"Martin"}]
+}, {
+  "id": "MTH2302A",
+  "section": "1",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "MTH2302B",
+  "section": "1",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "B-314"
+}, {
+  "id": "MTH2302B",
+  "section": "2",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "B-415",
+  "names": [{lastname:"Andraos",firstname:"Adib"},{lastname:"Cioc",firstname:"Marius Ioan"}]
+}, {
+  "id": "MTH2302B",
+  "section": "2",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "A-416",
+  "names": [{lastname:"Couillard",firstname:"Maxime"},{lastname:"Vernay",firstname:"Julien"}]
+}, {
+  "id": "MTH2302B",
+  "section": "3",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "B-415"
+}, {
+  "id": "MTH2302C",
+  "section": "1",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "B-508"
+}, {
+  "id": "MTH2302C",
+  "section": "2",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "B-512"
+}, {
+  "id": "MTH2302D",
+  "section": "1",
+  "date": "Samedi 17 Décembre 09:30",
+  "class": "A-604"
+}, {
+  "id": "MTH2302D",
+  "section": "2",
+  "date": "Samedi 17 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "MTH2302D",
+  "section": "3",
+  "date": "Samedi 17 Décembre 09:30",
+  "class": "A-621",
+  "names": [{lastname:"Achiba",firstname:"Yousra"},{lastname:"Gagnon",firstname:"Genevieve"}]
+}, {
+  "id": "MTH2302D",
+  "section": "3",
+  "date": "Samedi 17 Décembre 09:30",
+  "class": "A-622",
+  "names": [{lastname:"Jomni",firstname:"Hachem"},{lastname:"Waota",firstname:"Fatim Alexandra"}]
+}, {
+  "id": "MTH3400",
+  "section": "1",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "B-638"
+}, {
+  "id": "MTH8207",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "B-304"
+}, {
+  "id": "MTH8442",
+  "section": "1",
+  "date": "Jeudi 08 Décembre 13:30",
+  "class": "B-411"
+}, {
+  "id": "MTR1035C",
+  "section": "1",
+  "date": "Samedi 17 Décembre 13:30",
+  "class": "B-418",
+  "names": [{lastname:"Ajji",firstname:"Zineb"},{lastname:"Pouzergue",firstname:"Marie"}]
+}, {
+  "id": "MTR1035C",
+  "section": "1",
+  "date": "Samedi 17 Décembre 13:30",
+  "class": "B-415",
+  "names": [{lastname:"Primeau Breton",firstname:"Marc-André"},{lastname:"Zouini",firstname:"Yahya"}]
+}, {
+  "id": "MTR1035C",
+  "section": "2",
+  "date": "Samedi 17 Décembre 13:30",
+  "class": "B-415"
+}, {
+  "id": "MTR2000",
+  "section": "1",
+  "date": "Samedi 17 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "MTR2000",
+  "section": "2",
+  "date": "Samedi 17 Décembre 09:30",
+  "class": "B-314",
+  "names": [{lastname:"Aguilar",firstname:"Vincent"},{lastname:"Giguere",firstname:"Jean-Simon"}]
+}, {
+  "id": "MTR2000",
+  "section": "2",
+  "date": "Samedi 17 Décembre 09:30",
+  "class": "B-315",
+  "names": [{lastname:"Grigore",firstname:"Andrei"},{lastname:"Yoshida",firstname:"Nobory"}]
+}, {
+  "id": "MTR2000",
+  "section": "3",
+  "date": "Samedi 17 Décembre 09:30",
+  "class": "B-415"
+}, {
+  "id": "PHS0101",
+  "section": "1",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "B-638"
+}, {
+  "id": "PHS0101",
+  "section": "2",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "B-638",
+  "names": [{lastname:"Autissier",firstname:"Guillaume"},{lastname:"Ekondi",firstname:"Christy-Honor"}]
+}, {
+  "id": "PHS0101",
+  "section": "2",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "A-622",
+  "names": [{lastname:"El Meghari",firstname:"Naji"},{lastname:"Ziggar",firstname:"Elisée Maphi"}]
+}, {
+  "id": "PHS0101",
+  "section": "3",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "A-604"
+}, {
+  "id": "PHS0101",
+  "section": "4",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "A-621",
+  "names": [{lastname:"Abdul Baki",firstname:"Nibal"},{lastname:"Ngameni Fouman",firstname:"Samuel Parfait"}]
+}, {
+  "id": "PHS0101",
+  "section": "4",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "A-604",
+  "names": [{lastname:"Nguetsa Ateufack",firstname:"Arnold Rabane"},{lastname:"Tchuidjang",firstname:"Dieu-Ne-Dort"}]
+}, {
+  "id": "PHS0102",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 09:30",
+  "class": "B-315"
+}, {
+  "id": "PHS0102",
+  "section": "2",
+  "date": "Mercredi 21 Décembre 09:30",
+  "class": "B-314"
+}, {
+  "id": "PHS1101",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "A-622",
+  "names": [{lastname:"Ajam",firstname:"Bassam"},{lastname:"Eftenie",firstname:"Irina"}]
+}, {
+  "id": "PHS1101",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "A-621",
+  "names": [{lastname:"El Asry",firstname:"Ayoub"},{lastname:"Paraiso",firstname:"Alice"}]
+}, {
+  "id": "PHS1101",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "C-539.4",
+  "names": [{lastname:"Paulin-Bessette",firstname:"Thomas"},{lastname:"Wong",firstname:"Vaimiti Marina Laura"}]
+}, {
+  "id": "PHS1101",
+  "section": "2",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "B-638",
+  "names": [{lastname:"Ajji",firstname:"Zineb"},{lastname:"Hogue",firstname:"Justin"}]
+}, {
+  "id": "PHS1101",
+  "section": "2",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "A-604",
+  "names": [{lastname:"Hong",firstname:"Julien"},{lastname:"Stéphenne",firstname:"Colin"}]
+}, {
+  "id": "PHS1101",
+  "section": "2",
+  "date": "Jeudi 15 Décembre 09:30",
+  "class": "A-622",
+  "names": [{lastname:"Thibault",firstname:"Raphaël"},{lastname:"Zuchoski",firstname:"David"}]
+}, {
+  "id": "PHS1102",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 09:30",
+  "class": "A-604",
+  "names": [{lastname:"Aghili",firstname:"Ryan"},{lastname:"Jauniaux",firstname:"Claude"}]
+}, {
+  "id": "PHS1102",
+  "section": "1",
+  "date": "Mercredi 21 Décembre 09:30",
+  "class": "B-638",
+  "names": [{lastname:"Jean-Langlois",firstname:"Joël"},{lastname:"Ypperciel",firstname:"Sandrine"}]
+}, {
+  "id": "PHS1104",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "B-415"
+}, {
+  "id": "PHS1205",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-315"
+}, {
+  "id": "PHS1205",
+  "section": "2",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "B-314"
+}, {
+  "id": "PHS2106",
+  "section": "1",
+  "date": "Lundi 12 Décembre 13:30",
+  "class": "B-638"
+}, {
+  "id": "PHS2107",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-505",
+  "names": [{lastname:"Aubé",firstname:"Lucas"},{lastname:"Germain",firstname:"Alexandre"}]
+}, {
+  "id": "PHS2107",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-506",
+  "names": [{lastname:"Gingras",firstname:"Cloé"},{lastname:"Zuluaga",firstname:"Lina Marcela"}]
+}, {
+  "id": "PHS2109",
+  "section": "1",
+  "date": "Mardi 20 Décembre 09:30",
+  "class": "B-316",
+  "names": [{lastname:"Aubé",firstname:"Lucas"},{lastname:"Duquette",firstname:"Catherine"}]
+}, {
+  "id": "PHS2109",
+  "section": "1",
+  "date": "Mardi 20 Décembre 09:30",
+  "class": "A-416",
+  "names": [{lastname:"Egner",firstname:"Karl"},{lastname:"Zuluaga",firstname:"Lina Marcela"}]
+}, {
+  "id": "PHS3104",
+  "section": "1",
+  "date": "Lundi 19 Décembre 09:30",
+  "class": "A-604"
+}, {
+  "id": "PHS3105",
+  "section": "1",
+  "date": "Samedi 17 Décembre 13:30",
+  "class": "B-508"
+}, {
+  "id": "PHS3301",
+  "section": "1",
+  "date": "Lundi 12 Décembre 13:30",
+  "class": "A-604"
+}, {
+  "id": "PHS4220",
+  "section": "1",
+  "date": "Mercredi 07 Décembre 13:30",
+  "class": "B-512"
+}, {
+  "id": "PHS4700",
+  "section": "1",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "B-316",
+  "names": [{lastname:"Al-Romhein",firstname:"Jean-Marc"},{lastname:"Daniel-Adde",firstname:"Arthur"}]
+}, {
+  "id": "PHS4700",
+  "section": "1",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "A-416",
+  "names": [{lastname:"Deffo Pahui",firstname:"Raoul Pythagore"},{lastname:"Marchand",firstname:"Erwan"}]
+}, {
+  "id": "PHS4700",
+  "section": "1",
+  "date": "Samedi 10 Décembre 13:30",
+  "class": "A-410",
+  "names": [{lastname:"Marcotte",firstname:"Philippe"},{lastname:"Zhong",firstname:"Zihui"}]
+}, {
+  "id": "PHS8210",
+  "section": "1",
+  "date": "Mercredi 14 Décembre 09:30",
+  "class": "B-418"
+}, {
+  "id": "PHS8310",
+  "section": "1",
+  "date": "Jeudi 15 Décembre 13:30",
+  "class": "B-405"
+}, {
+  "id": "PHS8321",
+  "section": "1",
+  "date": "Vendredi 09 Décembre 13:30",
+  "class": "B-415"
+}, {
+  "id": "PHS8501",
+  "section": "1",
+  "date": "Dimanche 11 Décembre 13:30",
+  "class": "A-522"
+}, {
+  "id": "PHS8604",
+  "section": "1",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "A-533"
+}, {
+  "id": "SSH0345",
+  "section": "1",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "A-532"
+}, {
+  "id": "SSH0345",
+  "section": "2",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "A-533"
+}, {
+  "id": "SSH0345",
+  "section": "3",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "A-532"
+}, {
+  "id": "SSH0345",
+  "section": "4",
+  "date": "Lundi 12 Décembre 09:30",
+  "class": "A-533"
+}, {
+  "id": "SSH3100A",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 13:30",
+  "class": "A-532"
+}, {
+  "id": "SSH3100B",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 13:30",
+  "class": "B-415"
+}, {
+  "id": "SSH3100B",
+  "section": "2",
+  "date": "Vendredi 16 Décembre 13:30",
+  "class": "B-418"
+}, {
+  "id": "SSH3100B",
+  "section": "3",
+  "date": "Vendredi 16 Décembre 13:30",
+  "class": "B-405",
+  "names": [{lastname:"Ajjoub",firstname:"Samer"},{lastname:"Gervais",firstname:"Renaud"}]
+}, {
+  "id": "SSH3100B",
+  "section": "3",
+  "date": "Vendredi 16 Décembre 13:30",
+  "class": "B-411",
+  "names": [{lastname:"Inoussa",firstname:"Mountassir Mod"},{lastname:"Zhong",firstname:"Zihui"}]
+}, {
+  "id": "SSH3100C",
+  "section": "1",
+  "date": "Vendredi 16 Décembre 13:30",
+  "class": "B-512"
+}, {
+  "id": "SSH3201",
+  "section": "1",
+  "date": "Jeudi 08 Décembre 09:30",
+  "class": "B-415",
+  "names": "De: Adibi, Omid à Ramu. Paul"
+}, {
+  "id": "SSH3201",
+  "section": "1",
+  "date": "Jeudi 08 Décembre 09:30",
+  "class": "B-405",
+  "names": [{lastname:"Richard",firstname:"Marie-Ève"},{lastname:"Wizani",firstname:"Hussein"}]
+}, {
+  "id": "SSH3201",
+  "section": "2",
+  "date": "Jeudi 08 Décembre 09:30",
+  "class": "B-418",
+  "names": [{lastname:"Afan",firstname:"Sénamè Modeste"},{lastname:"Oularé",firstname:"Massakoro"}]
+}, {
+  "id": "SSH3201",
+  "section": "2",
+  "date": "Jeudi 08 Décembre 09:30",
+  "class": "B-429",
+  "names": [{lastname:"Perbet",firstname:"Claire"},{lastname:"Zahid",firstname:"Marwa"}]
+}, {
+  "id": "SSH3201",
+  "section": "3",
+  "date": "Jeudi 08 Décembre 09:30",
+  "class": "A-604",
+  "names": [{lastname:"Abi Haidar",firstname:"Ahmad"},{lastname:"Hallé",firstname:"Vincent"}]
+}, {
+  "id": "SSH3201",
+  "section": "3",
+  "date": "Jeudi 08 Décembre 09:30",
+  "class": "B-638",
+  "names": [{lastname:"Hébert",firstname:"François"},{lastname:"Zeidan",firstname:"Abass"}]
+}, {
+  "id": "SSH3201",
+  "section": "4",
+  "date": "Jeudi 08 Décembre 09:30",
+  "class": "A-532",
+  "names": [{lastname:"Acco",firstname:"Sophia Anna-Maria"},{lastname:"Le Prevost",firstname:"Anatole"}]
+}, {
+  "id": "SSH3201",
+  "section": "4",
+  "date": "Jeudi 08 Décembre 09:30",
+  "class": "A-533",
+  "names": [{lastname:"Leroux",firstname:"David Desharnais"},{lastname:"Zalla",firstname:"Adama"}]
+}, {
+  "id": "SSH3351",
+  "section": "1",
+  "date": "Mardi 13 Décembre 09:30",
+  "class": "A-533"
+}, {
+  "id": "SSH3352",
+  "section": "1",
+  "date": "Dimanche 18 Décembre 09:30",
+  "class": "B-314"
+}, {
+  "id": "SSH3502",
+  "section": "1",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "A-532"
+}, {
+  "id": "SSH3502",
+  "section": "2",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "A-532",
+  "names": [{lastname:"Abou-Khalil",firstname:"Raquel"},{lastname:"Beaulac",firstname:"Olivier"}]
+}, {
+  "id": "SSH3502",
+  "section": "2",
+  "date": "Jeudi 22 Décembre 09:30",
+  "class": "A-533",
+  "names": [{lastname:"Bessette",firstname:"Normand"},{lastname:"Zhang",firstname:"Ke Yuan"}]
+}]
