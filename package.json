@@ -1,0 +1,20 @@
+{
+  "name": "polyfinal",
+  "version": "0.1.0",
+  "description": "Récupère et traite les dates des examens finaux à Polytechnique montreal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests not found\"&&return 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuonOmo/polyfinal.git"
+  },
+  "author": "Ulysse Buonomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BuonOmo/polyfinal/issues"
+  },
+  "homepage": "https://github.com/BuonOmo/polyfinal#readme",
+  "dependencies": {}
+}
