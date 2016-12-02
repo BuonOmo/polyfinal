@@ -2,7 +2,7 @@
   "name": "polyfinal",
   "version": "0.1.0",
   "description": "Récupère et traite les dates des examens finaux à Polytechnique montreal",
-  "main": "index.js",
+  "main": "js/index.js",
   "scripts": {
     "test": "echo \"Tests not found\"&&return 1"
   },
