@@ -242,7 +242,7 @@ var finals = [{
   "section": "2",
   "date": "Jeudi 22 Décembre 09:30",
   "class": "L-6614",
-  "names": "De : Joubert de la Motte,  Nicolas à Zga, Sarah"
+  "names": [{lastname:"Joubert de la Motte",firstname:"Nicolas"},{lastname:"Zga",firstname:"Sarah"}]
 }, {
   "id": "CIV3220",
   "section": "3",
@@ -513,7 +513,7 @@ var finals = [{
   "section": "1",
   "date": "Vendredi 16 Décembre 13:30",
   "class": "A-604",
-  "names": "De : Adiem, Youssef à Jadibeh Ali"
+  "names": [{lastname:"Adiem",firstname:"Youssef"},{lastname:"Jadibeh",firstname:"Ali"}]
 }, {
   "id": "ELE1300",
   "section": "1",
@@ -1097,7 +1097,7 @@ var finals = [{
   "section": "1",
   "date": "Dimanche 11 Décembre 13:30",
   "class": "A-604",
-  "names": "De: Akaffou, Stella-Malicia Chimonet à Lamy-Grenier Sandrine"
+  "names": [{lastname:"Akaffou",firstname:"Stella-Malicia Chimonet"},{lastname:"Lamy-Grenier",firstname:"Sandrine"}]
 }, {
   "id": "IND3702",
   "section": "1",
@@ -2961,7 +2961,7 @@ var finals = [{
   "section": "1",
   "date": "Jeudi 08 Décembre 09:30",
   "class": "B-415",
-  "names": "De: Adibi, Omid à Ramu. Paul"
+  "names": [{lastname:"Adibi",firstname:"Omid"},{lastname:"Ramu",firstname:"Paul"}]
 }, {
   "id": "SSH3201",
   "section": "1",
