@@ -33,7 +33,7 @@
                     <th>Section</th>
                     <th>Date</th>
                     <th>Local</th>
-                    <th>Séparation des étudiants</th>
+                    <th v-if="!name">Séparation des étudiants</th>
             </thead>
             <tbody>
                 <tr v-for="final in filteredFinals">
@@ -42,7 +42,7 @@
                     <td>{{ final.section }}</td>
                     <td>{{ final.date }}</td>
                     <td>{{ final.class }}</td>
-                    <td>
+                    <td v-if="!name">
                       <span v-if="final.names">
                         De: {{ final.names[0].lastname }}, {{ final.names[0].firstname }} à
                         {{ final.names[1].lastname }}, {{ final.names[1].firstname }}
