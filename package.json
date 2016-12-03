@@ -16,5 +16,10 @@
     "url": "https://github.com/BuonOmo/polyfinal/issues"
   },
   "homepage": "https://github.com/BuonOmo/polyfinal#readme",
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "ical.js": "^1.2.2",
+    "moment": "^2.17.0",
+    "vue": "^2.1.4"
+  }
 }

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 
 <head>
     <meta charset="utf-8">
     <title>Poly Final</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="lib/bootstrap.min.css">
     <link rel="stylesheet" href="css/master.css" media="screen" title="no title" charset="utf-8">
     <meta property="og:title" content="Polyfinal">
     <meta property="og:description" content="Récupère les dates des examens finaux à Polytechnique montreal.">
@@ -29,7 +29,7 @@
               v-model="name">
             </div>
             <button @click.prevent="save()" class="btn btn-primary">Sauvegarder</button>
-            <!-- <button type="button" class="btn btn-default">Voir l’agenda</button> -->
+            <a :href="ICSurl" download="agenda-finaux.ics">Exporter au format ICS</a>
         </form>
         <hr>
         <table class="table table-striped">
@@ -63,7 +63,10 @@
         <a href="https://raw.githubusercontent.com/BuonOmo/polyfinal/master/LICENSE">license MIT</a>
         — code sur <a href="https://github.com/BuonOmo/polyfinal">Github</a>
     </footer>
-    <script src="https://unpkg.com/vue/dist/vue.js"></script>
+    <script src="lib/ical.min.js" charset="utf-8"></script>
+    <script src="lib/moment.min.js" charset="utf-8"></script>
+    <script src="lib/fr.js" charset="utf-8"></script>
+    <script src="lib/vue.min.js"></script>
     <script src="js/data.js" charset="utf-8"></script>
     <script src="js/index.js" charset="utf-8"></script>
 </body>
