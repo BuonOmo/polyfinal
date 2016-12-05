@@ -45,6 +45,12 @@
                                      'glyphicon-triangle-top': sortString === 'id' && !sortOrder}"
                             class="glyphicon sort"></span>
                     </a></th>
+                    <th><a @click="sortBy = 'name'">
+                      Nom
+                      <span :class="{'glyphicon-triangle-bottom': sortString === 'name' && sortOrder,
+                                     'glyphicon-triangle-top': sortString === 'name' && !sortOrder}"
+                            class="glyphicon sort"></span>
+                    </a></th>
                     <th><a @click="sortBy = 'section'">
                       Section
                       <span :class="{'glyphicon-triangle-bottom': sortString === 'section' && sortOrder,
@@ -68,6 +74,7 @@
             <tbody>
                 <tr v-for="final in orderedFilterdFinals">
                     <td>{{ final.id }}</td>
+                    <td>{{ final.name }}</td>
                     <td>{{ final.section }}</td>
                     <td>{{ final.date | date }}</td>
                     <td>{{ final.class }}</td>

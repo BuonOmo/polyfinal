@@ -9,7 +9,8 @@ var finals = [{
   }, {
     "lastname": "Meideros",
     "firstname": "Alexandre"
-  }]
+  }],
+  "name": "Caractéristiques des aéronefs"
 }, {
   "id": "AER1200",
   "section": "1",
@@ -21,27 +22,32 @@ var finals = [{
   }, {
     "lastname": "Zeni",
     "firstname": "Valentine"
-  }]
+  }],
+  "name": "Caractéristiques des aéronefs"
 }, {
   "id": "AER2100",
   "section": "1",
   "date": "2016-12-10T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Méthodes expérim. et instrum. en aérospatiale"
 }, {
   "id": "AER2400",
   "section": "1",
   "date": "2016-12-11T18:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Résistance de structures aéronautiques"
 }, {
   "id": "AER3205",
   "section": "1",
   "date": "2016-12-11T18:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Caractéristiques de l'avion"
 }, {
   "id": "AER3640",
   "section": "1",
   "date": "2016-12-16T14:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Mécanique du vol"
 }, {
   "id": "AER4345",
   "section": "1",
@@ -53,7 +59,8 @@ var finals = [{
   }, {
     "lastname": "Lambert",
     "firstname": "Laurier"
-  }]
+  }],
+  "name": "Analyse et performance des avions"
 }, {
   "id": "AER4345",
   "section": "1",
@@ -65,17 +72,20 @@ var finals = [{
   }, {
     "lastname": "Xhaferi",
     "firstname": "Klaud"
-  }]
+  }],
+  "name": "Analyse et performance des avions"
 }, {
   "id": "AER4400",
   "section": "1",
   "date": "2016-12-14T14:30:00.000Z",
-  "class": "A-533"
+  "class": "A-533",
+  "name": "Archit. et certif. des systèmes d'aéronefs"
 }, {
   "id": "AER4715",
   "section": "1",
   "date": "2016-12-09T14:30:00.000Z",
-  "class": "B-401"
+  "class": "B-401",
+  "name": "Avionique"
 }, {
   "id": "AER8410",
   "section": "1",
@@ -87,7 +97,8 @@ var finals = [{
   }, {
     "lastname": "Lagassé",
     "firstname": "Sébastien"
-  }]
+  }],
+  "name": "Commande de vol et de moteurs"
 }, {
   "id": "AER8410",
   "section": "1",
@@ -99,17 +110,20 @@ var finals = [{
   }, {
     "lastname": "Zhu",
     "firstname": "Yiran"
-  }]
+  }],
+  "name": "Commande de vol et de moteurs"
 }, {
   "id": "CHE0501",
   "section": "1",
   "date": "2016-12-14T18:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Chimie générale"
 }, {
   "id": "CHE0501",
   "section": "2",
   "date": "2016-12-14T18:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Chimie générale"
 }, {
   "id": "CIV1101",
   "section": "1",
@@ -121,7 +135,8 @@ var finals = [{
   }, {
     "lastname": "Kalem",
     "firstname": "Mohamed Anis"
-  }]
+  }],
+  "name": "Géométronique"
 }, {
   "id": "CIV1101",
   "section": "1",
@@ -133,7 +148,8 @@ var finals = [{
   }, {
     "lastname": "Zakaria",
     "firstname": "Hatim"
-  }]
+  }],
+  "name": "Géométronique"
 }, {
   "id": "CIV1101",
   "section": "2",
@@ -145,7 +161,8 @@ var finals = [{
   }, {
     "lastname": "Kemguerbaye",
     "firstname": "Kodjitebaye"
-  }]
+  }],
+  "name": "Géométronique"
 }, {
   "id": "CIV1101",
   "section": "2",
@@ -157,12 +174,14 @@ var finals = [{
   }, {
     "lastname": "Zambo Nguele",
     "firstname": "Aymeric Franck"
-  }]
+  }],
+  "name": "Géométronique"
 }, {
   "id": "CIV1120",
   "section": "1",
   "date": "2016-12-16T14:30:00.000Z",
-  "class": "L-6613"
+  "class": "L-6613",
+  "name": "Technologies informationnelles en génie civil"
 }, {
   "id": "CIV1120",
   "section": "2",
@@ -174,7 +193,8 @@ var finals = [{
   }, {
     "lastname": "Perret",
     "firstname": "Vincent"
-  }]
+  }],
+  "name": "Technologies informationnelles en génie civil"
 }, {
   "id": "CIV1120",
   "section": "2",
@@ -186,7 +206,8 @@ var finals = [{
   }, {
     "lastname": "Zniber",
     "firstname": "Othmane"
-  }]
+  }],
+  "name": "Technologies informationnelles en génie civil"
 }, {
   "id": "CIV1140",
   "section": "1",
@@ -198,7 +219,8 @@ var finals = [{
   }, {
     "lastname": "Pelletier",
     "firstname": "Mathilde"
-  }]
+  }],
+  "name": "Matériaux de génie civil"
 }, {
   "id": "CIV1140",
   "section": "1",
@@ -210,7 +232,8 @@ var finals = [{
   }, {
     "lastname": "Zargou",
     "firstname": "Messaoud"
-  }]
+  }],
+  "name": "Matériaux de génie civil"
 }, {
   "id": "CIV1150",
   "section": "1",
@@ -222,7 +245,8 @@ var finals = [{
   }, {
     "lastname": "Karim",
     "firstname": "Faisath Grâce"
-  }]
+  }],
+  "name": "Résistance des matériaux"
 }, {
   "id": "CIV1150",
   "section": "1",
@@ -234,7 +258,8 @@ var finals = [{
   }, {
     "lastname": "Yebadokpo",
     "firstname": "Rony Gédéon"
-  }]
+  }],
+  "name": "Résistance des matériaux"
 }, {
   "id": "CIV1210",
   "section": "1",
@@ -246,7 +271,8 @@ var finals = [{
   }, {
     "lastname": "Diallo",
     "firstname": "Aboubacar"
-  }]
+  }],
+  "name": "Génie de l'environnement"
 }, {
   "id": "CIV1210",
   "section": "1",
@@ -258,17 +284,20 @@ var finals = [{
   }, {
     "lastname": "Yameogo",
     "firstname": "Fabrice Aser"
-  }]
+  }],
+  "name": "Génie de l'environnement"
 }, {
   "id": "CIV1910",
   "section": "1",
   "date": "2016-12-17T18:30:00.000Z",
-  "class": "B-315"
+  "class": "B-315",
+  "name": "Projet d'analyse expérim. d'ouvrages civils"
 }, {
   "id": "CIV2310",
   "section": "1",
   "date": "2016-12-12T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Mécanique des fluides"
 }, {
   "id": "CIV2310",
   "section": "2",
@@ -280,7 +309,8 @@ var finals = [{
   }, {
     "lastname": "Habouha Mohamed Salem",
     "firstname": "Yousouf"
-  }]
+  }],
+  "name": "Mécanique des fluides"
 }, {
   "id": "CIV2310",
   "section": "2",
@@ -292,12 +322,14 @@ var finals = [{
   }, {
     "lastname": "Violeta Ramos",
     "firstname": "Robert"
-  }]
+  }],
+  "name": "Mécanique des fluides"
 }, {
   "id": "CIV2320",
   "section": "1",
   "date": "2016-12-16T18:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Hydrologie pour ingénieur"
 }, {
   "id": "CIV2500",
   "section": "1",
@@ -309,7 +341,8 @@ var finals = [{
   }, {
     "lastname": "Simard",
     "firstname": "Laurence"
-  }]
+  }],
+  "name": "Comportement et résistance des constructions"
 }, {
   "id": "CIV2500",
   "section": "1",
@@ -321,12 +354,14 @@ var finals = [{
   }, {
     "lastname": "Zga",
     "firstname": "Sarah"
-  }]
+  }],
+  "name": "Comportement et résistance des constructions"
 }, {
   "id": "CIV2710",
   "section": "1",
   "date": "2016-12-18T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Systèmes de transport"
 }, {
   "id": "CIV2710",
   "section": "2",
@@ -338,7 +373,8 @@ var finals = [{
   }, {
     "lastname": "Gaudette-Thibault",
     "firstname": "Camille"
-  }]
+  }],
+  "name": "Systèmes de transport"
 }, {
   "id": "CIV2710",
   "section": "2",
@@ -350,7 +386,8 @@ var finals = [{
   }, {
     "lastname": "Wong",
     "firstname": "Fabien"
-  }]
+  }],
+  "name": "Systèmes de transport"
 }, {
   "id": "CIV2920",
   "section": "1",
@@ -362,7 +399,8 @@ var finals = [{
   }, {
     "lastname": "Hachad",
     "firstname": "Mohammed Amine"
-  }]
+  }],
+  "name": "Projet d'ingénierie hydrique et risque"
 }, {
   "id": "CIV2920",
   "section": "1",
@@ -374,7 +412,8 @@ var finals = [{
   }, {
     "lastname": "Watat Nana",
     "firstname": "Cedric Michael"
-  }]
+  }],
+  "name": "Projet d'ingénierie hydrique et risque"
 }, {
   "id": "CIV3220",
   "section": "1",
@@ -386,7 +425,8 @@ var finals = [{
   }, {
     "lastname": "Kassab",
     "firstname": "Kim"
-  }]
+  }],
+  "name": "Impacts sur l'environnement et dével. durable"
 }, {
   "id": "CIV3220",
   "section": "1",
@@ -398,7 +438,8 @@ var finals = [{
   }, {
     "lastname": "Yameogo",
     "firstname": "Cheick Farid Aboubacar"
-  }]
+  }],
+  "name": "Impacts sur l'environnement et dével. durable"
 }, {
   "id": "CIV3220",
   "section": "2",
@@ -410,7 +451,8 @@ var finals = [{
   }, {
     "lastname": "Huot-Locas",
     "firstname": "Francis"
-  }]
+  }],
+  "name": "Impacts sur l'environnement et dével. durable"
 }, {
   "id": "CIV3220",
   "section": "2",
@@ -422,7 +464,8 @@ var finals = [{
   }, {
     "lastname": "Zga",
     "firstname": "Sarah"
-  }]
+  }],
+  "name": "Impacts sur l'environnement et dével. durable"
 }, {
   "id": "CIV3220",
   "section": "3",
@@ -434,7 +477,8 @@ var finals = [{
   }, {
     "lastname": "Grosmangin",
     "firstname": "Ulysse"
-  }]
+  }],
+  "name": "Impacts sur l'environnement et dével. durable"
 }, {
   "id": "CIV3220",
   "section": "3",
@@ -446,12 +490,14 @@ var finals = [{
   }, {
     "lastname": "Tremblay Bergeron",
     "firstname": "Francis"
-  }]
+  }],
+  "name": "Impacts sur l'environnement et dével. durable"
 }, {
   "id": "CIV3330",
   "section": "1",
   "date": "2016-12-07T18:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Hydraulique des réseaux"
 }, {
   "id": "CIV3330",
   "section": "2",
@@ -463,7 +509,8 @@ var finals = [{
   }, {
     "lastname": "Coia",
     "firstname": "Laurent"
-  }]
+  }],
+  "name": "Hydraulique des réseaux"
 }, {
   "id": "CIV3330",
   "section": "2",
@@ -475,7 +522,8 @@ var finals = [{
   }, {
     "lastname": "Zergui",
     "firstname": "Ilhem"
-  }]
+  }],
+  "name": "Hydraulique des réseaux"
 }, {
   "id": "CIV3415",
   "section": "1",
@@ -487,7 +535,8 @@ var finals = [{
   }, {
     "lastname": "Robert",
     "firstname": "Stéphanie"
-  }]
+  }],
+  "name": "Mécanique des sols"
 }, {
   "id": "CIV3415",
   "section": "1",
@@ -499,27 +548,32 @@ var finals = [{
   }, {
     "lastname": "Zga",
     "firstname": "Sarah"
-  }]
+  }],
+  "name": "Mécanique des sols"
 }, {
   "id": "CIV3415",
   "section": "2",
   "date": "2016-12-20T14:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Mécanique des sols"
 }, {
   "id": "CIV3420",
   "section": "1",
   "date": "2016-12-21T18:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Fondations"
 }, {
   "id": "CIV3420",
   "section": "2",
   "date": "2016-12-21T18:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Fondations"
 }, {
   "id": "CIV3502",
   "section": "1",
   "date": "2016-12-11T18:30:00.000Z",
-  "class": "B-401"
+  "class": "B-401",
+  "name": "Analyse des structures"
 }, {
   "id": "CIV3502",
   "section": "2",
@@ -531,7 +585,8 @@ var finals = [{
   }, {
     "lastname": "Hawkins",
     "firstname": "Valérie"
-  }]
+  }],
+  "name": "Analyse des structures"
 }, {
   "id": "CIV3502",
   "section": "2",
@@ -543,12 +598,14 @@ var finals = [{
   }, {
     "lastname": "Vo-Lavictoire",
     "firstname": "Kevin"
-  }]
+  }],
+  "name": "Analyse des structures"
 }, {
   "id": "CIV3503",
   "section": "1",
   "date": "2016-12-11T14:30:00.000Z",
-  "class": "C-539.6"
+  "class": "C-539.6",
+  "name": "Conception des structures en acier"
 }, {
   "id": "CIV3503",
   "section": "2",
@@ -560,7 +617,8 @@ var finals = [{
   }, {
     "lastname": "Juneau",
     "firstname": "Benjamin"
-  }]
+  }],
+  "name": "Conception des structures en acier"
 }, {
   "id": "CIV3503",
   "section": "2",
@@ -572,7 +630,8 @@ var finals = [{
   }, {
     "lastname": "Waltzing",
     "firstname": "Michel"
-  }]
+  }],
+  "name": "Conception des structures en acier"
 }, {
   "id": "CIV3504",
   "section": "1",
@@ -584,7 +643,8 @@ var finals = [{
   }, {
     "lastname": "Lemery",
     "firstname": "Joffrey"
-  }]
+  }],
+  "name": "Conception de structures en béton armé"
 }, {
   "id": "CIV3504",
   "section": "1",
@@ -596,32 +656,38 @@ var finals = [{
   }, {
     "lastname": "Zhang",
     "firstname": "Christine"
-  }]
+  }],
+  "name": "Conception de structures en béton armé"
 }, {
   "id": "CIV4160",
   "section": "1",
   "date": "2016-12-08T18:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Méthode des éléments finis"
 }, {
   "id": "CIV4160",
   "section": "2",
   "date": "2016-12-08T18:30:00.000Z",
-  "class": "A-533"
+  "class": "A-533",
+  "name": "Méthode des éléments finis"
 }, {
   "id": "CIV4170",
   "section": "1",
   "date": "2016-12-10T14:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Gestion des projets de construction"
 }, {
   "id": "CIV4170",
   "section": "2",
   "date": "2016-12-10T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Gestion des projets de construction"
 }, {
   "id": "CIV4180",
   "section": "1",
   "date": "2016-12-09T14:30:00.000Z",
-  "class": "B-405"
+  "class": "B-405",
+  "name": "Techniques de construct. et de réhabilitation"
 }, {
   "id": "CIV4185",
   "section": "1",
@@ -633,7 +699,8 @@ var finals = [{
   }, {
     "lastname": "Maghare",
     "firstname": "Kian"
-  }]
+  }],
+  "name": "Techniques de construction et réhabilitation"
 }, {
   "id": "CIV4185",
   "section": "1",
@@ -645,67 +712,80 @@ var finals = [{
   }, {
     "lastname": "Zhang",
     "firstname": "Christine"
-  }]
+  }],
+  "name": "Techniques de construction et réhabilitation"
 }, {
   "id": "CIV4340",
   "section": "1",
   "date": "2016-12-15T14:30:00.000Z",
-  "class": "B-401"
+  "class": "B-401",
+  "name": "Hydraulique des cours d'eau"
 }, {
   "id": "CIV4340",
   "section": "2",
   "date": "2016-12-15T14:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Hydraulique des cours d'eau"
 }, {
   "id": "CIV4340",
   "section": "3",
   "date": "2016-12-15T14:30:00.000Z",
-  "class": "B-405"
+  "class": "B-405",
+  "name": "Hydraulique des cours d'eau"
 }, {
   "id": "CIV4720",
   "section": "1",
   "date": "2016-12-16T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Conception des routes"
 }, {
   "id": "CIV4720",
   "section": "2",
   "date": "2016-12-16T14:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Conception des routes"
 }, {
   "id": "CIV4940",
   "section": "1",
   "date": "2016-12-18T18:30:00.000Z",
-  "class": "A-416"
+  "class": "A-416",
+  "name": "Projet de conception en génie civil"
 }, {
   "id": "CIV4940",
   "section": "2",
   "date": "2016-12-18T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Projet de conception en génie civil"
 }, {
   "id": "CIV8210",
   "section": "1",
   "date": "2016-12-14T14:30:00.000Z",
-  "class": "C-539.6"
+  "class": "C-539.6",
+  "name": "Traitements physico-chimiques de l'eau"
 }, {
   "id": "CIV8220",
   "section": "1",
   "date": "2016-12-20T14:30:00.000Z",
-  "class": "B-405"
+  "class": "B-405",
+  "name": "Épuration biologique des eaux usées"
 }, {
   "id": "CIV8320",
   "section": "1",
   "date": "2016-12-13T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Perspectives &amp; défis en hydraulique appliquée"
 }, {
   "id": "CIV8360",
   "section": "1",
   "date": "2016-12-15T18:30:00.000Z",
-  "class": "B-315"
+  "class": "B-315",
+  "name": "Gestion des ressources en eau"
 }, {
   "id": "CIV8440",
   "section": "1",
   "date": "2016-12-07T18:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Mécanique des roches en génie civil"
 }, {
   "id": "CIV8510",
   "section": "1",
@@ -717,7 +797,8 @@ var finals = [{
   }, {
     "lastname": "Nzokou",
     "firstname": "Philippe"
-  }]
+  }],
+  "name": "Conception des charpentes en bois"
 }, {
   "id": "CIV8510",
   "section": "1",
@@ -729,7 +810,8 @@ var finals = [{
   }, {
     "lastname": "Younan",
     "firstname": "Emile"
-  }]
+  }],
+  "name": "Conception des charpentes en bois"
 }, {
   "id": "CIV8540",
   "section": "1",
@@ -741,7 +823,8 @@ var finals = [{
   }, {
     "lastname": "Kafidi",
     "firstname": "Anis"
-  }]
+  }],
+  "name": "Conception des bâtiments multiétagés"
 }, {
   "id": "CIV8540",
   "section": "1",
@@ -753,32 +836,38 @@ var finals = [{
   }, {
     "lastname": "Zanotty-Beaudry",
     "firstname": "Victoria"
-  }]
+  }],
+  "name": "Conception des bâtiments multiétagés"
 }, {
   "id": "CIV8730",
   "section": "1",
   "date": "2016-12-19T23:00:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Construction et restauration de chaussées"
 }, {
   "id": "CIV8760",
   "section": "1",
   "date": "2016-12-13T14:30:00.000Z",
-  "class": "L-6612"
+  "class": "L-6612",
+  "name": "Gestion des données en transport"
 }, {
   "id": "DDI8001",
   "section": "1",
   "date": "2016-12-18T18:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Développement durable pour ingénieurs"
 }, {
   "id": "DDI8003",
   "section": "1",
   "date": "2016-12-17T18:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Analyse du cycle de vie"
 }, {
   "id": "ELE1001",
   "section": "1",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Travail en équipe et projet"
 }, {
   "id": "ELE1001",
   "section": "2",
@@ -790,7 +879,8 @@ var finals = [{
   }, {
     "lastname": "Pucci-Barbeau",
     "firstname": "Nicolas"
-  }]
+  }],
+  "name": "Travail en équipe et projet"
 }, {
   "id": "ELE1001",
   "section": "2",
@@ -802,12 +892,14 @@ var finals = [{
   }, {
     "lastname": "Wan-Ajouhu",
     "firstname": "Ryan"
-  }]
+  }],
+  "name": "Travail en équipe et projet"
 }, {
   "id": "ELE1001",
   "section": "3",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "A-533"
+  "class": "A-533",
+  "name": "Travail en équipe et projet"
 }, {
   "id": "ELE1300",
   "section": "1",
@@ -819,7 +911,8 @@ var finals = [{
   }, {
     "lastname": "Jadibeh",
     "firstname": "Ali"
-  }]
+  }],
+  "name": "Circuits logiques"
 }, {
   "id": "ELE1300",
   "section": "1",
@@ -831,17 +924,20 @@ var finals = [{
   }, {
     "lastname": "Yin",
     "firstname": "Chao"
-  }]
+  }],
+  "name": "Circuits logiques"
 }, {
   "id": "ELE1402",
   "section": "1",
   "date": "2016-12-12T18:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Électrotechnique du génie civil"
 }, {
   "id": "ELE1403",
   "section": "1",
   "date": "2016-12-20T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Éléments d'électrotechnique et d'électronique"
 }, {
   "id": "ELE1403",
   "section": "2",
@@ -853,7 +949,8 @@ var finals = [{
   }, {
     "lastname": "St-Martin",
     "firstname": "Alex"
-  }]
+  }],
+  "name": "Éléments d'électrotechnique et d'électronique"
 }, {
   "id": "ELE1403",
   "section": "2",
@@ -865,22 +962,26 @@ var finals = [{
   }, {
     "lastname": "Yotchoua Atchoukeu",
     "firstname": "Laeticia Joyce"
-  }]
+  }],
+  "name": "Éléments d'électrotechnique et d'électronique"
 }, {
   "id": "ELE1600A",
   "section": "1",
   "date": "2016-12-07T14:30:00.000Z",
-  "class": "A-533"
+  "class": "A-533",
+  "name": "Circuits électriques"
 }, {
   "id": "ELE2003",
   "section": "1",
   "date": "2016-12-17T18:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Projets de circuits électroniques"
 }, {
   "id": "ELE2200",
   "section": "1",
   "date": "2016-12-17T18:30:00.000Z",
-  "class": "B-314"
+  "class": "B-314",
+  "name": "Systèmes et simulation"
 }, {
   "id": "ELE2307",
   "section": "1",
@@ -892,7 +993,8 @@ var finals = [{
   }, {
     "lastname": "Larachi",
     "firstname": "Arsalan"
-  }]
+  }],
+  "name": "Thermodynamique statistique - semiconducteurs"
 }, {
   "id": "ELE2307",
   "section": "1",
@@ -904,32 +1006,38 @@ var finals = [{
   }, {
     "lastname": "Woamenor",
     "firstname": "Adrikou Edem Jules"
-  }]
+  }],
+  "name": "Thermodynamique statistique - semiconducteurs"
 }, {
   "id": "ELE2310",
   "section": "1",
   "date": "2016-12-20T18:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Électronique"
 }, {
   "id": "ELE2400",
   "section": "1",
   "date": "2016-12-07T14:30:00.000Z",
-  "class": "L-6611"
+  "class": "L-6611",
+  "name": "Électricité: Sécurité et environnement"
 }, {
   "id": "ELE2611",
   "section": "1",
   "date": "2016-12-20T18:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Circuits actifs"
 }, {
   "id": "ELE2700",
   "section": "1",
   "date": "2016-12-13T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Analyse des signaux"
 }, {
   "id": "ELE3201",
   "section": "1",
   "date": "2016-12-19T18:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Asservissements"
 }, {
   "id": "ELE3312",
   "section": "1",
@@ -941,7 +1049,8 @@ var finals = [{
   }, {
     "lastname": "Dion",
     "firstname": "Marilyn"
-  }]
+  }],
+  "name": "Microcontrôleurs et applications"
 }, {
   "id": "ELE3312",
   "section": "1",
@@ -953,7 +1062,8 @@ var finals = [{
   }, {
     "lastname": "Ndjeng Ngangue",
     "firstname": "Martial Alban"
-  }]
+  }],
+  "name": "Microcontrôleurs et applications"
 }, {
   "id": "ELE3312",
   "section": "1",
@@ -965,27 +1075,32 @@ var finals = [{
   }, {
     "lastname": "Vanier",
     "firstname": "Vincent"
-  }]
+  }],
+  "name": "Microcontrôleurs et applications"
 }, {
   "id": "ELE3400",
   "section": "1",
   "date": "2016-12-21T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Électrotechnique"
 }, {
   "id": "ELE3500",
   "section": "1",
   "date": "2016-12-12T18:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Ondes électromagnétiques"
 }, {
   "id": "ELE3701A",
   "section": "1",
   "date": "2016-12-17T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Éléments de télécommunications"
 }, {
   "id": "ELE3705",
   "section": "1",
   "date": "2016-12-22T14:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Transmission de l'information"
 }, {
   "id": "ELE4202",
   "section": "1",
@@ -997,7 +1112,8 @@ var finals = [{
   }, {
     "lastname": "Malli",
     "firstname": "Bruno"
-  }]
+  }],
+  "name": "Commande des processus industriels"
 }, {
   "id": "ELE4202",
   "section": "2",
@@ -1009,17 +1125,20 @@ var finals = [{
   }, {
     "lastname": "Ziti",
     "firstname": "Afaf"
-  }]
+  }],
+  "name": "Commande des processus industriels"
 }, {
   "id": "ELE4205",
   "section": "1",
   "date": "2016-12-18T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Syst. d'exploit. et interfaces matérielles"
 }, {
   "id": "ELE4451",
   "section": "1",
   "date": "2016-12-09T18:30:00.000Z",
-  "class": "B-314"
+  "class": "B-314",
+  "name": "Dispositifs d'électronique de puissance"
 }, {
   "id": "ELE4452",
   "section": "1",
@@ -1031,7 +1150,8 @@ var finals = [{
   }, {
     "lastname": "Giard-Leroux",
     "firstname": "Simon"
-  }]
+  }],
+  "name": "Réseaux électriques"
 }, {
   "id": "ELE4452",
   "section": "2",
@@ -1043,47 +1163,56 @@ var finals = [{
   }, {
     "lastname": "Whear",
     "firstname": "Loïc"
-  }]
+  }],
+  "name": "Réseaux électriques"
 }, {
   "id": "ELE4455",
   "section": "1",
   "date": "2016-12-13T18:30:00.000Z",
-  "class": "A-416"
+  "class": "A-416",
+  "name": "Systèmes électromécaniques"
 }, {
   "id": "ELE4500",
   "section": "1",
   "date": "2016-12-20T18:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Circuits passifs micro-ondes"
 }, {
   "id": "ELE8203",
   "section": "1",
   "date": "2016-12-10T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Robotique"
 }, {
   "id": "ELE8304",
   "section": "1",
   "date": "2016-12-07T18:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Circuits intégrés à très grande échelle"
 }, {
   "id": "ELE8700",
   "section": "1",
   "date": "2016-12-14T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Transmission numérique"
 }, {
   "id": "ELE8705",
   "section": "1",
   "date": "2016-12-09T18:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Télécommunications mobiles"
 }, {
   "id": "ENE8105",
   "section": "1",
   "date": "2016-12-21T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Rayonnement et radioprotection"
 }, {
   "id": "ENE8210",
   "section": "1",
   "date": "2016-12-13T18:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Efficacité des sources d'énergie"
 }, {
   "id": "GBM1610",
   "section": "1",
@@ -1095,7 +1224,8 @@ var finals = [{
   }, {
     "lastname": "Lacombe",
     "firstname": "Jonathan"
-  }]
+  }],
+  "name": "Biochimie pour ingénieur"
 }, {
   "id": "GBM1610",
   "section": "1",
@@ -1107,22 +1237,26 @@ var finals = [{
   }, {
     "lastname": "Zarrari",
     "firstname": "Imade"
-  }]
+  }],
+  "name": "Biochimie pour ingénieur"
 }, {
   "id": "GBM2201",
   "section": "1",
   "date": "2016-12-08T18:30:00.000Z",
-  "class": "B-508"
+  "class": "B-508",
+  "name": "Mécanique des milieux continus"
 }, {
   "id": "GBM2330",
   "section": "1",
   "date": "2016-12-19T18:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Instrumentation et mesures biomédicales"
 }, {
   "id": "GBM2620",
   "section": "1",
   "date": "2016-12-07T18:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Thermodynamique statistique biomoléculaire"
 }, {
   "id": "GBM3510",
   "section": "1",
@@ -1134,7 +1268,8 @@ var finals = [{
   }, {
     "lastname": "Garel",
     "firstname": "Victor"
-  }]
+  }],
+  "name": "Biomatériaux"
 }, {
   "id": "GBM3510",
   "section": "1",
@@ -1146,32 +1281,38 @@ var finals = [{
   }, {
     "lastname": "Vielfaure",
     "firstname": "Alexandre"
-  }]
+  }],
+  "name": "Biomatériaux"
 }, {
   "id": "GBM3610",
   "section": "1",
   "date": "2016-12-13T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Labo. de biologie moléculaire et cellulaire"
 }, {
   "id": "GBM3620",
   "section": "1",
   "date": "2016-12-18T14:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Immunité et interactions biomoléculaires"
 }, {
   "id": "GBM3720",
   "section": "1",
   "date": "2016-12-09T18:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Traitement numérique d'images médicales"
 }, {
   "id": "GBM8320",
   "section": "1",
   "date": "2016-12-13T18:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Dispositifs médicaux intelligents"
 }, {
   "id": "GBM8871",
   "section": "1",
   "date": "2016-12-10T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Biomicrosystèmes"
 }, {
   "id": "GCH1110",
   "section": "1",
@@ -1183,7 +1324,8 @@ var finals = [{
   }, {
     "lastname": "Rivas-Canales",
     "firstname": "Ronald"
-  }]
+  }],
+  "name": "Analyse des procédés et développement durable"
 }, {
   "id": "GCH1110",
   "section": "1",
@@ -1195,7 +1337,8 @@ var finals = [{
   }, {
     "lastname": "Watelle",
     "firstname": "Sabrina"
-  }]
+  }],
+  "name": "Analyse des procédés et développement durable"
 }, {
   "id": "GCH1110",
   "section": "2",
@@ -1207,7 +1350,8 @@ var finals = [{
   }, {
     "lastname": "Lorrain",
     "firstname": "Francis"
-  }]
+  }],
+  "name": "Analyse des procédés et développement durable"
 }, {
   "id": "GCH1110",
   "section": "2",
@@ -1219,17 +1363,20 @@ var finals = [{
   }, {
     "lastname": "Zouini",
     "firstname": "Yahya"
-  }]
+  }],
+  "name": "Analyse des procédés et développement durable"
 }, {
   "id": "GCH1121",
   "section": "1",
   "date": "2016-12-15T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Introd. à la conception en génie chimique"
 }, {
   "id": "GCH1140",
   "section": "1",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "C-539.6"
+  "class": "C-539.6",
+  "name": "Travail en équipe et projet de génie chimique"
 }, {
   "id": "GCH1220",
   "section": "1",
@@ -1241,7 +1388,8 @@ var finals = [{
   }, {
     "lastname": "Gagnon",
     "firstname": "Laurence"
-  }]
+  }],
+  "name": "Conception environnementale et cycle de vie"
 }, {
   "id": "GCH1220",
   "section": "1",
@@ -1253,17 +1401,20 @@ var finals = [{
   }, {
     "lastname": "Yaba",
     "firstname": "Ruben Ndonzoao"
-  }]
+  }],
+  "name": "Conception environnementale et cycle de vie"
 }, {
   "id": "GCH1511",
   "section": "1",
   "date": "2016-12-19T18:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Thermodynamique"
 }, {
   "id": "GCH2105",
   "section": "1",
   "date": "2016-12-12T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Génie du vivant"
 }, {
   "id": "GCH2120",
   "section": "1",
@@ -1275,7 +1426,8 @@ var finals = [{
   }, {
     "lastname": "El Baccouche",
     "firstname": "Ryan"
-  }]
+  }],
+  "name": "Dynamique des systèmes"
 }, {
   "id": "GCH2120",
   "section": "1",
@@ -1287,7 +1439,8 @@ var finals = [{
   }, {
     "lastname": "Ndiaye",
     "firstname": "Mintou"
-  }]
+  }],
+  "name": "Dynamique des systèmes"
 }, {
   "id": "GCH2120",
   "section": "1",
@@ -1299,12 +1452,14 @@ var finals = [{
   }, {
     "lastname": "Younes",
     "firstname": "Aya"
-  }]
+  }],
+  "name": "Dynamique des systèmes"
 }, {
   "id": "GCH2210",
   "section": "1",
   "date": "2016-12-17T14:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Écotoxicologie pour ingénieur"
 }, {
   "id": "GCH2525",
   "section": "1",
@@ -1316,7 +1471,8 @@ var finals = [{
   }, {
     "lastname": "Legrand",
     "firstname": "Philippe"
-  }]
+  }],
+  "name": "Thermodynamique chimique"
 }, {
   "id": "GCH2525",
   "section": "1",
@@ -1328,7 +1484,8 @@ var finals = [{
   }, {
     "lastname": "Yotchoua Atchoukeu",
     "firstname": "Laeticia Joyce"
-  }]
+  }],
+  "name": "Thermodynamique chimique"
 }, {
   "id": "GCH3105",
   "section": "1",
@@ -1340,7 +1497,8 @@ var finals = [{
   }, {
     "lastname": "Grout",
     "firstname": "Gabin"
-  }]
+  }],
+  "name": "Matériaux polymères"
 }, {
   "id": "GCH3105",
   "section": "1",
@@ -1352,42 +1510,50 @@ var finals = [{
   }, {
     "lastname": "Zoui",
     "firstname": "Fatima Zohra"
-  }]
+  }],
+  "name": "Matériaux polymères"
 }, {
   "id": "GCH3110",
   "section": "1",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Calculs des réacteurs chimiques"
 }, {
   "id": "GCH3115",
   "section": "1",
   "date": "2016-12-22T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Électrochimie et applications"
 }, {
   "id": "GCH3515",
   "section": "1",
   "date": "2016-12-13T18:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Phénomènes d'échanges"
 }, {
   "id": "GCH4125",
   "section": "1",
   "date": "2016-12-10T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Conception et synthèse des procédés"
 }, {
   "id": "GCH8104",
   "section": "1",
   "date": "2016-12-15T18:30:00.000Z",
-  "class": "B-315"
+  "class": "B-315",
+  "name": "Traitement des minerais"
 }, {
   "id": "GCH8620",
   "section": "1",
   "date": "2016-12-16T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Procédés avancés de séparation"
 }, {
   "id": "GCH8729",
   "section": "1",
   "date": "2016-12-19T18:30:00.000Z",
-  "class": "C-539.6"
+  "class": "C-539.6",
+  "name": "Déchets solides et énergie résiduelle"
 }, {
   "id": "GLQ1100",
   "section": "1",
@@ -1399,7 +1565,8 @@ var finals = [{
   }, {
     "lastname": "Dumas",
     "firstname": "Catherine"
-  }]
+  }],
+  "name": "Géologie générale"
 }, {
   "id": "GLQ1100",
   "section": "1",
@@ -1411,7 +1578,8 @@ var finals = [{
   }, {
     "lastname": "Wong",
     "firstname": "Fabien"
-  }]
+  }],
+  "name": "Géologie générale"
 }, {
   "id": "GLQ1100",
   "section": "2",
@@ -1423,7 +1591,8 @@ var finals = [{
   }, {
     "lastname": "Fertikh",
     "firstname": "Mohamed El Mehdy"
-  }]
+  }],
+  "name": "Géologie générale"
 }, {
   "id": "GLQ1100",
   "section": "2",
@@ -1435,37 +1604,44 @@ var finals = [{
   }, {
     "lastname": "Yahiaoui",
     "firstname": "Ilhame"
-  }]
+  }],
+  "name": "Géologie générale"
 }, {
   "id": "GLQ1105",
   "section": "1",
   "date": "2016-12-11T18:30:00.000Z",
-  "class": "B-314"
+  "class": "B-314",
+  "name": "Minéralogie"
 }, {
   "id": "GLQ2300",
   "section": "1",
   "date": "2016-12-18T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Géochimie de l'environnement"
 }, {
   "id": "GLQ3100",
   "section": "1",
   "date": "2016-12-15T18:30:00.000Z",
-  "class": "B-314"
+  "class": "B-314",
+  "name": "Stratigraphie et sédimentologie"
 }, {
   "id": "GLQ3401",
   "section": "1",
   "date": "2016-12-13T18:30:00.000Z",
-  "class": "B-508"
+  "class": "B-508",
+  "name": "Géostatistique et géologie minières"
 }, {
   "id": "GLQ3415",
   "section": "1",
   "date": "2016-12-09T18:30:00.000Z",
-  "class": "A-526"
+  "class": "A-526",
+  "name": "Géomécanique"
 }, {
   "id": "IND1205",
   "section": "1",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "HPR - Travail en équipe collaboratif"
 }, {
   "id": "IND1205",
   "section": "2",
@@ -1477,7 +1653,8 @@ var finals = [{
   }, {
     "lastname": "Krik",
     "firstname": "Najoua"
-  }]
+  }],
+  "name": "HPR - Travail en équipe collaboratif"
 }, {
   "id": "IND1205",
   "section": "2",
@@ -1489,7 +1666,8 @@ var finals = [{
   }, {
     "lastname": "Vincent",
     "firstname": "Mathilde"
-  }]
+  }],
+  "name": "HPR - Travail en équipe collaboratif"
 }, {
   "id": "IND1801",
   "section": "1",
@@ -1501,7 +1679,8 @@ var finals = [{
   }, {
     "lastname": "Bouskila",
     "firstname": "Salomé"
-  }]
+  }],
+  "name": "Ergonomie"
 }, {
   "id": "IND1801",
   "section": "1",
@@ -1513,7 +1692,8 @@ var finals = [{
   }, {
     "lastname": "Kallel",
     "firstname": "Zeineb"
-  }]
+  }],
+  "name": "Ergonomie"
 }, {
   "id": "IND1801",
   "section": "1",
@@ -1525,12 +1705,14 @@ var finals = [{
   }, {
     "lastname": "Zroh",
     "firstname": "Botchi Nathanael"
-  }]
+  }],
+  "name": "Ergonomie"
 }, {
   "id": "IND1802",
   "section": "1",
   "date": "2016-12-11T14:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Méthodes et mesure du travail"
 }, {
   "id": "IND1802",
   "section": "2",
@@ -1542,7 +1724,8 @@ var finals = [{
   }, {
     "lastname": "El Fahid",
     "firstname": "Lamiae"
-  }]
+  }],
+  "name": "Méthodes et mesure du travail"
 }, {
   "id": "IND1802",
   "section": "2",
@@ -1554,12 +1737,14 @@ var finals = [{
   }, {
     "lastname": "Voyer",
     "firstname": "Catherine"
-  }]
+  }],
+  "name": "Méthodes et mesure du travail"
 }, {
   "id": "IND2105",
   "section": "1",
   "date": "2016-12-08T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Procédés de fabrication par usinage"
 }, {
   "id": "IND2106",
   "section": "1",
@@ -1571,7 +1756,8 @@ var finals = [{
   }, {
     "lastname": "Fontaine",
     "firstname": "Pierre"
-  }]
+  }],
+  "name": "Automatique industrielle"
 }, {
   "id": "IND2106",
   "section": "1",
@@ -1583,37 +1769,44 @@ var finals = [{
   }, {
     "lastname": "Waota",
     "firstname": "Fatim Alexandra"
-  }]
+  }],
+  "name": "Automatique industrielle"
 }, {
   "id": "IND2201",
   "section": "1",
   "date": "2016-12-18T18:30:00.000Z",
-  "class": "A-416"
+  "class": "A-416",
+  "name": "Structure et fonctionnement des organisations"
 }, {
   "id": "IND2201",
   "section": "2",
   "date": "2016-12-18T18:30:00.000Z",
-  "class": "B-314"
+  "class": "B-314",
+  "name": "Structure et fonctionnement des organisations"
 }, {
   "id": "IND2301",
   "section": "1",
   "date": "2016-12-16T14:30:00.000Z",
-  "class": "A-533"
+  "class": "A-533",
+  "name": "Gestion de projets technologiques"
 }, {
   "id": "IND2301",
   "section": "2",
   "date": "2016-12-16T14:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Gestion de projets technologiques"
 }, {
   "id": "IND2701",
   "section": "1",
   "date": "2016-12-10T14:30:00.000Z",
-  "class": "A-416"
+  "class": "A-416",
+  "name": "Performance et prix de revient"
 }, {
   "id": "IND2701",
   "section": "2",
   "date": "2016-12-10T14:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Performance et prix de revient"
 }, {
   "id": "IND3302",
   "section": "1",
@@ -1625,7 +1818,8 @@ var finals = [{
   }, {
     "lastname": "Janji",
     "firstname": "Robert"
-  }]
+  }],
+  "name": "Gestion de la fabrication"
 }, {
   "id": "IND3302",
   "section": "1",
@@ -1637,7 +1831,8 @@ var finals = [{
   }, {
     "lastname": "Normand",
     "firstname": "Anne-Louise"
-  }]
+  }],
+  "name": "Gestion de la fabrication"
 }, {
   "id": "IND3302",
   "section": "1",
@@ -1649,7 +1844,8 @@ var finals = [{
   }, {
     "lastname": "Zouar",
     "firstname": "Yassine"
-  }]
+  }],
+  "name": "Gestion de la fabrication"
 }, {
   "id": "IND3501",
   "section": "1",
@@ -1661,7 +1857,8 @@ var finals = [{
   }, {
     "lastname": "Gignac",
     "firstname": "Sarah"
-  }]
+  }],
+  "name": "Ingénierie de la qualité"
 }, {
   "id": "IND3501",
   "section": "1",
@@ -1673,7 +1870,8 @@ var finals = [{
   }, {
     "lastname": "Niang",
     "firstname": "Ngoné Arame"
-  }]
+  }],
+  "name": "Ingénierie de la qualité"
 }, {
   "id": "IND3501",
   "section": "1",
@@ -1685,7 +1883,8 @@ var finals = [{
   }, {
     "lastname": "Zussino",
     "firstname": "Margaux"
-  }]
+  }],
+  "name": "Ingénierie de la qualité"
 }, {
   "id": "IND3702",
   "section": "1",
@@ -1697,7 +1896,8 @@ var finals = [{
   }, {
     "lastname": "Lamy-Grenier",
     "firstname": "Sandrine"
-  }]
+  }],
+  "name": "Analyse de rentabilité de projets"
 }, {
   "id": "IND3702",
   "section": "1",
@@ -1709,7 +1909,8 @@ var finals = [{
   }, {
     "lastname": "Neely",
     "firstname": "Patrick"
-  }]
+  }],
+  "name": "Analyse de rentabilité de projets"
 }, {
   "id": "IND3702",
   "section": "1",
@@ -1721,7 +1922,8 @@ var finals = [{
   }, {
     "lastname": "Younes",
     "firstname": "Dora"
-  }]
+  }],
+  "name": "Analyse de rentabilité de projets"
 }, {
   "id": "IND3903",
   "section": "1",
@@ -1733,7 +1935,8 @@ var finals = [{
   }, {
     "lastname": "Fedi",
     "firstname": "Quentin"
-  }]
+  }],
+  "name": "Projet intégrateur: systèmes d'information"
 }, {
   "id": "IND3903",
   "section": "1",
@@ -1745,7 +1948,8 @@ var finals = [{
   }, {
     "lastname": "Nianga Elenga",
     "firstname": "Adiko Bridel"
-  }]
+  }],
+  "name": "Projet intégrateur: systèmes d'information"
 }, {
   "id": "IND3903",
   "section": "1",
@@ -1757,7 +1961,8 @@ var finals = [{
   }, {
     "lastname": "Younes",
     "firstname": "Dora"
-  }]
+  }],
+  "name": "Projet intégrateur: systèmes d'information"
 }, {
   "id": "IND4109",
   "section": "1",
@@ -1769,7 +1974,8 @@ var finals = [{
   }, {
     "lastname": "Legault",
     "firstname": "Francis"
-  }]
+  }],
+  "name": "Maintenance et sécurité industrielle"
 }, {
   "id": "IND4109",
   "section": "1",
@@ -1781,7 +1987,8 @@ var finals = [{
   }, {
     "lastname": "Wozny",
     "firstname": "Antoine"
-  }]
+  }],
+  "name": "Maintenance et sécurité industrielle"
 }, {
   "id": "IND4704",
   "section": "1",
@@ -1793,7 +2000,8 @@ var finals = [{
   }, {
     "lastname": "Ginestre",
     "firstname": "Aymerick"
-  }]
+  }],
+  "name": "Théorie de la décision"
 }, {
   "id": "IND4704",
   "section": "1",
@@ -1805,37 +2013,44 @@ var finals = [{
   }, {
     "lastname": "Yameogo",
     "firstname": "Cheick Farid Aboubacar"
-  }]
+  }],
+  "name": "Théorie de la décision"
 }, {
   "id": "IND4710",
   "section": "1",
   "date": "2016-12-17T18:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Gestion de la R-D et de l'innovation"
 }, {
   "id": "IND5501",
   "section": "1",
   "date": "2016-12-17T14:30:00.000Z",
-  "class": "A-533"
+  "class": "A-533",
+  "name": "Droit du travail pour ingénieur"
 }, {
   "id": "IND6102A",
   "section": "1",
   "date": "2016-12-10T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Comptab. de gestion et mesures de la performa"
 }, {
   "id": "IND8111",
   "section": "1",
   "date": "2016-12-15T21:00:00.000Z",
-  "class": "A-533"
+  "class": "A-533",
+  "name": "Aspects économiques des flux circulaires"
 }, {
   "id": "IND8115",
   "section": "1",
   "date": "2016-12-18T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Technologie et concurrence internationale"
 }, {
   "id": "IND8122",
   "section": "1",
   "date": "2016-12-20T21:00:00.000Z",
-  "class": "B-304"
+  "class": "B-304",
+  "name": "Analyse financière industrielle"
 }, {
   "id": "IND8127A",
   "section": "1",
@@ -1847,7 +2062,8 @@ var finals = [{
   }, {
     "lastname": "Marquis",
     "firstname": "Jérémie"
-  }]
+  }],
+  "name": "Mondialisation et firmes internationales"
 }, {
   "id": "IND8127A",
   "section": "1",
@@ -1859,42 +2075,50 @@ var finals = [{
   }, {
     "lastname": "Zniber",
     "firstname": "Othmane"
-  }]
+  }],
+  "name": "Mondialisation et firmes internationales"
 }, {
   "id": "IND8137A",
   "section": "1",
   "date": "2016-12-21T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Entrepreneuriat technologique"
 }, {
   "id": "IND8412",
   "section": "1",
   "date": "2016-12-12T21:00:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Ergonomie des sites Web"
 }, {
   "id": "IND8444",
   "section": "1",
   "date": "2016-12-14T00:00:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Amélioration continue"
 }, {
   "id": "IND8844",
   "section": "1",
   "date": "2016-12-14T21:00:00.000Z",
-  "class": "B-508"
+  "class": "B-508",
+  "name": "Ergonomie avancée"
 }, {
   "id": "INF0101",
   "section": "1",
   "date": "2016-12-16T14:30:00.000Z",
-  "class": "L-6611"
+  "class": "L-6611",
+  "name": "Introduction aux outils informatiques"
 }, {
   "id": "INF0101",
   "section": "2",
   "date": "2016-12-16T14:30:00.000Z",
-  "class": "L-6612"
+  "class": "L-6612",
+  "name": "Introduction aux outils informatiques"
 }, {
   "id": "INF1005A",
   "section": "1",
   "date": "2016-12-11T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005A",
   "section": "2",
@@ -1906,7 +2130,8 @@ var finals = [{
   }, {
     "lastname": "Gédéon",
     "firstname": "Gandy"
-  }]
+  }],
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005A",
   "section": "2",
@@ -1918,7 +2143,8 @@ var finals = [{
   }, {
     "lastname": "Zuchoski",
     "firstname": "David"
-  }]
+  }],
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005A",
   "section": "3",
@@ -1930,7 +2156,8 @@ var finals = [{
   }, {
     "lastname": "Guévremont",
     "firstname": "Olivier"
-  }]
+  }],
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005A",
   "section": "3",
@@ -1942,12 +2169,14 @@ var finals = [{
   }, {
     "lastname": "Zalla",
     "firstname": "Adama"
-  }]
+  }],
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005A",
   "section": "4",
   "date": "2016-12-11T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005A",
   "section": "5",
@@ -1959,7 +2188,8 @@ var finals = [{
   }, {
     "lastname": "Turner",
     "firstname": "Philippe"
-  }]
+  }],
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005A",
   "section": "5",
@@ -1971,12 +2201,14 @@ var finals = [{
   }, {
     "lastname": "Yazali",
     "firstname": "Najat"
-  }]
+  }],
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005B",
   "section": "1",
   "date": "2016-12-07T18:30:00.000Z",
-  "class": "A-532 "
+  "class": "A-532 ",
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005B",
   "section": "2",
@@ -1988,7 +2220,8 @@ var finals = [{
   }, {
     "lastname": "Boilard",
     "firstname": "Jean-Philippe"
-  }]
+  }],
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005B",
   "section": "2",
@@ -2000,7 +2233,8 @@ var finals = [{
   }, {
     "lastname": "Vincent",
     "firstname": "Mathilde"
-  }]
+  }],
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005C",
   "section": "1",
@@ -2012,7 +2246,8 @@ var finals = [{
   }, {
     "lastname": "Pednault",
     "firstname": "William"
-  }]
+  }],
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005C",
   "section": "1",
@@ -2024,12 +2259,14 @@ var finals = [{
   }, {
     "lastname": "Zhang",
     "firstname": "Yun Ran"
-  }]
+  }],
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005C",
   "section": "2",
   "date": "2016-12-11T18:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005C",
   "section": "3",
@@ -2041,7 +2278,8 @@ var finals = [{
   }, {
     "lastname": "Ham",
     "firstname": "Hatim"
-  }]
+  }],
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005C",
   "section": "3",
@@ -2053,7 +2291,8 @@ var finals = [{
   }, {
     "lastname": "Sossa",
     "firstname": "Freddy Godgives"
-  }]
+  }],
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005C",
   "section": "3",
@@ -2065,17 +2304,20 @@ var finals = [{
   }, {
     "lastname": "Vercoustre",
     "firstname": "Maxence"
-  }]
+  }],
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1005C",
   "section": "4",
   "date": "2016-12-11T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Programmation procédurale"
 }, {
   "id": "INF1010",
   "section": "1",
   "date": "2016-12-11T14:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Programmation orientée objet"
 }, {
   "id": "INF1010",
   "section": "2",
@@ -2087,7 +2329,8 @@ var finals = [{
   }, {
     "lastname": "Bonkoungou",
     "firstname": "Serge Loïc"
-  }]
+  }],
+  "name": "Programmation orientée objet"
 }, {
   "id": "INF1010",
   "section": "2",
@@ -2099,7 +2342,8 @@ var finals = [{
   }, {
     "lastname": "Nicolet",
     "firstname": "Olivier"
-  }]
+  }],
+  "name": "Programmation orientée objet"
 }, {
   "id": "INF1010",
   "section": "2",
@@ -2111,12 +2355,14 @@ var finals = [{
   }, {
     "lastname": "Zerigui",
     "firstname": "Amel"
-  }]
+  }],
+  "name": "Programmation orientée objet"
 }, {
   "id": "INF1010",
   "section": "3",
   "date": "2016-12-11T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Programmation orientée objet"
 }, {
   "id": "INF1500",
   "section": "1",
@@ -2128,7 +2374,8 @@ var finals = [{
   }, {
     "lastname": "Bouis",
     "firstname": "Constantin"
-  }]
+  }],
+  "name": "Logique des systèmes numériques"
 }, {
   "id": "INF1500",
   "section": "1",
@@ -2140,7 +2387,8 @@ var finals = [{
   }, {
     "lastname": "Kdider",
     "firstname": "Larabi"
-  }]
+  }],
+  "name": "Logique des systèmes numériques"
 }, {
   "id": "INF1500",
   "section": "1",
@@ -2152,7 +2400,8 @@ var finals = [{
   }, {
     "lastname": "Zhang",
     "firstname": "Yun Ran"
-  }]
+  }],
+  "name": "Logique des systèmes numériques"
 }, {
   "id": "INF1600",
   "section": "1",
@@ -2164,7 +2413,8 @@ var finals = [{
   }, {
     "lastname": "Gauthier",
     "firstname": "Kevin"
-  }]
+  }],
+  "name": "Architecture des micro-ordinateurs"
 }, {
   "id": "INF1600",
   "section": "1",
@@ -2176,7 +2426,8 @@ var finals = [{
   }, {
     "lastname": "Van Dyke",
     "firstname": "Stéphanie"
-  }]
+  }],
+  "name": "Architecture des micro-ordinateurs"
 }, {
   "id": "INF2010",
   "section": "1",
@@ -2188,7 +2439,8 @@ var finals = [{
   }, {
     "lastname": "Gautier",
     "firstname": "Tom"
-  }]
+  }],
+  "name": "Structures de données et algorithmes"
 }, {
   "id": "INF2010",
   "section": "1",
@@ -2200,7 +2452,8 @@ var finals = [{
   }, {
     "lastname": "Tran",
     "firstname": "Alex"
-  }]
+  }],
+  "name": "Structures de données et algorithmes"
 }, {
   "id": "INF2010",
   "section": "2",
@@ -2212,7 +2465,8 @@ var finals = [{
   }, {
     "lastname": "Leduc",
     "firstname": "Vincent"
-  }]
+  }],
+  "name": "Structures de données et algorithmes"
 }, {
   "id": "INF2010",
   "section": "2",
@@ -2224,17 +2478,20 @@ var finals = [{
   }, {
     "lastname": "Zarrari",
     "firstname": "Imade"
-  }]
+  }],
+  "name": "Structures de données et algorithmes"
 }, {
   "id": "INF2610",
   "section": "1",
   "date": "2016-12-14T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Noyau d'un système d'exploitation"
 }, {
   "id": "INF2705",
   "section": "1",
   "date": "2016-12-12T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Infographie"
 }, {
   "id": "INF3405",
   "section": "1",
@@ -2246,7 +2503,8 @@ var finals = [{
   }, {
     "lastname": "Ouellet-Payeur",
     "firstname": "Nicolas"
-  }]
+  }],
+  "name": "Réseaux informatiques"
 }, {
   "id": "INF3405",
   "section": "1",
@@ -2258,27 +2516,32 @@ var finals = [{
   }, {
     "lastname": "Zarrari",
     "firstname": "Imade"
-  }]
+  }],
+  "name": "Réseaux informatiques"
 }, {
   "id": "INF3500",
   "section": "1",
   "date": "2016-12-18T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Conception et réalisation de syst. numériques"
 }, {
   "id": "INF3610",
   "section": "1",
   "date": "2016-12-16T14:30:00.000Z",
-  "class": "B-314"
+  "class": "B-314",
+  "name": "Systèmes embarqués"
 }, {
   "id": "INF3710",
   "section": "1",
   "date": "2016-12-18T18:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Fichiers et bases de données"
 }, {
   "id": "INF4410",
   "section": "1",
   "date": "2016-12-16T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Systèmes répartis et infonuagique"
 }, {
   "id": "INF4420A",
   "section": "1",
@@ -2290,7 +2553,8 @@ var finals = [{
   }, {
     "lastname": "Marbouh",
     "firstname": "Hamza"
-  }]
+  }],
+  "name": "Sécurité informatique"
 }, {
   "id": "INF4420A",
   "section": "1",
@@ -2302,12 +2566,14 @@ var finals = [{
   }, {
     "lastname": "Zins",
     "firstname": "Pierre"
-  }]
+  }],
+  "name": "Sécurité informatique"
 }, {
   "id": "INF4705",
   "section": "1",
   "date": "2016-12-08T18:30:00.000Z",
-  "class": "C-539.6"
+  "class": "C-539.6",
+  "name": "Analyse et conception d'algorithmes"
 }, {
   "id": "INF4710",
   "section": "1",
@@ -2319,7 +2585,8 @@ var finals = [{
   }, {
     "lastname": "Lalande",
     "firstname": "Guillaume"
-  }]
+  }],
+  "name": "Introduction aux technologies multimedia"
 }, {
   "id": "INF4710",
   "section": "1",
@@ -2331,17 +2598,20 @@ var finals = [{
   }, {
     "lastname": "Wimsingues",
     "firstname": "Jérémy"
-  }]
+  }],
+  "name": "Introduction aux technologies multimedia"
 }, {
   "id": "INF6101",
   "section": "1",
   "date": "2016-12-12T18:30:00.000Z",
-  "class": "A-522"
+  "class": "A-522",
+  "name": "Programmation par contraintes"
 }, {
   "id": "INF6603",
   "section": "1",
   "date": "2016-12-09T14:30:00.000Z",
-  "class": "B-405"
+  "class": "B-405",
+  "name": "Vérification des systèmes temps réel"
 }, {
   "id": "INF8402",
   "section": "1",
@@ -2353,7 +2623,8 @@ var finals = [{
   }, {
     "lastname": "Gamache",
     "firstname": "Clément"
-  }]
+  }],
+  "name": "Sécurité des réseaux fixes et mobiles"
 }, {
   "id": "INF8402",
   "section": "1",
@@ -2365,7 +2636,8 @@ var finals = [{
   }, {
     "lastname": "Nguyen",
     "firstname": "Kenny"
-  }]
+  }],
+  "name": "Sécurité des réseaux fixes et mobiles"
 }, {
   "id": "INF8402",
   "section": "1",
@@ -2377,27 +2649,32 @@ var finals = [{
   }, {
     "lastname": "Zolnouri",
     "firstname": "Mahdi"
-  }]
+  }],
+  "name": "Sécurité des réseaux fixes et mobiles"
 }, {
   "id": "INF8500",
   "section": "1",
   "date": "2016-12-14T14:30:00.000Z",
-  "class": "B-505"
+  "class": "B-505",
+  "name": "Systèmes embarqués:conception et vérification"
 }, {
   "id": "INF8601",
   "section": "1",
   "date": "2016-12-22T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Systèmes informatiques parallèles"
 }, {
   "id": "INF8702",
   "section": "1",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Infographie avancée"
 }, {
   "id": "INF8725",
   "section": "1",
   "date": "2016-12-07T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Traitement de signaux et d'images"
 }, {
   "id": "LOG1000",
   "section": "1",
@@ -2409,7 +2686,8 @@ var finals = [{
   }, {
     "lastname": "Girard",
     "firstname": "Charles"
-  }]
+  }],
+  "name": "Ingénierie logicielle"
 }, {
   "id": "LOG1000",
   "section": "1",
@@ -2421,7 +2699,8 @@ var finals = [{
   }, {
     "lastname": "Younis",
     "firstname": "Gergi"
-  }]
+  }],
+  "name": "Ingénierie logicielle"
 }, {
   "id": "LOG2410",
   "section": "1",
@@ -2433,7 +2712,8 @@ var finals = [{
   }, {
     "lastname": "Giurca",
     "firstname": "Catalin"
-  }]
+  }],
+  "name": "Conception logicielle"
 }, {
   "id": "LOG2410",
   "section": "1",
@@ -2445,7 +2725,8 @@ var finals = [{
   }, {
     "lastname": "Zarrari",
     "firstname": "Imade"
-  }]
+  }],
+  "name": "Conception logicielle"
 }, {
   "id": "LOG2420",
   "section": "1",
@@ -2457,7 +2738,8 @@ var finals = [{
   }, {
     "lastname": "Hou",
     "firstname": "Yawen"
-  }]
+  }],
+  "name": "Anal. et conc. des interfaces utilisateurs"
 }, {
   "id": "LOG2420",
   "section": "1",
@@ -2469,12 +2751,14 @@ var finals = [{
   }, {
     "lastname": "Vu",
     "firstname": "Alexandre"
-  }]
+  }],
+  "name": "Anal. et conc. des interfaces utilisateurs"
 }, {
   "id": "LOG2420",
   "section": "2",
   "date": "2016-12-22T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Anal. et conc. des interfaces utilisateurs"
 }, {
   "id": "LOG2810",
   "section": "1",
@@ -2486,7 +2770,8 @@ var finals = [{
   }, {
     "lastname": "Servant",
     "firstname": "Marc-André"
-  }]
+  }],
+  "name": "Structures discrètes"
 }, {
   "id": "LOG2810",
   "section": "1",
@@ -2498,7 +2783,8 @@ var finals = [{
   }, {
     "lastname": "Vu",
     "firstname": "Alexandre"
-  }]
+  }],
+  "name": "Structures discrètes"
 }, {
   "id": "LOG2810",
   "section": "2",
@@ -2510,7 +2796,8 @@ var finals = [{
   }, {
     "lastname": "Guilbault",
     "firstname": "Catherine"
-  }]
+  }],
+  "name": "Structures discrètes"
 }, {
   "id": "LOG2810",
   "section": "2",
@@ -2522,17 +2809,20 @@ var finals = [{
   }, {
     "lastname": "Wong",
     "firstname": "Yannick"
-  }]
+  }],
+  "name": "Structures discrètes"
 }, {
   "id": "LOG3000",
   "section": "1",
   "date": "2016-12-17T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Processus du génie logiciel"
 }, {
   "id": "LOG3210",
   "section": "1",
   "date": "2016-12-12T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Éléments de langages et compilateurs"
 }, {
   "id": "LOG3430",
   "section": "1",
@@ -2544,7 +2834,8 @@ var finals = [{
   }, {
     "lastname": "Khedimallah",
     "firstname": "Wicem"
-  }]
+  }],
+  "name": "Méthodes de test et de validation du logiciel"
 }, {
   "id": "LOG3430",
   "section": "1",
@@ -2556,7 +2847,8 @@ var finals = [{
   }, {
     "lastname": "Yerma",
     "firstname": "Julien"
-  }]
+  }],
+  "name": "Méthodes de test et de validation du logiciel"
 }, {
   "id": "LOG4410",
   "section": "1",
@@ -2568,7 +2860,8 @@ var finals = [{
   }, {
     "lastname": "Huard-Aspirot",
     "firstname": "Pierre Luc"
-  }]
+  }],
+  "name": "Méthodes formelles en fiabilité et sécurité"
 }, {
   "id": "LOG4410",
   "section": "1",
@@ -2580,7 +2873,8 @@ var finals = [{
   }, {
     "lastname": "Zemmahi",
     "firstname": "Youssef"
-  }]
+  }],
+  "name": "Méthodes formelles en fiabilité et sécurité"
 }, {
   "id": "LOG4420",
   "section": "1",
@@ -2592,7 +2886,8 @@ var finals = [{
   }, {
     "lastname": "Nordholts",
     "firstname": "Johan"
-  }]
+  }],
+  "name": "Conception de sites web dynam. et transact."
 }, {
   "id": "LOG4420",
   "section": "1",
@@ -2604,7 +2899,8 @@ var finals = [{
   }, {
     "lastname": "Zolnouri",
     "firstname": "Mahdi"
-  }]
+  }],
+  "name": "Conception de sites web dynam. et transact."
 }, {
   "id": "LOG4715",
   "section": "1",
@@ -2616,7 +2912,8 @@ var finals = [{
   }, {
     "lastname": "Gaudreau",
     "firstname": "Samuel"
-  }]
+  }],
+  "name": "Conception de jeux vidéo"
 }, {
   "id": "LOG4715",
   "section": "1",
@@ -2628,52 +2925,62 @@ var finals = [{
   }, {
     "lastname": "Vrignaud",
     "firstname": "Benoît"
-  }]
+  }],
+  "name": "Conception de jeux vidéo"
 }, {
   "id": "LOG6308",
   "section": "1",
   "date": "2016-12-07T18:30:00.000Z",
-  "class": "A-621"
+  "class": "A-621",
+  "name": "Systèmes de recommandations"
 }, {
   "id": "LOG8430",
   "section": "1",
   "date": "2016-12-13T18:30:00.000Z",
-  "class": "B-405"
+  "class": "B-405",
+  "name": "Architecture logicielle et conception avancée"
 }, {
   "id": "MEC1205",
   "section": "1",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "HPR - Travail en équipe collaboratif"
 }, {
   "id": "MEC1205",
   "section": "2",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "HPR - Travail en équipe collaboratif"
 }, {
   "id": "MEC1205",
   "section": "3",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "HPR - Travail en équipe collaboratif"
 }, {
   "id": "MEC1205",
   "section": "4",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "A-416"
+  "class": "A-416",
+  "name": "HPR - Travail en équipe collaboratif"
 }, {
   "id": "MEC1205",
   "section": "5",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "B-316"
+  "class": "B-316",
+  "name": "HPR - Travail en équipe collaboratif"
 }, {
   "id": "MEC1205",
   "section": "6",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "HPR - Travail en équipe collaboratif"
 }, {
   "id": "MEC1205",
   "section": "7",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "HPR - Travail en équipe collaboratif"
 }, {
   "id": "MEC1210",
   "section": "1",
@@ -2685,7 +2992,8 @@ var finals = [{
   }, {
     "lastname": "Stock",
     "firstname": "Pierre-Nicolas"
-  }]
+  }],
+  "name": "Thermodynamique"
 }, {
   "id": "MEC1210",
   "section": "1",
@@ -2697,7 +3005,8 @@ var finals = [{
   }, {
     "lastname": "Wetie Tankeu",
     "firstname": "Kevin Jordan"
-  }]
+  }],
+  "name": "Thermodynamique"
 }, {
   "id": "MEC1210",
   "section": "2",
@@ -2709,7 +3018,8 @@ var finals = [{
   }, {
     "lastname": "Le Scieller",
     "firstname": "Loïc"
-  }]
+  }],
+  "name": "Thermodynamique"
 }, {
   "id": "MEC1210",
   "section": "2",
@@ -2721,12 +3031,14 @@ var finals = [{
   }, {
     "lastname": "Zoubiri",
     "firstname": "Karim"
-  }]
+  }],
+  "name": "Thermodynamique"
 }, {
   "id": "MEC1410",
   "section": "1",
   "date": "2016-12-07T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Statique"
 }, {
   "id": "MEC1410",
   "section": "2",
@@ -2738,7 +3050,8 @@ var finals = [{
   }, {
     "lastname": "Labbé",
     "firstname": "Vincent"
-  }]
+  }],
+  "name": "Statique"
 }, {
   "id": "MEC1410",
   "section": "2",
@@ -2750,17 +3063,20 @@ var finals = [{
   }, {
     "lastname": "Zeni",
     "firstname": "Valentine"
-  }]
+  }],
+  "name": "Statique"
 }, {
   "id": "MEC1410",
   "section": "3",
   "date": "2016-12-07T14:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Statique"
 }, {
   "id": "MEC1410",
   "section": "4",
   "date": "2016-12-07T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Statique"
 }, {
   "id": "MEC1410",
   "section": "5",
@@ -2772,7 +3088,8 @@ var finals = [{
   }, {
     "lastname": "Mutshaila Kasongo",
     "firstname": "Josias"
-  }]
+  }],
+  "name": "Statique"
 }, {
   "id": "MEC1410",
   "section": "5",
@@ -2784,7 +3101,8 @@ var finals = [{
   }, {
     "lastname": "Zargou",
     "firstname": "Messaoud"
-  }]
+  }],
+  "name": "Statique"
 }, {
   "id": "MEC1410",
   "section": "6",
@@ -2796,7 +3114,8 @@ var finals = [{
   }, {
     "lastname": "Hurtubise",
     "firstname": "Philip"
-  }]
+  }],
+  "name": "Statique"
 }, {
   "id": "MEC1410",
   "section": "6",
@@ -2808,7 +3127,8 @@ var finals = [{
   }, {
     "lastname": "Walker",
     "firstname": "Alexandre"
-  }]
+  }],
+  "name": "Statique"
 }, {
   "id": "MEC1410",
   "section": "7",
@@ -2820,7 +3140,8 @@ var finals = [{
   }, {
     "lastname": "LeBlanc-Robichaud",
     "firstname": "Camille"
-  }]
+  }],
+  "name": "Statique"
 }, {
   "id": "MEC1410",
   "section": "7",
@@ -2832,12 +3153,14 @@ var finals = [{
   }, {
     "lastname": "Waltz",
     "firstname": "Antoine"
-  }]
+  }],
+  "name": "Statique"
 }, {
   "id": "MEC1420",
   "section": "1",
   "date": "2016-12-16T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Résistance des matériaux I"
 }, {
   "id": "MEC1420",
   "section": "2",
@@ -2849,7 +3172,8 @@ var finals = [{
   }, {
     "lastname": "Koulmi",
     "firstname": "Ikram"
-  }]
+  }],
+  "name": "Résistance des matériaux I"
 }, {
   "id": "MEC1420",
   "section": "2",
@@ -2861,12 +3185,14 @@ var finals = [{
   }, {
     "lastname": "Villa Roncal",
     "firstname": "Bryan Vladimir"
-  }]
+  }],
+  "name": "Résistance des matériaux I"
 }, {
   "id": "MEC1510",
   "section": "1",
   "date": "2016-12-15T14:30:00.000Z",
-  "class": "A-416"
+  "class": "A-416",
+  "name": "Modélisation de systèmes mécaniques"
 }, {
   "id": "MEC1510",
   "section": "2",
@@ -2878,7 +3204,8 @@ var finals = [{
   }, {
     "lastname": "Medeiros",
     "firstname": "Alexandre"
-  }]
+  }],
+  "name": "Modélisation de systèmes mécaniques"
 }, {
   "id": "MEC1510",
   "section": "2",
@@ -2890,12 +3217,14 @@ var finals = [{
   }, {
     "lastname": "Waltz",
     "firstname": "Antoine"
-  }]
+  }],
+  "name": "Modélisation de systèmes mécaniques"
 }, {
   "id": "MEC1510",
   "section": "3",
   "date": "2016-12-15T14:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Modélisation de systèmes mécaniques"
 }, {
   "id": "MEC1510",
   "section": "4",
@@ -2907,7 +3236,8 @@ var finals = [{
   }, {
     "lastname": "Charest-Rettig",
     "firstname": "François"
-  }]
+  }],
+  "name": "Modélisation de systèmes mécaniques"
 }, {
   "id": "MEC1510",
   "section": "4",
@@ -2919,17 +3249,20 @@ var finals = [{
   }, {
     "lastname": "Walker",
     "firstname": "Alexandre"
-  }]
+  }],
+  "name": "Modélisation de systèmes mécaniques"
 }, {
   "id": "MEC1510",
   "section": "5",
   "date": "2016-12-15T14:30:00.000Z",
-  "class": "B-315"
+  "class": "B-315",
+  "name": "Modélisation de systèmes mécaniques"
 }, {
   "id": "MEC1515",
   "section": "1",
   "date": "2016-12-15T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "DAO en ingénierie"
 }, {
   "id": "MEC1515",
   "section": "2",
@@ -2941,7 +3274,8 @@ var finals = [{
   }, {
     "lastname": "Hervieux",
     "firstname": "Félix-Xavier"
-  }]
+  }],
+  "name": "DAO en ingénierie"
 }, {
   "id": "MEC1515",
   "section": "2",
@@ -2953,12 +3287,14 @@ var finals = [{
   }, {
     "lastname": "Zargou",
     "firstname": "Messaoud"
-  }]
+  }],
+  "name": "DAO en ingénierie"
 }, {
   "id": "MEC1515",
   "section": "3",
   "date": "2016-12-15T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "DAO en ingénierie"
 }, {
   "id": "MEC1515",
   "section": "4",
@@ -2970,7 +3306,8 @@ var finals = [{
   }, {
     "lastname": "Gerbouin",
     "firstname": "Jean-Baptiste"
-  }]
+  }],
+  "name": "DAO en ingénierie"
 }, {
   "id": "MEC1515",
   "section": "4",
@@ -2982,37 +3319,44 @@ var finals = [{
   }, {
     "lastname": "Yebadokpo",
     "firstname": "Rony Gédéon"
-  }]
+  }],
+  "name": "DAO en ingénierie"
 }, {
   "id": "MEC1515",
   "section": "5",
   "date": "2016-12-15T14:30:00.000Z",
-  "class": "A-416"
+  "class": "A-416",
+  "name": "DAO en ingénierie"
 }, {
   "id": "MEC2115",
   "section": "1",
   "date": "2016-12-10T14:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Méthodes expérim. et instrum. en mécanique"
 }, {
   "id": "MEC2200",
   "section": "1",
   "date": "2016-12-12T14:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Dynamique des fluides"
 }, {
   "id": "MEC2200",
   "section": "2",
   "date": "2016-12-12T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Dynamique des fluides"
 }, {
   "id": "MEC2200",
   "section": "3",
   "date": "2016-12-12T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Dynamique des fluides"
 }, {
   "id": "MEC2310",
   "section": "1",
   "date": "2016-12-15T18:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Éléments de machines"
 }, {
   "id": "MEC2405",
   "section": "1",
@@ -3024,7 +3368,8 @@ var finals = [{
   }, {
     "lastname": "Mcheimach",
     "firstname": "Mahdi"
-  }]
+  }],
+  "name": "Résistance des matériaux II"
 }, {
   "id": "MEC2405",
   "section": "1",
@@ -3036,17 +3381,20 @@ var finals = [{
   }, {
     "lastname": "Zayat",
     "firstname": "Yann"
-  }]
+  }],
+  "name": "Résistance des matériaux II"
 }, {
   "id": "MEC2420",
   "section": "1",
   "date": "2016-12-07T14:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Dynamique de l'ingénieur"
 }, {
   "id": "MEC2420",
   "section": "2",
   "date": "2016-12-07T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Dynamique de l'ingénieur"
 }, {
   "id": "MEC2420",
   "section": "3",
@@ -3058,7 +3406,8 @@ var finals = [{
   }, {
     "lastname": "Labonté-Lanthier",
     "firstname": "Maxime"
-  }]
+  }],
+  "name": "Dynamique de l'ingénieur"
 }, {
   "id": "MEC2420",
   "section": "3",
@@ -3070,7 +3419,8 @@ var finals = [{
   }, {
     "lastname": "Vincent",
     "firstname": "Éliot"
-  }]
+  }],
+  "name": "Dynamique de l'ingénieur"
 }, {
   "id": "MEC2435",
   "section": "1",
@@ -3082,7 +3432,8 @@ var finals = [{
   }, {
     "lastname": "Massé",
     "firstname": "Gauthier"
-  }]
+  }],
+  "name": "Vibrations"
 }, {
   "id": "MEC2435",
   "section": "1",
@@ -3094,7 +3445,8 @@ var finals = [{
   }, {
     "lastname": "Watelle",
     "firstname": "Sabrina"
-  }]
+  }],
+  "name": "Vibrations"
 }, {
   "id": "MEC2500",
   "section": "1",
@@ -3106,7 +3458,8 @@ var finals = [{
   }, {
     "lastname": "Dessouki",
     "firstname": "Alexandre"
-  }]
+  }],
+  "name": "Définition technologique de produits méc."
 }, {
   "id": "MEC2500",
   "section": "1",
@@ -3118,7 +3471,8 @@ var finals = [{
   }, {
     "lastname": "Zreik",
     "firstname": "Jad"
-  }]
+  }],
+  "name": "Définition technologique de produits méc."
 }, {
   "id": "MEC3200",
   "section": "1",
@@ -3130,7 +3484,8 @@ var finals = [{
   }, {
     "lastname": "Rohar",
     "firstname": "Patrick"
-  }]
+  }],
+  "name": "Transmission de chaleur"
 }, {
   "id": "MEC3200",
   "section": "1",
@@ -3142,7 +3497,8 @@ var finals = [{
   }, {
     "lastname": "Weber",
     "firstname": "Nathan"
-  }]
+  }],
+  "name": "Transmission de chaleur"
 }, {
   "id": "MEC3200",
   "section": "2",
@@ -3154,7 +3510,8 @@ var finals = [{
   }, {
     "lastname": "Lagunas Herrera",
     "firstname": "Marlene"
-  }]
+  }],
+  "name": "Transmission de chaleur"
 }, {
   "id": "MEC3200",
   "section": "2",
@@ -3166,22 +3523,26 @@ var finals = [{
   }, {
     "lastname": "Vernay",
     "firstname": "Julien"
-  }]
+  }],
+  "name": "Transmission de chaleur"
 }, {
   "id": "MEC3215",
   "section": "1",
   "date": "2016-12-09T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Thermodynamique appliquée"
 }, {
   "id": "MEC3230",
   "section": "1",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Éléments finis en thermofluide"
 }, {
   "id": "MEC3230",
   "section": "2",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Éléments finis en thermofluide"
 }, {
   "id": "MEC3305",
   "section": "1",
@@ -3193,7 +3554,8 @@ var finals = [{
   }, {
     "lastname": "Seck",
     "firstname": "Mamadou Mansour Laye"
-  }]
+  }],
+  "name": "Analyse et commande des systèmes dynamiques"
 }, {
   "id": "MEC3305",
   "section": "1",
@@ -3205,7 +3567,8 @@ var finals = [{
   }, {
     "lastname": "Weber",
     "firstname": "Nathan"
-  }]
+  }],
+  "name": "Analyse et commande des systèmes dynamiques"
 }, {
   "id": "MEC3305",
   "section": "2",
@@ -3217,7 +3580,8 @@ var finals = [{
   }, {
     "lastname": "Laneuville",
     "firstname": "Vincent"
-  }]
+  }],
+  "name": "Analyse et commande des systèmes dynamiques"
 }, {
   "id": "MEC3305",
   "section": "2",
@@ -3229,17 +3593,20 @@ var finals = [{
   }, {
     "lastname": "Watier",
     "firstname": "Mathieu"
-  }]
+  }],
+  "name": "Analyse et commande des systèmes dynamiques"
 }, {
   "id": "MEC3400",
   "section": "1",
   "date": "2016-12-22T14:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Éléments finis en mécanique du solide"
 }, {
   "id": "MEC3430",
   "section": "1",
   "date": "2016-12-08T18:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Matériaux polymères"
 }, {
   "id": "MEC3430",
   "section": "2",
@@ -3251,7 +3618,8 @@ var finals = [{
   }, {
     "lastname": "Leclerc",
     "firstname": "Philippe"
-  }]
+  }],
+  "name": "Matériaux polymères"
 }, {
   "id": "MEC3430",
   "section": "2",
@@ -3263,12 +3631,14 @@ var finals = [{
   }, {
     "lastname": "Wehbe",
     "firstname": "Mohamad"
-  }]
+  }],
+  "name": "Matériaux polymères"
 }, {
   "id": "MEC3455",
   "section": "1",
   "date": "2016-12-12T18:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Systèmes hydrauliques et pneumatiques"
 }, {
   "id": "MEC3520",
   "section": "1",
@@ -3280,7 +3650,8 @@ var finals = [{
   }, {
     "lastname": "Mourgue",
     "firstname": "Florian"
-  }]
+  }],
+  "name": "Industrialisation des produits"
 }, {
   "id": "MEC3520",
   "section": "1",
@@ -3292,22 +3663,26 @@ var finals = [{
   }, {
     "lastname": "Zimmermann",
     "firstname": "Yann"
-  }]
+  }],
+  "name": "Industrialisation des produits"
 }, {
   "id": "MEC3520",
   "section": "2",
   "date": "2016-12-21T18:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Industrialisation des produits"
 }, {
   "id": "MEC4122",
   "section": "1",
   "date": "2016-12-11T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Mesure et modélisation dynamique"
 }, {
   "id": "MEC4122",
   "section": "2",
   "date": "2016-12-11T14:30:00.000Z",
-  "class": "B-508"
+  "class": "B-508",
+  "name": "Mesure et modélisation dynamique"
 }, {
   "id": "MEC4280",
   "section": "1",
@@ -3319,7 +3694,8 @@ var finals = [{
   }, {
     "lastname": "Lamarre",
     "firstname": "Charles"
-  }]
+  }],
+  "name": "Syst. de pompage, ventil. et compression"
 }, {
   "id": "MEC4280",
   "section": "1",
@@ -3331,67 +3707,80 @@ var finals = [{
   }, {
     "lastname": "Zhu",
     "firstname": "Yiran"
-  }]
+  }],
+  "name": "Syst. de pompage, ventil. et compression"
 }, {
   "id": "MEC6216",
   "section": "1",
   "date": "2016-12-15T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Géothermie et applications"
 }, {
   "id": "MEC6306A",
   "section": "1",
   "date": "2016-12-07T18:30:00.000Z",
-  "class": "A-621"
+  "class": "A-621",
+  "name": "Comportement mécan. des matér. composites"
 }, {
   "id": "MEC8250",
   "section": "1",
   "date": "2016-12-21T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Turbomachines"
 }, {
   "id": "MEC8252",
   "section": "1",
   "date": "2016-12-09T18:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Combustion et pollution atmosphérique"
 }, {
   "id": "MEC8254",
   "section": "1",
   "date": "2016-12-13T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Éléments de mécanique du bâtiment"
 }, {
   "id": "MEC8312",
   "section": "1",
   "date": "2016-12-14T00:00:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Fiabilité et sécurité des systèmes"
 }, {
   "id": "MEC8350",
   "section": "1",
   "date": "2016-12-17T14:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Méthodes avancées en CFAO/IAO"
 }, {
   "id": "MEC8356",
   "section": "1",
   "date": "2016-12-14T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Matériaux composites"
 }, {
   "id": "MEC8415",
   "section": "1",
   "date": "2016-12-15T18:30:00.000Z",
-  "class": "B-314"
+  "class": "B-314",
+  "name": "Endommagement par fatigue-fluage"
 }, {
   "id": "MEC8450",
   "section": "1",
   "date": "2016-12-14T18:30:00.000Z",
-  "class": "A-526"
+  "class": "A-526",
+  "name": "Mécanisme et dynamique des machines"
 }, {
   "id": "MEC8550",
   "section": "1",
   "date": "2016-12-15T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Fab. assistée ordinateur et machines-outils"
 }, {
   "id": "MEC8552",
   "section": "1",
   "date": "2016-12-09T18:30:00.000Z",
-  "class": "B-304"
+  "class": "B-304",
+  "name": "Métrologie industrielle"
 }, {
   "id": "MEC8910A",
   "section": "1",
@@ -3403,7 +3792,8 @@ var finals = [{
   }, {
     "lastname": "Jeyarajan Nelson",
     "firstname": "Prince"
-  }]
+  }],
+  "name": "Gestion de projet en génie aéronautique"
 }, {
   "id": "MEC8910A",
   "section": "1",
@@ -3415,37 +3805,44 @@ var finals = [{
   }, {
     "lastname": "Zaribafzadeh",
     "firstname": "Mohammadreza"
-  }]
+  }],
+  "name": "Gestion de projet en génie aéronautique"
 }, {
   "id": "MET8106",
   "section": "1",
   "date": "2016-12-11T18:30:00.000Z",
-  "class": "B-314"
+  "class": "B-314",
+  "name": "Énergie électrochimique"
 }, {
   "id": "MIN1101",
   "section": "1",
   "date": "2016-12-11T18:30:00.000Z",
-  "class": "A-416"
+  "class": "A-416",
+  "name": "Introduction à l'exploitation des mines"
 }, {
   "id": "MIN3210",
   "section": "1",
   "date": "2016-12-07T18:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Mécanique des roches et contrôle des terrains"
 }, {
   "id": "MIN3311",
   "section": "1",
   "date": "2016-12-12T18:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Géotechnique minière"
 }, {
   "id": "MIN3510",
   "section": "1",
   "date": "2016-12-14T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Recherche opérationnelle minière"
 }, {
   "id": "MTH0101",
   "section": "1",
   "date": "2016-12-07T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Calcul différentiel"
 }, {
   "id": "MTH0101",
   "section": "2",
@@ -3457,7 +3854,8 @@ var finals = [{
   }, {
     "lastname": "Lee Hanul",
     "firstname": "Nelinaritsima"
-  }]
+  }],
+  "name": "Calcul différentiel"
 }, {
   "id": "MTH0101",
   "section": "2",
@@ -3469,17 +3867,20 @@ var finals = [{
   }, {
     "lastname": "Welti",
     "firstname": "Alexandre"
-  }]
+  }],
+  "name": "Calcul différentiel"
 }, {
   "id": "MTH0101",
   "section": "3",
   "date": "2016-12-07T18:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Calcul différentiel"
 }, {
   "id": "MTH0102",
   "section": "1",
   "date": "2016-12-18T18:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Algèbre vectorielle"
 }, {
   "id": "MTH0102",
   "section": "2",
@@ -3491,7 +3892,8 @@ var finals = [{
   }, {
     "lastname": "El Ayoubi",
     "firstname": "Hussein"
-  }]
+  }],
+  "name": "Algèbre vectorielle"
 }, {
   "id": "MTH0102",
   "section": "2",
@@ -3503,7 +3905,8 @@ var finals = [{
   }, {
     "lastname": "Zambo Nguele",
     "firstname": "Aymeric Franck"
-  }]
+  }],
+  "name": "Algèbre vectorielle"
 }, {
   "id": "MTH0102",
   "section": "3",
@@ -3515,7 +3918,8 @@ var finals = [{
   }, {
     "lastname": "Bochin",
     "firstname": "Edouard"
-  }]
+  }],
+  "name": "Algèbre vectorielle"
 }, {
   "id": "MTH0102",
   "section": "3",
@@ -3527,22 +3931,26 @@ var finals = [{
   }, {
     "lastname": "Ziggar",
     "firstname": "Elisée Maphi"
-  }]
+  }],
+  "name": "Algèbre vectorielle"
 }, {
   "id": "MTH0103",
   "section": "1",
   "date": "2016-12-08T18:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Calcul intégral"
 }, {
   "id": "MTH0103",
   "section": "2",
   "date": "2016-12-08T18:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Calcul intégral"
 }, {
   "id": "MTH0104",
   "section": "1",
   "date": "2016-12-10T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Probabilités et statistique"
 }, {
   "id": "MTH1007",
   "section": "1",
@@ -3554,7 +3962,8 @@ var finals = [{
   }, {
     "lastname": "Koura Souleman Zoumarou",
     "firstname": "Shehah"
-  }]
+  }],
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "1",
@@ -3566,7 +3975,8 @@ var finals = [{
   }, {
     "lastname": "Zussino",
     "firstname": "Margaux"
-  }]
+  }],
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "2",
@@ -3578,7 +3988,8 @@ var finals = [{
   }, {
     "lastname": "El Badoury",
     "firstname": "Meryem"
-  }]
+  }],
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "2",
@@ -3590,7 +4001,8 @@ var finals = [{
   }, {
     "lastname": "Xing",
     "firstname": "Paul"
-  }]
+  }],
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "3",
@@ -3602,7 +4014,8 @@ var finals = [{
   }, {
     "lastname": "Grenier",
     "firstname": "Pascal"
-  }]
+  }],
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "3",
@@ -3614,7 +4027,8 @@ var finals = [{
   }, {
     "lastname": "Zakaria",
     "firstname": "Hatim"
-  }]
+  }],
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "4",
@@ -3626,7 +4040,8 @@ var finals = [{
   }, {
     "lastname": "Laperrière",
     "firstname": "Jean-Sébastien"
-  }]
+  }],
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "4",
@@ -3638,17 +4053,20 @@ var finals = [{
   }, {
     "lastname": "Trinh",
     "firstname": "Tommy"
-  }]
+  }],
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "5",
   "date": "2016-12-13T14:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "6",
   "date": "2016-12-13T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "7",
@@ -3660,7 +4078,8 @@ var finals = [{
   }, {
     "lastname": "Jian",
     "firstname": "Yi Fan"
-  }]
+  }],
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "7",
@@ -3672,22 +4091,26 @@ var finals = [{
   }, {
     "lastname": "Toukal",
     "firstname": "Monssaf"
-  }]
+  }],
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "8",
   "date": "2016-12-13T14:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "9",
   "date": "2016-12-13T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "10",
   "date": "2016-12-13T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "11",
@@ -3699,7 +4122,8 @@ var finals = [{
   }, {
     "lastname": "Giroux-Huppé",
     "firstname": "Mathieu"
-  }]
+  }],
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1007",
   "section": "11",
@@ -3711,12 +4135,14 @@ var finals = [{
   }, {
     "lastname": "Zuchoski",
     "firstname": "David"
-  }]
+  }],
+  "name": "Algèbre linéaire pour ingénieurs"
 }, {
   "id": "MTH1101",
   "section": "1",
   "date": "2016-12-09T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "2",
@@ -3728,7 +4154,8 @@ var finals = [{
   }, {
     "lastname": "Farah",
     "firstname": "Angela"
-  }]
+  }],
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "2",
@@ -3740,7 +4167,8 @@ var finals = [{
   }, {
     "lastname": "Zargou",
     "firstname": "Messaoud"
-  }]
+  }],
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "3",
@@ -3752,7 +4180,8 @@ var finals = [{
   }, {
     "lastname": "Landry",
     "firstname": "Catherine"
-  }]
+  }],
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "3",
@@ -3764,7 +4193,8 @@ var finals = [{
   }, {
     "lastname": "Zhang",
     "firstname": "Yun Ran"
-  }]
+  }],
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "4",
@@ -3776,7 +4206,8 @@ var finals = [{
   }, {
     "lastname": "Lapierre",
     "firstname": "Mariève"
-  }]
+  }],
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "4",
@@ -3788,27 +4219,32 @@ var finals = [{
   }, {
     "lastname": "Villeneuve",
     "firstname": "Nicolas"
-  }]
+  }],
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "5",
   "date": "2016-12-09T14:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "6",
   "date": "2016-12-09T14:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "7",
   "date": "2016-12-09T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "8",
   "date": "2016-12-09T14:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "9",
@@ -3820,7 +4256,8 @@ var finals = [{
   }, {
     "lastname": "Gravel",
     "firstname": "Frédérique"
-  }]
+  }],
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "9",
@@ -3832,7 +4269,8 @@ var finals = [{
   }, {
     "lastname": "Zeni",
     "firstname": "Valentine"
-  }]
+  }],
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "10",
@@ -3844,7 +4282,8 @@ var finals = [{
   }, {
     "lastname": "Lessard",
     "firstname": "David"
-  }]
+  }],
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "10",
@@ -3856,7 +4295,8 @@ var finals = [{
   }, {
     "lastname": "Zuchoski",
     "firstname": "David"
-  }]
+  }],
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "11",
@@ -3868,7 +4308,8 @@ var finals = [{
   }, {
     "lastname": "Razk",
     "firstname": "Cherry Gobran Tobia"
-  }]
+  }],
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "11",
@@ -3880,27 +4321,32 @@ var finals = [{
   }, {
     "lastname": "Wandege",
     "firstname": "Drossia"
-  }]
+  }],
+  "name": "Calcul I"
 }, {
   "id": "MTH1101",
   "section": "12",
   "date": "2016-12-09T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Calcul I"
 }, {
   "id": "MTH1101S",
   "section": "1",
   "date": "2016-12-09T14:30:00.000Z",
-  "class": "B-304"
+  "class": "B-304",
+  "name": ""
 }, {
   "id": "MTH1102",
   "section": "1",
   "date": "2016-12-09T18:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Calcul II"
 }, {
   "id": "MTH1102",
   "section": "2",
   "date": "2016-12-09T18:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Calcul II"
 }, {
   "id": "MTH1102",
   "section": "3",
@@ -3912,7 +4358,8 @@ var finals = [{
   }, {
     "lastname": "Gingras",
     "firstname": "Pierre-Luc"
-  }]
+  }],
+  "name": "Calcul II"
 }, {
   "id": "MTH1102",
   "section": "3",
@@ -3924,7 +4371,8 @@ var finals = [{
   }, {
     "lastname": "Vicaire",
     "firstname": "Gabrielle"
-  }]
+  }],
+  "name": "Calcul II"
 }, {
   "id": "MTH1102",
   "section": "4",
@@ -3936,7 +4384,8 @@ var finals = [{
   }, {
     "lastname": "Ghrabli",
     "firstname": "Amine"
-  }]
+  }],
+  "name": "Calcul II"
 }, {
   "id": "MTH1102",
   "section": "4",
@@ -3948,17 +4397,20 @@ var finals = [{
   }, {
     "lastname": "Zanotty-Beaudry",
     "firstname": "Victoria"
-  }]
+  }],
+  "name": "Calcul II"
 }, {
   "id": "MTH1102",
   "section": "5",
   "date": "2016-12-09T18:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Calcul II"
 }, {
   "id": "MTH1110",
   "section": "1",
   "date": "2016-12-14T18:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Équations différentielles ordinaires"
 }, {
   "id": "MTH1110",
   "section": "2",
@@ -3970,7 +4422,8 @@ var finals = [{
   }, {
     "lastname": "Chochos",
     "firstname": "Charalampos"
-  }]
+  }],
+  "name": "Équations différentielles ordinaires"
 }, {
   "id": "MTH1110",
   "section": "2",
@@ -3982,22 +4435,26 @@ var finals = [{
   }, {
     "lastname": "Wong",
     "firstname": "Fabien"
-  }]
+  }],
+  "name": "Équations différentielles ordinaires"
 }, {
   "id": "MTH1115",
   "section": "1",
   "date": "2016-12-13T18:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Équations différentielles"
 }, {
   "id": "MTH1115",
   "section": "2",
   "date": "2016-12-13T18:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Équations différentielles"
 }, {
   "id": "MTH1115",
   "section": "3",
   "date": "2016-12-13T18:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Équations différentielles"
 }, {
   "id": "MTH1115D",
   "section": "1",
@@ -4009,7 +4466,8 @@ var finals = [{
   }, {
     "lastname": "Khoury",
     "firstname": "Maria"
-  }]
+  }],
+  "name": "Équations différentielles"
 }, {
   "id": "MTH1115D",
   "section": "1",
@@ -4021,47 +4479,56 @@ var finals = [{
   }, {
     "lastname": "Zreik",
     "firstname": "Jad"
-  }]
+  }],
+  "name": "Équations différentielles"
 }, {
   "id": "MTH2110",
   "section": "1",
   "date": "2016-12-18T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Méthodes mathématiques de la physique I"
 }, {
   "id": "MTH2120",
   "section": "1",
   "date": "2016-12-19T18:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Analyse appliquée"
 }, {
   "id": "MTH2210A",
   "section": "1",
   "date": "2016-12-14T14:30:00.000Z",
-  "class": "A-416"
+  "class": "A-416",
+  "name": "Calcul scientifique pour ingénieurs"
 }, {
   "id": "MTH2210A",
   "section": "2",
   "date": "2016-12-14T14:30:00.000Z",
-  "class": "A-410"
+  "class": "A-410",
+  "name": "Calcul scientifique pour ingénieurs"
 }, {
   "id": "MTH2210A",
   "section": "3",
   "date": "2016-12-14T14:30:00.000Z",
-  "class": "B-314"
+  "class": "B-314",
+  "name": "Calcul scientifique pour ingénieurs"
 }, {
   "id": "MTH2210A",
   "section": "4",
   "date": "2016-12-14T14:30:00.000Z",
-  "class": "B-315"
+  "class": "B-315",
+  "name": "Calcul scientifique pour ingénieurs"
 }, {
   "id": "MTH2210B",
   "section": "1",
   "date": "2016-12-14T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Calcul scientifique pour ingénieurs"
 }, {
   "id": "MTH2210C",
   "section": "1",
   "date": "2016-12-14T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Calcul scientifique pour ingénieurs"
 }, {
   "id": "MTH2210C",
   "section": "2",
@@ -4073,7 +4540,8 @@ var finals = [{
   }, {
     "lastname": "De Tilly",
     "firstname": "Phillipe"
-  }]
+  }],
+  "name": "Calcul scientifique pour ingénieurs"
 }, {
   "id": "MTH2210C",
   "section": "2",
@@ -4085,17 +4553,20 @@ var finals = [{
   }, {
     "lastname": "Velickovski",
     "firstname": "Martin"
-  }]
+  }],
+  "name": "Calcul scientifique pour ingénieurs"
 }, {
   "id": "MTH2302A",
   "section": "1",
   "date": "2016-12-10T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Probabilités et statistique"
 }, {
   "id": "MTH2302B",
   "section": "1",
   "date": "2016-12-10T18:30:00.000Z",
-  "class": "B-314"
+  "class": "B-314",
+  "name": "Probabilités et statistique"
 }, {
   "id": "MTH2302B",
   "section": "2",
@@ -4107,7 +4578,8 @@ var finals = [{
   }, {
     "lastname": "Cioc",
     "firstname": "Marius Ioan"
-  }]
+  }],
+  "name": "Probabilités et statistique"
 }, {
   "id": "MTH2302B",
   "section": "2",
@@ -4119,32 +4591,38 @@ var finals = [{
   }, {
     "lastname": "Vernay",
     "firstname": "Julien"
-  }]
+  }],
+  "name": "Probabilités et statistique"
 }, {
   "id": "MTH2302B",
   "section": "3",
   "date": "2016-12-10T18:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Probabilités et statistique"
 }, {
   "id": "MTH2302C",
   "section": "1",
   "date": "2016-12-10T18:30:00.000Z",
-  "class": "B-508"
+  "class": "B-508",
+  "name": "Probabilités et statistique"
 }, {
   "id": "MTH2302C",
   "section": "2",
   "date": "2016-12-10T18:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Probabilités et statistique"
 }, {
   "id": "MTH2302D",
   "section": "1",
   "date": "2016-12-17T14:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Probabilités et statistique"
 }, {
   "id": "MTH2302D",
   "section": "2",
   "date": "2016-12-17T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Probabilités et statistique"
 }, {
   "id": "MTH2302D",
   "section": "3",
@@ -4156,7 +4634,8 @@ var finals = [{
   }, {
     "lastname": "Gagnon",
     "firstname": "Genevieve"
-  }]
+  }],
+  "name": "Probabilités et statistique"
 }, {
   "id": "MTH2302D",
   "section": "3",
@@ -4168,22 +4647,26 @@ var finals = [{
   }, {
     "lastname": "Waota",
     "firstname": "Fatim Alexandra"
-  }]
+  }],
+  "name": "Probabilités et statistique"
 }, {
   "id": "MTH3400",
   "section": "1",
   "date": "2016-12-22T14:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Analyse mathématique pour ingénieurs"
 }, {
   "id": "MTH8207",
   "section": "1",
   "date": "2016-12-09T18:30:00.000Z",
-  "class": "B-304"
+  "class": "B-304",
+  "name": "Mathématiques des éléments finis"
 }, {
   "id": "MTH8442",
   "section": "1",
   "date": "2016-12-08T18:30:00.000Z",
-  "class": "B-411"
+  "class": "B-411",
+  "name": "Ordonnancement de la production"
 }, {
   "id": "MTR1035C",
   "section": "1",
@@ -4195,7 +4678,8 @@ var finals = [{
   }, {
     "lastname": "Pouzergue",
     "firstname": "Marie"
-  }]
+  }],
+  "name": "Matériaux"
 }, {
   "id": "MTR1035C",
   "section": "1",
@@ -4207,17 +4691,20 @@ var finals = [{
   }, {
     "lastname": "Zouini",
     "firstname": "Yahya"
-  }]
+  }],
+  "name": "Matériaux"
 }, {
   "id": "MTR1035C",
   "section": "2",
   "date": "2016-12-17T18:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Matériaux"
 }, {
   "id": "MTR2000",
   "section": "1",
   "date": "2016-12-17T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Matériaux métalliques"
 }, {
   "id": "MTR2000",
   "section": "2",
@@ -4229,7 +4716,8 @@ var finals = [{
   }, {
     "lastname": "Giguere",
     "firstname": "Jean-Simon"
-  }]
+  }],
+  "name": "Matériaux métalliques"
 }, {
   "id": "MTR2000",
   "section": "2",
@@ -4241,17 +4729,20 @@ var finals = [{
   }, {
     "lastname": "Yoshida",
     "firstname": "Nobory"
-  }]
+  }],
+  "name": "Matériaux métalliques"
 }, {
   "id": "MTR2000",
   "section": "3",
   "date": "2016-12-17T14:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Matériaux métalliques"
 }, {
   "id": "PHS0101",
   "section": "1",
   "date": "2016-12-10T18:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Dynamique"
 }, {
   "id": "PHS0101",
   "section": "2",
@@ -4263,7 +4754,8 @@ var finals = [{
   }, {
     "lastname": "Ekondi",
     "firstname": "Christy-Honor"
-  }]
+  }],
+  "name": "Dynamique"
 }, {
   "id": "PHS0101",
   "section": "2",
@@ -4275,12 +4767,14 @@ var finals = [{
   }, {
     "lastname": "Ziggar",
     "firstname": "Elisée Maphi"
-  }]
+  }],
+  "name": "Dynamique"
 }, {
   "id": "PHS0101",
   "section": "3",
   "date": "2016-12-10T18:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Dynamique"
 }, {
   "id": "PHS0101",
   "section": "4",
@@ -4292,7 +4786,8 @@ var finals = [{
   }, {
     "lastname": "Ngameni Fouman",
     "firstname": "Samuel Parfait"
-  }]
+  }],
+  "name": "Dynamique"
 }, {
   "id": "PHS0101",
   "section": "4",
@@ -4304,17 +4799,20 @@ var finals = [{
   }, {
     "lastname": "Tchuidjang",
     "firstname": "Dieu-Ne-Dort"
-  }]
+  }],
+  "name": "Dynamique"
 }, {
   "id": "PHS0102",
   "section": "1",
   "date": "2016-12-21T14:30:00.000Z",
-  "class": "B-315"
+  "class": "B-315",
+  "name": "Électricité et magnétisme"
 }, {
   "id": "PHS0102",
   "section": "2",
   "date": "2016-12-21T14:30:00.000Z",
-  "class": "B-314"
+  "class": "B-314",
+  "name": "Électricité et magnétisme"
 }, {
   "id": "PHS1101",
   "section": "1",
@@ -4326,7 +4824,8 @@ var finals = [{
   }, {
     "lastname": "Eftenie",
     "firstname": "Irina"
-  }]
+  }],
+  "name": "Mécanique pour ingénieurs"
 }, {
   "id": "PHS1101",
   "section": "1",
@@ -4338,7 +4837,8 @@ var finals = [{
   }, {
     "lastname": "Paraiso",
     "firstname": "Alice"
-  }]
+  }],
+  "name": "Mécanique pour ingénieurs"
 }, {
   "id": "PHS1101",
   "section": "1",
@@ -4350,7 +4850,8 @@ var finals = [{
   }, {
     "lastname": "Wong",
     "firstname": "Vaimiti Marina Laura"
-  }]
+  }],
+  "name": "Mécanique pour ingénieurs"
 }, {
   "id": "PHS1101",
   "section": "2",
@@ -4362,7 +4863,8 @@ var finals = [{
   }, {
     "lastname": "Hogue",
     "firstname": "Justin"
-  }]
+  }],
+  "name": "Mécanique pour ingénieurs"
 }, {
   "id": "PHS1101",
   "section": "2",
@@ -4374,7 +4876,8 @@ var finals = [{
   }, {
     "lastname": "Stéphenne",
     "firstname": "Colin"
-  }]
+  }],
+  "name": "Mécanique pour ingénieurs"
 }, {
   "id": "PHS1101",
   "section": "2",
@@ -4386,7 +4889,8 @@ var finals = [{
   }, {
     "lastname": "Zuchoski",
     "firstname": "David"
-  }]
+  }],
+  "name": "Mécanique pour ingénieurs"
 }, {
   "id": "PHS1102",
   "section": "1",
@@ -4398,7 +4902,8 @@ var finals = [{
   }, {
     "lastname": "Jauniaux",
     "firstname": "Claude"
-  }]
+  }],
+  "name": "Champs électromagnétiques"
 }, {
   "id": "PHS1102",
   "section": "1",
@@ -4410,27 +4915,32 @@ var finals = [{
   }, {
     "lastname": "Ypperciel",
     "firstname": "Sandrine"
-  }]
+  }],
+  "name": "Champs électromagnétiques"
 }, {
   "id": "PHS1104",
   "section": "1",
   "date": "2016-12-09T18:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Thermodynamique et transfert de chaleur"
 }, {
   "id": "PHS1205",
   "section": "1",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "B-315"
+  "class": "B-315",
+  "name": "HPR - Travail en équipe collaboratif"
 }, {
   "id": "PHS1205",
   "section": "2",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "B-314"
+  "class": "B-314",
+  "name": "HPR - Travail en équipe collaboratif"
 }, {
   "id": "PHS2106",
   "section": "1",
   "date": "2016-12-12T18:30:00.000Z",
-  "class": "B-638"
+  "class": "B-638",
+  "name": "Physique des ondes"
 }, {
   "id": "PHS2107",
   "section": "1",
@@ -4442,7 +4952,8 @@ var finals = [{
   }, {
     "lastname": "Germain",
     "firstname": "Alexandre"
-  }]
+  }],
+  "name": "Mécanique supérieure"
 }, {
   "id": "PHS2107",
   "section": "1",
@@ -4454,7 +4965,8 @@ var finals = [{
   }, {
     "lastname": "Zuluaga",
     "firstname": "Lina Marcela"
-  }]
+  }],
+  "name": "Mécanique supérieure"
 }, {
   "id": "PHS2109",
   "section": "1",
@@ -4466,7 +4978,8 @@ var finals = [{
   }, {
     "lastname": "Duquette",
     "firstname": "Catherine"
-  }]
+  }],
+  "name": "Cristallographie"
 }, {
   "id": "PHS2109",
   "section": "1",
@@ -4478,27 +4991,32 @@ var finals = [{
   }, {
     "lastname": "Zuluaga",
     "firstname": "Lina Marcela"
-  }]
+  }],
+  "name": "Cristallographie"
 }, {
   "id": "PHS3104",
   "section": "1",
   "date": "2016-12-19T14:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Mécanique quantique II"
 }, {
   "id": "PHS3105",
   "section": "1",
   "date": "2016-12-17T18:30:00.000Z",
-  "class": "B-508"
+  "class": "B-508",
+  "name": "Cinétique"
 }, {
   "id": "PHS3301",
   "section": "1",
   "date": "2016-12-12T18:30:00.000Z",
-  "class": "A-604"
+  "class": "A-604",
+  "name": "Physique du solide I"
 }, {
   "id": "PHS4220",
   "section": "1",
   "date": "2016-12-07T18:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Lasers"
 }, {
   "id": "PHS4700",
   "section": "1",
@@ -4510,7 +5028,8 @@ var finals = [{
   }, {
     "lastname": "Daniel-Adde",
     "firstname": "Arthur"
-  }]
+  }],
+  "name": "Physique pour les applications multimédia"
 }, {
   "id": "PHS4700",
   "section": "1",
@@ -4522,7 +5041,8 @@ var finals = [{
   }, {
     "lastname": "Marchand",
     "firstname": "Erwan"
-  }]
+  }],
+  "name": "Physique pour les applications multimédia"
 }, {
   "id": "PHS4700",
   "section": "1",
@@ -4534,67 +5054,80 @@ var finals = [{
   }, {
     "lastname": "Zhong",
     "firstname": "Zihui"
-  }]
+  }],
+  "name": "Physique pour les applications multimédia"
 }, {
   "id": "PHS8210",
   "section": "1",
   "date": "2016-12-14T14:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Fondements de photonique"
 }, {
   "id": "PHS8310",
   "section": "1",
   "date": "2016-12-15T18:30:00.000Z",
-  "class": "B-405"
+  "class": "B-405",
+  "name": "Microfabrication"
 }, {
   "id": "PHS8321",
   "section": "1",
   "date": "2016-12-09T18:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Caractérisation des matériaux de pointe"
 }, {
   "id": "PHS8501",
   "section": "1",
   "date": "2016-12-11T18:30:00.000Z",
-  "class": "A-522"
+  "class": "A-522",
+  "name": "Bases physiques de la télédétection"
 }, {
   "id": "PHS8604",
   "section": "1",
   "date": "2016-12-13T14:30:00.000Z",
-  "class": "A-533"
+  "class": "A-533",
+  "name": "Conversion directe de l'énergie"
 }, {
   "id": "SSH0345",
   "section": "1",
   "date": "2016-12-12T14:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Pratique du français écrit"
 }, {
   "id": "SSH0345",
   "section": "2",
   "date": "2016-12-12T14:30:00.000Z",
-  "class": "A-533"
+  "class": "A-533",
+  "name": "Pratique du français écrit"
 }, {
   "id": "SSH0345",
   "section": "3",
   "date": "2016-12-12T14:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Pratique du français écrit"
 }, {
   "id": "SSH0345",
   "section": "4",
   "date": "2016-12-12T14:30:00.000Z",
-  "class": "A-533"
+  "class": "A-533",
+  "name": "Pratique du français écrit"
 }, {
   "id": "SSH3100A",
   "section": "1",
   "date": "2016-12-16T18:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Sociologie de la technologie"
 }, {
   "id": "SSH3100B",
   "section": "1",
   "date": "2016-12-16T18:30:00.000Z",
-  "class": "B-415"
+  "class": "B-415",
+  "name": "Sociologie de la technologie"
 }, {
   "id": "SSH3100B",
   "section": "2",
   "date": "2016-12-16T18:30:00.000Z",
-  "class": "B-418"
+  "class": "B-418",
+  "name": "Sociologie de la technologie"
 }, {
   "id": "SSH3100B",
   "section": "3",
@@ -4606,7 +5139,8 @@ var finals = [{
   }, {
     "lastname": "Gervais",
     "firstname": "Renaud"
-  }]
+  }],
+  "name": "Sociologie de la technologie"
 }, {
   "id": "SSH3100B",
   "section": "3",
@@ -4618,12 +5152,14 @@ var finals = [{
   }, {
     "lastname": "Zhong",
     "firstname": "Zihui"
-  }]
+  }],
+  "name": "Sociologie de la technologie"
 }, {
   "id": "SSH3100C",
   "section": "1",
   "date": "2016-12-16T18:30:00.000Z",
-  "class": "B-512"
+  "class": "B-512",
+  "name": "Sociologie de la technologie"
 }, {
   "id": "SSH3201",
   "section": "1",
@@ -4635,7 +5171,8 @@ var finals = [{
   }, {
     "lastname": "Ramu",
     "firstname": "Paul"
-  }]
+  }],
+  "name": "Économique de l'ingénieur"
 }, {
   "id": "SSH3201",
   "section": "1",
@@ -4647,7 +5184,8 @@ var finals = [{
   }, {
     "lastname": "Wizani",
     "firstname": "Hussein"
-  }]
+  }],
+  "name": "Économique de l'ingénieur"
 }, {
   "id": "SSH3201",
   "section": "2",
@@ -4659,7 +5197,8 @@ var finals = [{
   }, {
     "lastname": "Oularé",
     "firstname": "Massakoro"
-  }]
+  }],
+  "name": "Économique de l'ingénieur"
 }, {
   "id": "SSH3201",
   "section": "2",
@@ -4671,7 +5210,8 @@ var finals = [{
   }, {
     "lastname": "Zahid",
     "firstname": "Marwa"
-  }]
+  }],
+  "name": "Économique de l'ingénieur"
 }, {
   "id": "SSH3201",
   "section": "3",
@@ -4683,7 +5223,8 @@ var finals = [{
   }, {
     "lastname": "Hallé",
     "firstname": "Vincent"
-  }]
+  }],
+  "name": "Économique de l'ingénieur"
 }, {
   "id": "SSH3201",
   "section": "3",
@@ -4695,7 +5236,8 @@ var finals = [{
   }, {
     "lastname": "Zeidan",
     "firstname": "Abass"
-  }]
+  }],
+  "name": "Économique de l'ingénieur"
 }, {
   "id": "SSH3201",
   "section": "4",
@@ -4707,7 +5249,8 @@ var finals = [{
   }, {
     "lastname": "Le Prevost",
     "firstname": "Anatole"
-  }]
+  }],
+  "name": "Économique de l'ingénieur"
 }, {
   "id": "SSH3201",
   "section": "4",
@@ -4719,22 +5262,26 @@ var finals = [{
   }, {
     "lastname": "Zalla",
     "firstname": "Adama"
-  }]
+  }],
+  "name": "Économique de l'ingénieur"
 }, {
   "id": "SSH3351",
   "section": "1",
   "date": "2016-12-13T14:30:00.000Z",
-  "class": "A-533"
+  "class": "A-533",
+  "name": "Anglais pour ingénieurs 1"
 }, {
   "id": "SSH3352",
   "section": "1",
   "date": "2016-12-18T14:30:00.000Z",
-  "class": "B-314"
+  "class": "B-314",
+  "name": "Anglais pour ingénieurs 2"
 }, {
   "id": "SSH3502",
   "section": "1",
   "date": "2016-12-22T14:30:00.000Z",
-  "class": "A-532"
+  "class": "A-532",
+  "name": "Droit et éthique"
 }, {
   "id": "SSH3502",
   "section": "2",
@@ -4746,7 +5293,8 @@ var finals = [{
   }, {
     "lastname": "Beaulac",
     "firstname": "Olivier"
-  }]
+  }],
+  "name": "Droit et éthique"
 }, {
   "id": "SSH3502",
   "section": "2",
@@ -4758,5 +5306,6 @@ var finals = [{
   }, {
     "lastname": "Zhang",
     "firstname": "Ke Yuan"
-  }]
+  }],
+  "name": "Droit et éthique"
 }]
