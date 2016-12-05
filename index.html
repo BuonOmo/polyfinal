@@ -16,6 +16,10 @@
 
 <body class="container container-fluid">
     <div id="app">
+      <div class="alert alert-success alert-dismissible" role="alert" :class="{visible: justSaved}">
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close" @click="justSaved = false"><span aria-hidden="true">&times;</span></button>
+          <strong>Yes!</strong> Tes données ont bien été sauvegardées en cookies
+      </div>
         <h1 class="page-header">Trouve tes finaux</h1>
         <form class="form-inline">
             <div class="form-group">

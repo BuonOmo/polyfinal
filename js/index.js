@@ -16,6 +16,7 @@ var app = new Vue({
     finals: finals,
     courseInput: localStorage.getItem(STORAGE_PREFIX+"courseInput") || "",
     name: localStorage.getItem(STORAGE_PREFIX+"name"),
+    justSaved: false
   },
   computed: {
     choice: function () {
@@ -38,6 +39,8 @@ var app = new Vue({
     save: function() {
       if (this.courseInput) localStorage.setItem(STORAGE_PREFIX+"courseInput", this.courseInput);
       if (this.name) localStorage.setItem(STORAGE_PREFIX+"name", this.name);
+      this.justSaved = true;
+      setTimeout(() => this.justSaved = false, 6000000)
     },
     exportICS: function() {
       var ics = new ICAL.Component(['vcalendar',[],[]]);

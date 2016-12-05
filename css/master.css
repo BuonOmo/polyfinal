@@ -22,3 +22,12 @@ footer {
 #courseInput {
     min-width: 340px;
 }
+
+.alert {
+  margin: 10px 0 -60px;
+  transition: all .8s;
+  transform: translateY(-30px) scaleY(0); }
+  .alert.visible {
+    margin: 10px 0 -20px;
+    transform: translateY(0) scaleY(1);
+  }
