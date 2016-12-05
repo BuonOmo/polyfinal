@@ -14,7 +14,7 @@
     <meta property="og:url" content="http://buonomo.github.io/polyfinal">
 </head>
 
-<body class="container container-fluid">
+<body class="container">
     <div id="app">
       <div class="alert alert-success alert-dismissible" role="alert" :class="{visible: justSaved}">
           <button type="button" class="close" data-dismiss="alert" aria-label="Close" @click="justSaved = false"><span aria-hidden="true">&times;</span></button>
@@ -36,21 +36,40 @@
             <a :href="ICSurl" download="agenda-finaux.ics">Exporter au format ICS</a>
         </form>
         <hr>
-        <table class="table table-striped">
+        <table class="table table-striped table-bordered">
             <thead>
                 <tr>
-                    <th>#</th>
-                    <th>Section</th>
-                    <th>Date</th>
-                    <th>Local</th>
+                    <th><a @click="sortBy = 'id'">
+                      #
+                      <span :class="{'glyphicon-triangle-bottom': sortString === 'id' && sortOrder,
+                                     'glyphicon-triangle-top': sortString === 'id' && !sortOrder}"
+                            class="glyphicon sort"></span>
+                    </a></th>
+                    <th><a @click="sortBy = 'section'">
+                      Section
+                      <span :class="{'glyphicon-triangle-bottom': sortString === 'section' && sortOrder,
+                                     'glyphicon-triangle-top': sortString === 'section' && !sortOrder}"
+                            class="glyphicon sort"></span>
+                    </a></th>
+                    <th><a @click="sortBy = 'date'">
+                      Date
+                      <span :class="{'glyphicon-triangle-bottom': sortString === 'date' && sortOrder,
+                                     'glyphicon-triangle-top': sortString === 'date' && !sortOrder}"
+                            class="glyphicon sort"></span>
+                    </a></th>
+                    <th><a @click="sortBy = 'class'">
+                      Local
+                      <span :class="{'glyphicon-triangle-bottom': sortString === 'class' && sortOrder,
+                                     'glyphicon-triangle-top': sortString === 'class' && !sortOrder}"
+                            class="glyphicon sort"></span>
+                    </a></th>
                     <th v-if="!name">Séparation des étudiants</th>
             </thead>
             <tbody>
-                <tr v-for="final in filteredFinals">
-                <!-- <tr v-for="final in finals | filterBy choiceFilter"> -->
+                <tr v-for="final in orderedFilterdFinals">
                     <td>{{ final.id }}</td>
                     <td>{{ final.section }}</td>
-                    <td>{{ final.date }}</td>
+                    <td>{{ final.date | date }}</td>
                     <td>{{ final.class }}</td>
                     <td v-if="!name">
                       <span v-if="final.names">
