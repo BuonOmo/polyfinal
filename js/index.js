@@ -57,8 +57,8 @@ var app = new Vue({
   },
   methods: {
     nameInRange: function(range) {
-      return range == null || range[0].lastname.toUpperCase() < this.name.toUpperCase() &&
-                              range[1].lastname.toUpperCase() > this.name.toUpperCase()
+      return range == null || range[0].lastname.toUpperCase() <= this.name.toUpperCase() &&
+                              range[1].lastname.toUpperCase() >= this.name.toUpperCase()
     },
     save: function() {
       if (this.courseInput) localStorage.setItem(STORAGE_PREFIX+"courseInput", this.courseInput);
