@@ -21,7 +21,9 @@ footer {
 
 #courseInput {
   width: 340px;
-  max-width: 100%; /* for responsive input */
+  /* HACK: next two lines allow nice responsive input */
+  min-width: 100%;
+  max-width: 100%;
 }
 
 .alert {
@@ -38,4 +40,8 @@ footer {
   width: 0;
   margin-right: 20px;
   margin-left: -20px;
+}
+
+a {
+  cursor: pointer;
 }
