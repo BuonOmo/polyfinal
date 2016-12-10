@@ -20,7 +20,8 @@ footer {
 }
 
 #courseInput {
-    min-width: 340px;
+  width: 340px;
+  max-width: 100%; /* for responsive input */
 }
 
 .alert {
