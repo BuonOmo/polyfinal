@@ -32,12 +32,13 @@
             <div class="form-group">
                 <label class="sr-only" for="courseInput">Tes cours</label>
                 <input type="text" class="form-control" id="courseInput" placeholder="Tes cours"
-                       v-model="courseInput" title="Tu peux rentrer plusieurs cours en même temps séparés par une virgule">
+                       v-model="courseInput"
+                       title="Tu peux rentrer plusieurs cours en même temps séparés par une virgule">
             </div>
             <div class="form-group">
               <label class="sr-only" for="nameInput">Ton nom</label>
               <input type="text" class="form-control" id="nameInput" placeholder="Ton nom"
-              v-model="name">
+                     v-model="name" title="Il est recommendé de mettre le nom complet">
             </div>
             <button @click.prevent="save()" class="btn btn-primary">Sauvegarder</button>
             <a :href="ICSurl" download="agenda-finaux.ics">Exporter au format ICS</a>

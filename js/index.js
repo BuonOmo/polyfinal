@@ -35,7 +35,7 @@ var app = new Vue({
     },
     filteredFinals: function () {
       return this.finals.filter(final =>
-        this.choice.some(str => final.id.indexOf(str) == 0) &&(!this.name || this.nameInRange(final.names))
+        this.choice.some(str => final.id.indexOf(str) == 0) &&(!this.name || this.nameInRange(final))
       )
     },
     orderedFilterdFinals: function () {
@@ -56,9 +56,13 @@ var app = new Vue({
     }
   },
   methods: {
-    nameInRange: function(range) {
-      return range == null || range[0].lastname.toUpperCase() <= this.name.toUpperCase() &&
-                              range[1].lastname.toUpperCase() >= this.name.toUpperCase()
+    nameInRange: function(final) {
+      /*
+      First check is there is a room split, then check for name not to exceed lower nor upper bound
+       */
+      return !(final.upperBound || final.lowerBound) ||
+             (final.upperBound && final.upperBound.lastname.toUpperCase() > this.name.toUpperCase()) ||
+             (final.lowerBound && final.lowerBound.lastname.toUpperCase() < this.name.toUpperCase())
     },
     save: function() {
       if (this.courseInput) localStorage.setItem(STORAGE_PREFIX+"courseInput", this.courseInput);
