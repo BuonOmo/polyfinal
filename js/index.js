@@ -11,7 +11,9 @@ const DATE_FORMAT = "D MMMM HH:mm";
 
 
 Vue.filter('date', function (value) {
-  return moment(value).format('LLLL');
+  return moment(value)
+    .utcOffset(-5) // Force Quebec Timezone to avoid strange results
+    .format('LLLL');
 });
 
 var app = new Vue({
