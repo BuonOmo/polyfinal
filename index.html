@@ -54,7 +54,7 @@
                                        'glyphicon-triangle-top': sortString === 'id' && !sortOrder}"
                               class="glyphicon sort"></span>
                       </a></th>
-                      <th><a @click="sortBy = 'name'">
+                      <!-- <th><a @click="sortBy = 'name'">
                         Nom
                         <span :class="{'glyphicon-triangle-bottom': sortString === 'name' && sortOrder,
                                        'glyphicon-triangle-top': sortString === 'name' && !sortOrder}"
@@ -65,34 +65,34 @@
                         <span :class="{'glyphicon-triangle-bottom': sortString === 'section' && sortOrder,
                                        'glyphicon-triangle-top': sortString === 'section' && !sortOrder}"
                               class="glyphicon sort"></span>
-                      </a></th>
+                      </a></th> -->
                       <th><a @click="sortBy = 'date'">
                         Date
                         <span :class="{'glyphicon-triangle-bottom': sortString === 'date' && sortOrder,
                                        'glyphicon-triangle-top': sortString === 'date' && !sortOrder}"
                               class="glyphicon sort"></span>
                       </a></th>
-                      <th><a @click="sortBy = 'class'">
+                      <!-- <th><a @click="sortBy = 'class'">
                         Local
                         <span :class="{'glyphicon-triangle-bottom': sortString === 'class' && sortOrder,
                                        'glyphicon-triangle-top': sortString === 'class' && !sortOrder}"
                               class="glyphicon sort"></span>
                       </a></th>
-                      <th v-if="!name">Séparation des étudiants</th>
+                      <th v-if="!name">Séparation des étudiants</th> -->
               </thead>
               <tbody>
                   <tr v-for="final in orderedFilterdFinals">
                       <td>{{ final.id }}</td>
-                      <td>{{ final.name }}</td>
-                      <td>{{ final.section }}</td>
+                      <!-- <td>{{ final.name }}</td>
+                      <td>{{ final.section }}</td> -->
                       <td>{{ final.date | date }}</td>
-                      <td>{{ final.class }}</td>
+                      <!-- <td>{{ final.class }}</td>
                       <td v-if="!name">
                         <span v-if="final.names">
                           De: {{ final.names[0].lastname }}, {{ final.names[0].firstname }} à
                           {{ final.names[1].lastname }}, {{ final.names[1].firstname }}
                         </span>
-                      </td>
+                      </td> -->
                   </tr>
               </tbody>
           </table>
