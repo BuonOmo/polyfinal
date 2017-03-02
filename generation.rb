@@ -3,7 +3,7 @@ require 'json'
 require 'nokogiri'
 
 @table = Nokogiri::HTML(`curl 'http://www.polymtl.ca/registrariat/cours-et-programmes/horaires-des-examens-finaux-du-trimestre-dautonme-2016'`).at_css('table')
-@year = 2016
+@year = 2017
 @months = {
   "Avril" => 4,
   "Mai" => 5,
