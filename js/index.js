@@ -12,7 +12,7 @@ const DATE_FORMAT = "D MMMM HH:mm";
 
 Vue.filter('date', function (value) {
   return moment(value)
-    .utcOffset(0) // Not puting this here makes some UTC weirdness happen
+    .utcOffset(0) // Not puting this here makes some UTC weirdness to happen
     .format('LLLL');
 });
 
