@@ -12,7 +12,7 @@ const DATE_FORMAT = "D MMMM HH:mm";
 
 Vue.filter('date', function (value) {
   return moment(value)
-    .utcOffset(-5) // Force Quebec Timezone to avoid strange results
+    .utcOffset(0) // Not puting this here makes some UTC weirdness happen
     .format('LLLL');
 });
 
